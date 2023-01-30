@@ -1,0 +1,1001 @@
+ID,ComplainDate,CompletionDate,LastName,FirstName,Gender,BrokerFullName,CommissionScheme,Description_Categories,Region,Description_Status,state,Product,Description_Priorities,Description_Source,Description_Type
+16,2011-12-27,2012-01-26,Ronald,Butler,MALE,"Arthur Garza","Comm-2","IGNORANCE OF EXISTENCE","West","CLOSED",California,"BNM-041","Urgent","Company HQ","Written"
+19,2011-12-27,2012-02-14,Charles,Wallace,MALE,"Roger Rogers","No Commission","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","South","CLOSED",Florida,"MMP-006","Urgent","Company HQ","Written"
+23,2011-12-29,2012-01-12,"Hawthorn ",,,"Antonio Bell","Bonus Based","IGNORANCE OF EXISTENCE","South","CLOSED",Virginia,"CAS-065","Urgent","Company HQ","Written"
+27,2011-12-30,2012-01-13,Paula,Riley,FEMALE,"Kevin Johnson","Comm-2","DISCLAIMER OF A SERVICE ","Midwest","CLOSED",Minnesota,"CAS-015","Urgent","Call Center","Phone"
+30,2012-01-02,2012-01-18,Ralph,Phillips,MALE,"Bobby Andrews","Comm-4","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","Midwest","CLOSED",Missouri,"CAS-022","Urgent","Company HQ","Written"
+33,2012-01-03,2012-01-05,Roger,Castillo,MALE,"Nicholas Carpenter","Comm-2","IGNORANCE OF EXISTENCE","South","CLOSED",Florida,"HOC-048","Urgent","Call Center","Phone"
+34,2012-01-03,2012-01-13,Peter,Stone,MALE,"Martin Day","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Virginia,"CAP-029","Urgent","Bank Branch","In person"
+36,2012-01-04,2012-01-31,Matthew,Snyder,MALE,"Fred Morris","Comm-2","POOR SERVICE","Midwest","CLOSED",Michigan,"CAS-019","Urgent","Company HQ","Written"
+56,2012-01-12,2012-01-30,Mary,Garza,FEMALE,"Ronald Welch","Comm-7","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Florida,"BNM-038","Urgent","Company HQ","Written"
+61,2012-01-13,2012-01-25,Kevin,Morales,MALE,"Keith Kim","No Commission","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Virginia,"MOT-009","Non Urgent","Company HQ","Written"
+62,2012-01-13,2012-01-18,Brian,Castillo,MALE,"Gerald Castillo","Comm-6","PAYMENT POLICY","Midwest","CLOSED",Illinois,"HOC-049","Non Urgent","Bank Branch","Written"
+66,2012-01-16,2012-02-13,Anne,Carr,FEMALE,"Bruce Sanders","Comm-6","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Virginia,"CAS-072","Urgent","Call Center","Email"
+68,2012-01-17,2012-02-01,Dennis,Fuller,MALE,"Kevin Gray","No Commission","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Northeast","CLOSED",Pennsylvania,"CAS-020","Urgent","Company HQ","Court Order"
+79,2012-01-23,2012-01-27,"Caldwell Group",,,"Carl Hayes","Comm-2","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Midwest","CLOSED",Minnesota,"HOC-064","Non Urgent","Bank Branch","Written"
+88,2012-01-27,2012-02-03,Jesse,Mendoza,MALE,"Frank Owens","Comm-7","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",California,"BNM-040","Non Urgent","Company HQ","Written"
+103,2012-01-31,2012-02-02,Emily,Roberts,FEMALE,"Joseph Weaver","Comm-2","TERMS IN PRODUCT USE","South","CLOSED",Florida,"CAS-072","Urgent","Company HQ","Written"
+106,2012-02-01,2012-02-16,Janice,Wallace,FEMALE,"Henry Smith","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"HOC-064","Urgent","Company HQ","Written"
+107,2012-02-01,2012-02-08,Norma,Rivera,FEMALE,"Sean Miller","Bonus Based","SECURITY BUILDING REQUEST, SECURITY RETURN","Midwest","CLOSED",Indiana,"FPT-060","Non Urgent","Bank Branch","Email"
+113,2012-02-03,2012-02-10,Donald,Hawkins,MALE,"Clarence Scott","Comm-2","USE OF OTHER / OTHER EXPENSES","South","CLOSED",Arkansas,"MOT-007","Non Urgent","Company HQ","Written"
+115,2012-02-03,2012-02-17,Keith,Harvey,MALE,"Jesse Green","Comm-8","DO NOT USE A REQUEST","West","CLOSED",Idaho,"BNM-041","Urgent","Partner","Email"
+119,2012-02-06,2012-03-13,Patricia,Johnson,FEMALE,"Henry Burton","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Wisconsin,"MMP-006","Urgent","Bank Branch","Written"
+121,2012-02-06,2012-02-21,Ronald,Knight,MALE,"Philip Murray","Comm-4","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"PNM-003","Non Urgent","Bank HQ","Phone"
+122,2012-02-07,2012-02-28,Carol,Coleman,FEMALE,"Craig Carpenter","Comm-2","DISCLAIMER OF DISMISSAL","Midwest","CLOSED",Illinois,"CAS-018","Urgent","Company HQ","Written"
+146,2012-02-10,2012-02-16,Patrick,Richards,MALE,"Adam Morales","Comm-9","POOR SERVICE","Midwest","CLOSED",Illinois,"BNM-039","Urgent","Company HQ","Phone"
+148,2012-02-13,2012-05-15,Betty,Shaw,FEMALE,"Eugene Holmes","Bonus Based","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",California,"MOT-011","Urgent","Bank Branch","Written"
+150,2012-02-13,2012-03-08,Roger,Mills,MALE,"Ernest Turner","Comm-6","POOR SERVICE","South","CLOSED",Texas,"CAS-019","Urgent","Company HQ","Written"
+159,2012-02-15,2012-04-19,Gregory,Smith,MALE,"David Hunter","Comm-2","POOR SERVICE","West","CLOSED",California,"MMP-006","Non Urgent","Partner","Written"
+161,2012-02-16,2012-03-28,Evelyn,Gilbert,FEMALE,"Brian Hansen","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Massachusetts,"CAP-029","Urgent","Company HQ","Written"
+163,2012-02-17,2012-04-02,Frank,Mason,MALE,"Eugene Sullivan","Comm-5","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED","New Jersey","CAS-072","Urgent","Bank Branch","Written"
+165,2012-02-17,2012-03-08,Timothy,Harper,MALE,"Frank Porter","Bonus Based","POWER FOR PRESENTATION OR WRONG","West","CLOSED",Oregon,"HOC-047","Urgent","Bank Branch","Written"
+166,2012-02-17,2012-03-21,Steven,Kelley,MALE,"Jonathan Bradley","No Commission","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",California,"CAP-028","Urgent","Bank HQ","Email"
+167,2012-02-20,2012-03-19,Sandra,Romero,FEMALE,"Joe Sims","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAS-018","Urgent","Bank Branch","Written"
+168,2012-02-20,2012-03-29,Ralph,Richardson,MALE,"Craig Ford","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAS-014","Urgent","Company HQ","Written"
+169,2012-02-20,2012-03-07,David,Campbell,MALE,"George Davis","Bonus Based","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Northeast","CLOSED",Connecticut,"CAS-067","Non Urgent","Bank HQ","Phone"
+174,2012-02-21,2012-04-20,Jeremy,Nichols,MALE,"Bobby Ross","Comm-2","DISCLAIMER OF DISMISSAL","Midwest","CLOSED",Michigan,"MOT-007","Urgent","Company HQ","Written"
+178,2012-02-23,2012-03-07,Sharon,Stevens,FEMALE,"Jimmy Hughes","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Texas,"BNM-032","Urgent","Company HQ","Written"
+181,2012-02-24,2012-03-26,Jason,Hall,MALE,"Terry Perry","Comm-7","IGNORANCE OF EXISTENCE","Midwest","CLOSED",Illinois,"CAS-019","Non Urgent","Company HQ","Written"
+185,2012-02-28,2012-03-09,Joseph,Boyd,MALE,"Larry Marshall","Comm-6","INDEPENDENT DISMISSAL","South","CLOSED",Florida,"CAP-028","Urgent","Company HQ","Court Order"
+187,2011-07-19,2011-09-22,Earl,Fuller,MALE,"Henry Martinez","Bonus Based","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","Northeast","CLOSED",Connecticut,"CAS-014","Non Urgent","Company HQ","Fax"
+188,2011-09-06,2011-09-16,Randy,Clark,MALE,"Earl King","Comm-7","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Nevada,"BNM-032","Non Urgent","Company HQ","Written"
+194,2011-09-08,2011-10-05,Lawrence,Hill,MALE,"Matthew Rivera","Comm-2","SECURITY BUILDING REQUEST, SECURITY RETURN","Midwest","CLOSED",Minnesota,"BNM-040","Non Urgent","Company HQ","Written"
+197,2011-09-19,2011-09-21,Albert,Palmer,MALE,"Lawrence Flores","Comm-2","NO CONTRACT NOTICE / ON","South","CLOSED",Texas,"CAP-029","Non Urgent","Company HQ","In person"
+200,2011-09-27,2011-10-05,Rachel,Brown,FEMALE,"Earl Jordan","No Commission","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","West","CLOSED",California,"MOT-011","Non Urgent","Bank Branch","In person"
+203,2011-08-26,2011-09-06,Norma,Mendoza,FEMALE,"Harry Ford","Comm-2","SECURITY PUBLISHING CONTRACT","South","CLOSED",Florida,"MOT-008","Non Urgent","Company HQ","Written"
+205,2011-09-29,2011-10-06,Cheryl,Hansen,FEMALE,"Larry Walker","Comm-2","USE OF OTHER / OTHER EXPENSES","South","CLOSED",Florida,"CAS-019","Non Urgent","Bank HQ","Phone"
+206,2011-09-30,2011-10-03,Eugene,Thomas,MALE,"Sean Schmidt","Comm-6","DO NOT USE A REQUEST","West","CLOSED",California,"LBL-044","Non Urgent","Company HQ","Written"
+208,2011-10-04,2011-10-14,Sarah,Garza,FEMALE,"Clarence Romero","Comm-5","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED",Massachusetts,"CAS-066","Non Urgent","Company HQ","Email"
+212,2011-10-13,2011-10-13,Anthony,King,MALE,"John Edwards","Bonus Based","DISCLAIMER OF DISMISSAL","West","CLOSED",California,"CAP-070","Non Urgent","Bank Branch","Phone"
+216,2011-10-24,2011-11-07,Martin,Hill,MALE,"Bobby Walker","Comm-6","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"CAS-019","Non Urgent","Bank HQ","Phone"
+226,2012-03-02,2012-04-02,Philip,Murphy,MALE,"Samuel Green","Comm-4","DIFFERENCES IN PRICE POLITICS","South","CLOSED","North Carolina","BNM-036","Urgent","Company HQ","Court Order"
+227,2011-09-01,2011-09-30,Phyllis,Jones,FEMALE,"Gary Williams","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Utah,"BNM-034","Non Urgent","Company HQ","Written"
+237,2011-11-09,2011-11-11,Kenneth,Turner,MALE,"Jimmy Murphy","Comm-9","USE OF OTHER / OTHER EXPENSES","Midwest","CLOSED",Illinois,"HOC-051","Non Urgent","Bank Branch","Written"
+238,2011-11-09,2011-11-18,Harold,Carpenter,MALE,"Nicholas Hawkins","Comm-7","PAYMENT POLICY","Northeast","CLOSED","New Jersey","HHC-058","Non Urgent","Bank Branch","In person"
+239,2011-11-04,2011-11-11,Ashley,Jackson,FEMALE,"Michael Ferguson","No Commission","POOR SERVICE","South","CLOSED",Florida,"CAP-068","Non Urgent","Call Center","Email"
+246,2011-12-06,2012-01-27,Benjamin,Mitchell,MALE,"Edward Evans","Bonus Based","DISCLAIMER OF DISMISSAL","Northeast","CLOSED","New Jersey","CAS-019","Non Urgent","Company HQ","Written"
+251,2011-12-22,2011-12-27,Mark,Nguyen,MALE,"Carlos Henry","Comm-9","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Virginia,"HOC-052","Non Urgent","Bank Branch","In person"
+262,2012-03-06,2012-03-09,Michelle,Lane,FEMALE,"Jimmy Hughes","Comm-3","DO NOT USE A REQUEST","Midwest","CLOSED",Indiana,"BNM-041","Non Urgent","Bank Branch","In person"
+283,2011-09-19,2011-09-22,Gary,Henry,MALE,"Antonio Freeman","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Massachusetts,"MOT-009","Non Urgent","Bank HQ","Written"
+286,2011-09-20,2011-10-07,Lois,Garza,FEMALE,"Joseph Morrison","Bonus Based","INDEPENDENT DISMISSAL","South","CLOSED",Texas,"HOC-054","Non Urgent","Partner","Written"
+294,2012-03-12,2012-04-24,Robert,Morrison,MALE,"Robert Mason","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"MOT-011","Non Urgent","Company HQ","Written"
+299,2011-09-29,2011-10-13,Juan,Mccoy,MALE,"Larry Castillo","Comm-9","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"BNM-040","Non Urgent","Bank Branch","Written"
+300,2011-09-29,2011-10-06,Frank,Morris,MALE,"Wayne Long","Comm-2","DISCLAIMER OF DISMISSAL","West","CLOSED",Nevada,"MOT-011","Non Urgent","Company HQ","Court Order"
+314,2012-03-13,2012-03-15,Rebecca,Cooper,FEMALE,"Raymond Gordon","Comm-6","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",Montana,"MOT-009","Urgent","Bank Branch","Phone"
+316,2012-03-14,2012-04-06,Sandra,Evans,FEMALE,"Justin Robinson","Comm-3","DISCLAIMER OF DISMISSAL","West","CLOSED",Washington,"HOC-056","Urgent","Company HQ","Court Order"
+317,2012-03-14,2012-04-17,Ronald,Vasquez,MALE,"Victor Chavez","Comm-3","DISCLAIMER OF DISMISSAL","South","CLOSED",Virginia,"PNM-001","Urgent","Company HQ","Written"
+318,2012-03-14,2012-04-09,Dennis,Hunt,MALE,"Brian Davis","Comm-5","NON-MAINTENANCE OF A BANKRUPT","Midwest","CLOSED",Illinois,"MOT-011","Urgent","Intermediary","Written"
+319,2012-03-15,2012-03-29,Peter,Wilson,MALE,"David Fox","Bonus Based","LOW DISCOUNT","West","CLOSED",California,"BNM-034","Non Urgent","Bank HQ","Written"
+322,2012-03-15,2012-03-26,Jeremy,Payne,MALE,"Ralph White","No Commission","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",California,"BNM-031","Non Urgent","Company HQ","Written"
+323,2012-03-15,2012-04-05,Steven,Moore,MALE,"Harry Washington","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"LBL-044","Non Urgent","Company HQ","Written"
+327,2011-10-04,2011-10-12,Patrick,Morrison,MALE,"Albert Freeman","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Georgia,"OOT-061","Non Urgent","Call Center","Fax"
+330,2011-10-04,2011-10-10,Daniel,Hart,MALE,"Christopher Harper","Comm-4","POOR SERVICE","South","CLOSED",Virginia,"LOL-046","Non Urgent","Bank HQ","Phone"
+331,2011-10-05,2011-10-18,Patricia,Alexander,FEMALE,"Fred Gonzalez","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Idaho,"CAS-067","Non Urgent","Bank Branch","Written"
+332,2011-10-06,2011-10-19,Robin,King,FEMALE,"Albert Crawford","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Iowa,"BNM-038","Non Urgent","Company HQ","In person"
+333,2012-03-16,2012-03-26,Walter,Jacobs,MALE,"Douglas Morris","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"LBL-044","Non Urgent","Company HQ","Written"
+335,2012-03-19,2012-03-30,Jeffrey,Moreno,MALE,"Harold Wheeler","Comm-3","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Illinois,"CAS-022","Non Urgent","Call Center","Phone"
+341,2011-07-29,2011-08-06,Kathy,Ford,FEMALE,"Terry Shaw","Comm-7","INSURANCE USE IN ORGANIZATION OF COMPETITIVE LOAN","South","CLOSED",Texas,"BNM-073","Non Urgent","Company HQ","Email"
+343,2011-09-05,2011-09-14,Russell,Ortiz,MALE,"John Martin","No Commission","SECURITY BUILDING REQUEST, SECURITY RETURN","Northeast","CLOSED","New York","BNM-041","Non Urgent","Company HQ","Written"
+344,2012-03-19,2012-04-09,Anna,Morgan,FEMALE,"Thomas Porter","Comm-3","IGNORANCE OF EXISTENCE","West","CLOSED",California,"CAP-026","Non Urgent","Company HQ","Written"
+345,2011-08-31,2011-09-16,Jean,Burns,FEMALE,"Shawn Sanders","Comm-9","DO NOT USE A REQUEST","West","CLOSED",Washington,"PNM-003","Non Urgent","Call Center","Email"
+348,2012-03-19,2012-03-22,Bonnie,Long,FEMALE,"William Thomas","Comm-5","IGNORANCE OF EXISTENCE","Northeast","CLOSED",Pennsylvania,"HOC-052","Non Urgent","Company HQ","Written"
+354,2011-10-06,2011-10-21,Kevin,Castillo,MALE,"Nicholas Carpenter","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"CAS-013","Non Urgent","Bank Branch","In person"
+365,2011-10-14,2011-10-26,Carl,Castillo,MALE,"Gary Franklin","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"HOC-049","Non Urgent","Company HQ","Written"
+370,2011-10-18,2011-10-26,Sarah,Hernandez,FEMALE,"Antonio Bell","Bonus Based","USE OF CANCELED CERTIFICATE CARD","Midwest","CLOSED",Michigan,"HOC-048","Non Urgent","Call Center","Phone"
+374,2011-10-18,2011-11-09,Catherine,Reyes,FEMALE,"Dennis Peterson","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Tennessee,"CAS-076","Non Urgent","Company HQ","Written"
+375,2011-10-18,2011-10-26,Doris,Campbell,FEMALE,"Timothy Ryan","Comm-9","POOR SERVICE","South","CLOSED",Texas,"BNM-039","Non Urgent","Company HQ","Written"
+376,2011-10-14,2011-11-22,"CSL Group",,,"Antonio Mendoza","Comm-4","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Maryland,"BNM-032","Non Urgent","Company HQ","Court Order"
+384,2012-03-21,2012-04-05,Phillip,Scott,MALE,"Matthew Russell","Comm-2","IGNORANCE OF EXISTENCE","West","CLOSED",California,"BNM-038","Non Urgent","Company HQ","Written"
+385,2012-03-21,2012-05-09,Alice,Hansen,FEMALE,"David Hall","Comm-6","LOW DISCOUNT","West","CLOSED",California,"BNM-062","Urgent","Company HQ","Written"
+391,2011-10-21,2011-11-01,Thomas,Martin,MALE,"Victor Cook","Bonus Based","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","New Jersey","CAS-018","Non Urgent","Bank Branch","Fax"
+393,2011-10-24,2011-10-27,Sarah,Powell,FEMALE,"Carl Henderson","Comm-2","POOR SERVICE","South","CLOSED",Texas,"CAP-027","Non Urgent","Bank Branch","In person"
+397,2012-03-21,2012-04-19,Jacqueline,Richards,FEMALE,"David Burns","Comm-8","NO CONTRACT NOTICE / ON","South","CLOSED",Florida,"CAS-020","Non Urgent","Bank Branch","In person"
+400,2011-10-25,2011-11-08,Daniel,Stephens,MALE,"Roy Perez","No Commission","TELEPHONE SCHOOLS","West","CLOSED",California,"CAS-021","Non Urgent","Bank HQ","Phone"
+405,2011-11-01,2011-11-16,Bobby,Hunter,MALE,"Ernest Wright","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"CAS-018","Non Urgent","Company HQ","Written"
+406,2011-11-01,2011-11-15,Benjamin,Meyer,MALE,"Jack Rivera","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"CAP-026","Non Urgent","Company HQ","Written"
+409,2011-11-04,2011-11-17,Janet,Pierce,FEMALE,"Scott Martin","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED","New York","HOC-052","Non Urgent","Bank Branch","Written"
+410,2012-03-22,2012-04-05,Robin,Ruiz,FEMALE,"Larry Castillo","Comm-9","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"HOC-055","Non Urgent","Company HQ","Written"
+419,2011-11-14,2012-01-12,Larry,Garza,MALE,"Chris Kelly","Comm-5","POOR SERVICE","South","CLOSED",Arkansas,"BNM-030","Urgent","Company HQ","Court Order"
+422,2011-11-16,2011-11-18,Juan,Stanley,MALE,"Craig Russell","Comm-9","DO NOT USE A REQUEST","West","CLOSED",California,"BNM-073","Non Urgent","Bank HQ","Phone"
+426,2011-11-17,2011-11-21,Clarence,Olson,MALE,"Henry Arnold","Comm-7","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","New York","HOC-052","Non Urgent","Partner","Email"
+427,2011-11-17,2011-11-24,Joan,Larson,FEMALE,"Martin Griffin","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"HOC-048","Non Urgent","Company HQ","Written"
+437,2011-11-25,2011-12-09,Michelle,Gutierrez,FEMALE,"Howard Sims","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAP-070","Non Urgent","Bank Branch","Written"
+439,2011-10-25,2011-11-09,Sarah,Ford,FEMALE,"Scott Berry","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Texas,"HOC-048","Non Urgent","Bank HQ","Written"
+442,2011-10-26,2011-11-09,Angela,Carter,FEMALE,"Gerald Hansen","Comm-4","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAS-066","Non Urgent","Company HQ","Written"
+443,2011-10-26,2011-11-24,Robert,Ramos,MALE,"Albert Chavez","Comm-2","POOR SERVICE","South","CLOSED",Texas,"CAS-066","Non Urgent","Bank Branch","In person"
+444,2011-10-27,2011-11-02,Alice,Frazier,FEMALE,"Alan Hayes","Comm-6","ACCOMMODATION RECONSTRUCTION","South","CLOSED",Virginia,"HOC-052","Non Urgent","Company HQ","Email"
+445,2011-11-25,2011-12-30,Philip,Williamson,MALE,"Ronald Dean","Comm-4","POOR SERVICE","Midwest","CLOSED",Ohio,"BNM-030","Non Urgent","Bank Branch","Written"
+446,2011-11-25,2011-12-05,Shawn,Bradley,MALE,"Robert Reed","Comm-3","DISCLAIMER OF A SERVICE ","Midwest","CLOSED",Missouri,"LBL-045","Non Urgent","Bank Branch","In person"
+453,2011-12-01,2011-12-27,Jimmy,Hunter,MALE,"Billy Burton","Comm-2","SELF-DETERMINED EXPRESSION OF INSURANCE","South","CLOSED",Tennessee,"HHC-063","Non Urgent","Company HQ","Written"
+455,2011-12-02,2011-12-15,Anthony,Powell,MALE,"Christopher Harper","Comm-4","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Utah,"CAS-066","Non Urgent","Company HQ","Written"
+460,2011-08-29,2011-09-06,Carol,Hanson,FEMALE,"Gregory Perez","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Arkansas,"CAS-017","Non Urgent","Company HQ","In person"
+472,2012-03-26,2012-05-07,Clarence,Young,MALE,"Douglas Morris","Bonus Based","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED",Massachusetts,"CAS-015","Non Urgent","Bank Branch","Written"
+477,2011-12-07,2011-12-13,Howard,Hudson,MALE,"Ronald Lane","Bonus Based","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Illinois,"CAS-072","Non Urgent","Bank Branch","In person"
+482,2011-12-08,2011-12-15,Eric,Sullivan,MALE,"Douglas George","Bonus Based","POOR SERVICE","Midwest","CLOSED",Illinois,"HHC-078","Non Urgent","Company HQ","Written"
+483,2011-12-08,2011-12-22,Debra,Fernandez,FEMALE,"Justin Robinson","Comm-3","POOR SERVICE","Northeast","CLOSED",Pennsylvania,"LBL-043","Non Urgent","Bank Branch","Phone"
+485,2011-12-12,2011-12-21,Jeffrey,Hughes,MALE,"Ernest Fields","Comm-7","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Texas,"CAS-065","Non Urgent","Bank Branch","Written"
+486,2012-03-27,2012-05-18,Joseph,Ferguson,MALE,"Aaron Howard","Bonus Based","UPDATE REQUEST","Midwest","CLOSED",Illinois,"CAP-071","Urgent","Company HQ","Fax"
+487,2011-12-12,2011-12-23,Mark,Robinson,MALE,"Joseph Hunter","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Texas,"OOT-061","Non Urgent","Company HQ","Written"
+498,2011-12-16,2012-01-10,Alice,Medina,FEMALE,"Paul Andrews","Comm-5","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Minnesota,"CAP-027","Non Urgent","Company HQ","Written"
+500,2011-12-16,2012-01-10,Shawn,Fisher,MALE,"Gerald Castillo","Comm-6","IGNORANCE OF EXISTENCE","Midwest","CLOSED",Illinois,"CAP-029","Non Urgent","Company HQ","Written"
+501,2011-12-19,2012-01-17,Phyllis,Davis,FEMALE,"Clarence Wagner","Comm-7","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Florida,"CAS-022","Non Urgent","Company HQ","Written"
+502,2011-12-19,2012-01-05,Mildred,Dean,FEMALE,"Arthur Patterson","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Arkansas,"BNM-032","Non Urgent","Company HQ","Written"
+511,2012-03-28,2012-04-24,Justin,Bishop,MALE,"Steve Reed","Comm-5","DISCLAIMER OF A SERVICE ","West","CLOSED",California,"CAP-026","Non Urgent","Company HQ","Written"
+514,2011-12-13,2012-01-04,John,Marshall,MALE,"Gerald Ray","Bonus Based","POOR SERVICE","West","CLOSED",California,"CAP-026","Non Urgent","CRO","Written"
+518,2012-03-29,2012-05-25,Joyce,Wright,FEMALE,"Russell Burns","Comm-2","SECURITY CONTRACT AGENCY SAINT","Northeast","CLOSED",Connecticut,"CAP-027","Non Urgent","Company HQ","Written"
+519,2011-08-03,2011-08-19,Antonio,Lane,MALE,"Alan Hayes","Comm-6","INDEPENDENT DISMISSAL","South","CLOSED","North Carolina","CAS-012","Non Urgent","Company HQ","Fax"
+520,2011-08-05,2011-09-05,David,Bennett,MALE,"Ronald Murphy","No Commission","IGNORANCE OF EXISTENCE","Midwest","CLOSED",Illinois,"HOC-053","Non Urgent","Bank Branch","Written"
+524,2011-10-17,2011-10-24,Albert,Gilbert,MALE,"Brian Oliver","No Commission","DISCLAIMER OF A SERVICE ","West","CLOSED",California,"OOT-061","Non Urgent","Bank Branch","Written"
+527,2012-03-29,2012-05-10,Elizabeth,Martin,FEMALE,"Randy Shaw","Comm-2","TERMS IN PRODUCT USE","Northeast","CLOSED","New Jersey","CAP-026","Non Urgent","Company HQ","Fax"
+529,2012-03-30,2012-03-30,Nicole,Bowman,FEMALE,"Antonio Lynch","Comm-2","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"MOT-007","Urgent","Company HQ","Email"
+530,2012-04-02,2012-04-20,Roy,Mills,MALE,"Victor Robertson","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED","New Mexico","BNM-036","Non Urgent","Bank Branch","Written"
+533,2011-11-04,2011-11-18,Douglas,Harrison,MALE,"Steven Kelly","Bonus Based","PAYMENT POLICY","West","CLOSED",Colorado,"HOC-050","Non Urgent","Company HQ","Written"
+534,2011-11-04,2011-11-24,Lisa,Lynch,FEMALE,"Antonio Wallace","Comm-6","POOR SERVICE","West","CLOSED",California,"CAS-065","Non Urgent","Bank Branch","Written"
+536,2011-11-07,2011-11-25,Jesse,Nguyen,MALE,"Jack Rivera","Bonus Based","DETERMINATION OR LOSS OF ABSOLUTE REGISTRATIONS","South","CLOSED",Kentucky,"MMP-004","Non Urgent","Bank Branch","Written"
+539,2011-12-06,2011-12-15,Larry,Garza,MALE,"Terry Thomas","Bonus Based","TELEPHONE SCHOOLS","South","CLOSED",Arkansas,"HOC-053","Non Urgent","Bank HQ","Phone"
+544,2011-07-14,2011-09-15,Todd,Stevens,MALE,"Thomas Stanley","Bonus Based","POOR SERVICE","South","CLOSED","North Carolina","HOC-048","Non Urgent","Company HQ","Email"
+546,2011-11-07,2011-11-14,Mildred,Nelson,FEMALE,"Todd Mccoy","Comm-9","PAYMENT POLICY","South","CLOSED",Virginia,"LOL-046","Non Urgent","Bank Branch","Written"
+547,2012-04-02,2012-05-02,Kimberly,Washington,FEMALE,"Thomas Wright","Comm-6","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Texas,"BNM-034","Non Urgent","Company HQ","Written"
+548,2012-04-02,2012-04-12,Donald,Jackson,MALE,"Harry Mason","Comm-2","SECURITY BUILDING REQUEST, SECURITY RETURN","Northeast","CLOSED",Massachusetts,"BNM-030","Non Urgent","Company HQ","Email"
+549,2011-11-14,2011-11-29,Mary,Perkins,FEMALE,"Peter Chapman","Bonus Based","POOR SERVICE","South","CLOSED",Virginia,"LBL-043","Non Urgent","Company HQ","Court Order"
+551,2012-04-02,2012-05-17,Steven,Davis,MALE,"Billy Howell","Comm-7","INDEPENDENT DISMISSAL","Midwest","CLOSED",Nebraska,"BNM-073","Urgent","Company HQ","Court Order"
+553,2012-03-27,2012-04-06,Nicholas,Hart,MALE,"Todd Parker","Comm-5","IGNORANCE OF EXISTENCE","South","CLOSED",Florida,"BNM-035","Non Urgent","Bank HQ","Email"
+554,2012-03-28,2012-04-05,Jeffrey,Bailey,MALE,"Gary Foster","Comm-2","IGNORANCE OF EXISTENCE","South","CLOSED",Tennessee,"MOT-011","Non Urgent","Company HQ","Written"
+555,2012-03-29,2012-04-06,Timothy,Foster,MALE,"Jeffrey Williamson","Comm-6","POOR SERVICE","West","CLOSED",Arizona,"BNM-062","Non Urgent","Company HQ","Written"
+556,2012-04-02,2012-04-30,Michelle,Watson,FEMALE,"Harold Williams","Bonus Based","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",California,"BNM-073","Non Urgent","Company HQ","Fax"
+557,2012-03-29,2012-04-12,Jerry,Andrews,MALE,"Roger Lopez","Comm-2","IGNORANCE OF EXISTENCE","West","CLOSED",California,"HOC-056","Non Urgent","Company HQ","Written"
+573,2012-04-04,2012-05-30,Helen,Ford,FEMALE,"Frank West","No Commission","CONTRACT NOTICE (USE OR FAITH)","West","CLOSED",Colorado,"BNM-073","Non Urgent","Company HQ","Written"
+579,2012-04-04,2012-04-11,Amy,Hanson,FEMALE,"Bobby Ross","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Minnesota,"HOC-049","Non Urgent","Company HQ","Written"
+580,2012-04-04,2012-05-04,Diana,Thompson,FEMALE,"Daniel Stone","Comm-3",FRAUD,"Midwest","CLOSED",Indiana,"HOC-056","Non Urgent","Company HQ","Written"
+581,2012-04-04,2012-05-17,Richard,Rose,MALE,"Steven Kelly","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Alabama,"CAS-077","Urgent","Company HQ","Written"
+582,2012-02-22,2012-04-10,Timothy,Thomas,MALE,"Adam Dunn","Bonus Based","DISCLAIMER OF DISMISSAL","Midwest","CLOSED",Missouri,"HOC-054","Non Urgent","Company HQ","Phone"
+583,2012-03-22,2012-03-29,Samuel,Pierce,MALE,"Albert Taylor","Comm-7","POOR SERVICE","West","CLOSED",California,"BNM-038","Non Urgent","Company HQ","Written"
+588,2012-04-05,2012-04-06,Kathleen,Perez,FEMALE,"Roy Mills","Comm-2","POOR SERVICE","Midwest","CLOSED",Missouri,"BNM-038","Urgent","Company HQ","Email"
+591,2012-04-09,2012-04-27,Brandon,Shaw,MALE,"Gregory Gonzalez","Bonus Based","DISCLAIMER OF DISMISSAL","Midwest","CLOSED",Illinois,"HOC-050","Urgent","Company HQ","Court Order"
+592,2012-04-09,2012-04-20,Gregory,Hansen,MALE,"Craig Ford","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Arizona,"HOC-056","Non Urgent","Company HQ","Written"
+596,2012-04-09,2012-04-30,Arthur,Simmons,MALE,"Raymond Mcdonald","Comm-2","IGNORANCE OF EXISTENCE","Northeast","CLOSED","New Jersey","LBL-044","Non Urgent","Company HQ","Email"
+597,2012-04-09,2012-05-25,Howard,Adams,MALE,"Patrick Hunt","No Commission","PAYMENT POLICY","South","CLOSED","North Carolina","CAS-014","Non Urgent","Company HQ","Fax"
+598,2012-04-09,2012-04-10,Frank,Jones,MALE,"Raymond Nguyen","Comm-8","PAYMENT POLICY","West","CLOSED",California,"PNM-001","Non Urgent","Company HQ","Fax"
+602,2012-04-11,2012-05-10,Antonio,Reid,MALE,"Frank West","No Commission","PAYMENT POLICY","Midwest","CLOSED",Wisconsin,"CAS-067","Non Urgent","Company HQ","Written"
+606,2012-04-19,2012-04-24,Justin,Thomas,MALE,"Justin Ross","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAS-065","Non Urgent","Bank Branch","Written"
+607,2012-04-19,2012-05-28,Tina,Foster,FEMALE,"Clarence Brown","Comm-3","DIFFERENCES IN PRICE POLITICS","West","CLOSED",California,"CAP-029","Non Urgent","Company HQ","Written"
+608,2012-04-19,2012-07-06,Jeffrey,Cole,MALE,"Todd Freeman","Comm-5","POOR SERVICE","South","CLOSED",Florida,"MOT-007","Urgent","Bank Branch","Email"
+618,2012-04-24,2012-06-01,Ashley,Miller,FEMALE,"Paul Bryant","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Nevada,"MOT-011","Urgent","Bank Branch","Written"
+621,2012-04-24,2012-05-04,Maria,Bradley,FEMALE,"Todd Hunter","Comm-2","IGNORANCE OF EXISTENCE","West","CLOSED",Washington,"CAS-019","Non Urgent","Company HQ","Written"
+622,2012-04-24,2012-05-08,Lori,Ward,FEMALE,"Martin Greene","Comm-9","POOR SERVICE","South","CLOSED",Texas,"OOT-061","Urgent","Intermediary","Written"
+626,2012-04-26,2012-05-09,Patrick,Burke,MALE,"Ronald Welch","Comm-7","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",Washington,"CAP-025","Non Urgent","Bank HQ","Email"
+628,2012-04-27,2012-05-07,Todd,Scott,MALE,"David Burns","Comm-8","SELF-DETERMINED EXPRESSION OF INSURANCE","West","CLOSED",California,"BNM-039","Non Urgent","Bank HQ","Phone"
+636,2012-05-02,2012-05-04,Maria,Ross,FEMALE,"Juan Bryant","Bonus Based","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Northeast","CLOSED","New Jersey","HOC-055","Urgent","Call Center","Phone"
+638,2012-05-02,2012-05-17,Martin,Gordon,MALE,"Dennis Washington","No Commission","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Midwest","CLOSED",Indiana,"BMB-042","Urgent","Company HQ","Email"
+641,2012-05-04,2012-06-08,Maria,Hicks,FEMALE,"Ronald Crawford","Comm-2","SECURITY CONTRACT AGENCY SAINT","South","CLOSED","North Carolina","LBL-044","Non Urgent","Company HQ","Email"
+642,2012-05-04,2012-05-07,Frances,Robinson,FEMALE,"Gary Long","No Commission","SELF-DETERMINED EXPRESSION OF INSURANCE","Northeast","CLOSED","New Jersey","CAP-068","Non Urgent","Bank Branch","In person"
+648,2012-05-08,2012-05-09,Sara,Perry,FEMALE,"John Edwards","Bonus Based","POOR SERVICE","Midwest","CLOSED",Indiana,"PNM-001","Non Urgent","Company HQ","Written"
+649,2012-05-09,2012-06-25,Gerald,Perry,MALE,"Paul Moreno","Bonus Based","TELEPHONE SCHOOLS","West","CLOSED",California,"BNM-039","Non Urgent","Company HQ","Phone"
+652,2012-05-10,2012-05-24,Justin,Castillo,MALE,"Albert Lopez","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED","New York","BNM-039","Non Urgent","Company HQ","Written"
+655,2012-05-11,2012-05-16,Russell,Day,MALE,"Ryan Black","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Texas,"CAP-029","Urgent","Bank Branch","In person"
+659,2012-05-25,2012-06-08,Harold,Baker,MALE,"Ralph Alvarez","Comm-2","NO CONTRACT NOTICE / ON","Midwest","CLOSED",Minnesota,"MOT-009","Non Urgent","Call Center","Phone"
+660,2012-05-14,2012-05-17,Nicholas,Rogers,MALE,"Samuel Green","Comm-4","SECURITY BUILDING REQUEST, SECURITY RETURN","Northeast","CLOSED",Pennsylvania,"BMB-042","Non Urgent","Bank Branch","Written"
+667,2012-01-03,2012-01-03,Kevin,Morales,MALE,"Randy Alexander","No Commission","DISCLAIMER OF A SERVICE ","South","CLOSED",Virginia,"MOT-008","Non Urgent","Company HQ","Written"
+669,2012-05-15,2012-06-20,Craig,Hill,MALE,"Raymond Kim","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Pennsylvania,"CAP-071","Non Urgent","Company HQ","Written"
+676,2012-05-09,2012-05-18,Emily,Gibson,FEMALE,"Bobby Garza","Comm-9","TELEPHONE SCHOOLS","West","CLOSED",California,"CAS-018","Non Urgent","Company HQ","Email"
+678,2012-05-17,2012-08-03,Willie,Wright,MALE,"Benjamin Austin","Comm-7","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"MOT-007","Non Urgent","Bank Branch","Court Order"
+682,2012-05-18,2012-07-12,Wanda,Nguyen,FEMALE,"Ryan Wells","Comm-6","IGNORANCE OF EXISTENCE","Midwest","CLOSED",Illinois,"CAS-076","Urgent","Company HQ","Court Order"
+696,2012-05-24,2012-06-01,Jerry,Russell,MALE,"Anthony Collins","Comm-8","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Midwest","CLOSED",Illinois,"MMP-006","Non Urgent","Bank HQ","Phone"
+700,2012-05-25,2012-06-06,Randy,Lynch,MALE,"Earl Meyer","Bonus Based","USE OF OTHER / OTHER EXPENSES","Midwest","CLOSED",Michigan,"MOT-010","Non Urgent","Call Center","Email"
+701,2012-05-25,2012-05-28,Patricia,Adams,FEMALE,"Nicholas Clark","Comm-5","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Oklahoma,"MOT-009","Non Urgent","Call Center","Phone"
+702,2012-05-25,2012-06-12,Bobby,Hawkins,MALE,"Chris Kelly","Comm-5","SECURITY BUILDING REQUEST, SECURITY RETURN","Northeast","CLOSED","New York","LBL-044","Non Urgent","Company HQ","Written"
+708,2012-05-28,2012-06-11,Joan,Nguyen,FEMALE,"Johnny Murray","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Indiana,"MOT-010","Non Urgent","Company HQ","Written"
+717,2012-05-31,2012-06-07,Paula,Flores,FEMALE,"Thomas Wright","Comm-6","SELF-DETERMINED EXPRESSION OF INSURANCE","West","CLOSED",California,"HHC-058","Non Urgent","Bank Branch","Written"
+729,2012-06-06,2012-07-06,Antonio,Evans,MALE,"Walter Cook","Comm-8","SECURITY BUILDING REQUEST, SECURITY RETURN","Midwest","CLOSED",Wisconsin,"BNM-040","Non Urgent","Company HQ","Written"
+730,2012-06-07,2012-06-18,Mark,Hicks,MALE,"David Collins","Comm-6","DIFFERENCES IN PRICE POLITICS","Northeast","CLOSED",Massachusetts,"CAS-018","Non Urgent","Company HQ","Email"
+739,2012-06-14,2012-06-21,Alan,Ramos,MALE,"Charles Castillo","Comm-2","DIFFERENCES IN PRICE POLITICS","Northeast","CLOSED","New York","CAS-065","Non Urgent","Company HQ","Written"
+740,2012-06-14,2012-06-27,Stephen,Sullivan,MALE,"Richard Hart","Comm-7","PAYMENT POLICY","Midwest","CLOSED",Minnesota,"CAP-069","Non Urgent","Company HQ","Written"
+742,2012-06-14,2012-08-01,Michael,Porter,MALE,"Scott Banks","Bonus Based","PAYMENT POLICY","West","CLOSED",Oregon,"MOT-009","Non Urgent","Bank Branch","Written"
+743,2012-06-14,2012-06-25,Judy,West,FEMALE,"Martin Gardner","Comm-7","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","West","CLOSED",California,"CAS-018","Non Urgent","Bank Branch","Written"
+744,2012-06-15,2012-06-29,Jane,Lee,FEMALE,"John Martin","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Minnesota,"PNM-001","Non Urgent","CRO","Written"
+745,2012-06-16,2012-06-20,Mark,Hart,MALE,"James Reid","Bonus Based","PAYMENT POLICY","Northeast","CLOSED",Connecticut,"BNM-073","Non Urgent","Company HQ","Phone"
+746,2012-06-18,2012-07-02,Marilyn,Castillo,FEMALE,"Raymond Wood","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Indiana,"CAS-020","Non Urgent","CRO","Email"
+747,2012-06-18,2012-06-25,Fred,Rose,MALE,"Alan Porter","Comm-2","PAYMENT POLICY","Midwest","CLOSED",Indiana,"CAS-016","Non Urgent","Bank Branch","In person"
+749,2012-06-19,2012-07-02,Jeffrey,Bradley,MALE,"Eugene Garza","Comm-7","DIFFERENCES IN PRICE POLITICS","West","CLOSED",Oregon,"CAP-028","Non Urgent","Bank Branch","In person"
+751,2012-06-19,2012-06-25,Jimmy,Henderson,MALE,"Walter Cook","Comm-8","POOR SERVICE","West","CLOSED",Arizona,"CAP-029","Urgent","Company HQ","In person"
+752,2012-06-19,2012-06-28,Amy,Duncan,FEMALE,"Victor Reid","Bonus Based","PAYMENT POLICY","West","CLOSED",Colorado,"CAP-068","Non Urgent","Bank Branch","In person"
+754,2012-06-20,2012-06-22,Carlos,Hansen,MALE,"Gary Wagner","Bonus Based","IGNORANCE OF EXISTENCE","South","CLOSED",Virginia,"CAS-077","Non Urgent","Bank HQ","Phone"
+769,2012-06-28,2012-07-09,Brandon,Jenkins,MALE,"Gerald Hansen","Comm-4","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Massachusetts,"CAP-070","Non Urgent","Company HQ","Written"
+770,2012-06-29,2012-07-09,Jimmy,Barnes,MALE,"Lawrence Stevens","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"HOC-054","Non Urgent","Company HQ","Written"
+774,2012-07-02,2012-07-18,Janice,Rogers,FEMALE,"Randy Alexander","No Commission","IGNORANCE OF EXISTENCE","South","CLOSED",Florida,"CAS-012","Non Urgent","Company HQ","Written"
+775,2012-07-02,2012-07-13,Victor,Sanchez,MALE,"Louis Gordon","Bonus Based","CONTRACT NOTICE (USE OR FAITH)","South","CLOSED",Florida,"CAP-070","Non Urgent","Company HQ","Written"
+776,2012-07-02,2012-07-13,Jimmy,Stephens,MALE,"Victor Day","No Commission","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"MOT-009","Urgent","Company HQ","Written"
+778,2012-07-02,2012-07-06,Daniel,Hill,MALE,"Martin Carr","No Commission","IGNORANCE OF EXISTENCE","Midwest","CLOSED",Illinois,"BNM-037","Non Urgent","Company HQ","Written"
+780,2012-07-03,2012-07-06,Judy,Hernandez,FEMALE,"Patrick Hansen","Bonus Based","LOW DISCOUNT","Northeast","CLOSED","New York","PNM-001","Urgent","Company HQ","Written"
+781,2012-07-03,2012-07-09,Shawn,Carpenter,MALE,"Peter Wright","Comm-6","DISCLAIMER OF DISMISSAL","South","CLOSED",Alabama,"FPT-060","Non Urgent","Company HQ","Court Order"
+783,2012-07-03,2012-07-26,William,Robertson,MALE,"George Ford","Comm-6","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Washington,"HOC-050","Non Urgent","Tele","Written"
+791,2012-07-09,2012-07-10,Todd,Woods,MALE,"Aaron Howard","Bonus Based","DO NOT USE A REQUEST","South","CLOSED",Maryland,"CAS-012","Non Urgent","CRO","Written"
+794,2012-07-10,2012-07-24,Louise,Tucker,FEMALE,"Jimmy Wheeler","Comm-9","IGNORANCE OF EXISTENCE","Northeast","CLOSED","New Jersey","HHC-057","Non Urgent","Company HQ","Written"
+795,2012-07-10,2012-07-12,Melissa,Cole,FEMALE,"Stephen Welch","Comm-5","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Texas,"HOC-047","Non Urgent","Company HQ","Written"
+796,2012-07-10,2012-08-03,Walter,Boyd,MALE,"Johnny Hudson","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Tennessee,"OOT-061","Non Urgent","Company HQ","Written"
+797,2012-07-10,2012-07-13,Antonio,George,MALE,"Brandon Scott","No Commission","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Michigan,"CAS-072","Non Urgent","Company HQ","Written"
+802,2012-07-16,2012-08-22,Earl,Williams,MALE,"Chris Wheeler","Comm-3","DISCLAIMER OF DISMISSAL","South","CLOSED",Florida,"CAS-072","Non Urgent","CRO","Written"
+805,2012-07-17,2012-08-28,Anna,Hawkins,FEMALE,"Alan Hayes","Comm-6","DISCLAIMER OF A SERVICE ","Northeast","CLOSED","New York","CAS-017","Non Urgent","Company HQ","Email"
+807,2012-07-19,2012-07-20,Christine,Kim,FEMALE,"Jose Morgan","Comm-5","POOR SERVICE","South","CLOSED",Maryland,"PNM-001","Non Urgent","Company HQ","Written"
+812,2012-07-24,2012-07-31,Martin,Franklin,MALE,"Jose Burns","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"BNM-040","Non Urgent","Tele","Written"
+826,2012-06-05,2012-06-13,Angela,Oliver,FEMALE,"Justin Knight","Comm-2","DIFFERENCES IN PRICE POLITICS","South","CLOSED",Florida,"CAP-028","Urgent","Call Center","Fax"
+828,2012-07-27,2012-08-03,Helen,Clark,FEMALE,"Harold Hawkins","Comm-2","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","New York","BNM-032","Non Urgent","Company HQ","Written"
+831,2012-07-27,2012-08-03,Bonnie,Sanchez,FEMALE,"Albert Harvey","Comm-7","POWER FOR PRESENTATION OR WRONG","West","CLOSED",Colorado,"BNM-030","Non Urgent","Company HQ","Court Order"
+832,2012-07-27,2012-08-30,Thomas,Murray,MALE,"Antonio Bell","Bonus Based","PAYMENT POLICY","Midwest","CLOSED",Kansas,"CAS-014","Non Urgent","Bank HQ","Phone"
+833,2012-07-30,2012-08-13,Donna,Mitchell,FEMALE,"Martin Griffin","No Commission","IGNORANCE OF EXISTENCE","Midwest","CLOSED",Minnesota,"LOL-046","Non Urgent","Company HQ","Written"
+836,2012-07-31,2012-07-31,Shirley,Rice,FEMALE,"Louis Garrett","Bonus Based","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Iowa,"PNM-001","Urgent","Call Center","Phone"
+843,2012-08-03,2012-08-16,Joseph,Payne,MALE,"Daniel Stone","Comm-3","DISCLAIMER OF DISMISSAL","Midwest","CLOSED",Michigan,"HOC-056","Non Urgent","Company HQ","Written"
+845,2012-07-30,2012-08-01,Kelly,Richards,FEMALE,"Billy Welch","Bonus Based","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Indiana,"MOT-008","Non Urgent","Company HQ","Written"
+853,2012-08-07,2012-08-20,Adam,Ferguson,MALE,"Alan Ramos","Bonus Based","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Iowa,"HOC-049","Non Urgent","Company HQ","Written"
+857,2012-08-08,2012-09-03,Evelyn,Wheeler,FEMALE,"Terry Andrews","Bonus Based","DETERMINATION OR LOSS OF ABSOLUTE REGISTRATIONS","West","CLOSED",California,"CAP-025","Non Urgent","Tele","Written"
+858,2012-08-08,2012-08-08,Phillip,Pierce,MALE,"John Martin","No Commission","POOR SERVICE","Northeast","CLOSED","New York","HOC-054","Non Urgent","Company HQ","Phone"
+859,2012-08-09,2012-09-12,Julie,Peterson,FEMALE,"Scott Fox","Comm-8","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","New Jersey","HOC-054","Non Urgent","Company HQ","Written"
+862,2012-08-10,2012-08-10,Richard,Price,MALE,"Alan Ramos","Bonus Based",Other,"West","CLOSED",California,"CAS-075","Non Urgent","Company HQ","Written"
+865,2012-08-10,2012-08-30,Ashley,Brooks,FEMALE,"Philip Gonzales","No Commission","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"CAS-066","Non Urgent","Company HQ","In person"
+876,2012-08-06,2012-08-06,Ruby,Olson,FEMALE,"Ralph Wells","Comm-7","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","South","CLOSED",Alabama,"CAP-023","Urgent","Call Center","Fax"
+879,2012-08-21,2012-08-23,Ronald,Garza,MALE,"Jesse Green","Comm-8","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",California,"BNM-032","Non Urgent","Bank HQ","Phone"
+882,2012-06-07,2012-06-11,Angela,Ellis,FEMALE,"Frank West","No Commission","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Northeast","CLOSED","New York","MOT-011","Urgent","Call Center","Email"
+894,2012-08-27,2012-08-27,Tammy,Gibson,FEMALE,"Joseph Brooks","Bonus Based","PAYMENT POLICY","Northeast","CLOSED","New Jersey","BNM-041","Non Urgent","Company HQ","Written"
+897,2012-08-29,2012-09-17,Aaron,Cruz,MALE,"Victor Reid","Bonus Based","DISCLAIMER OF DISMISSAL","South","CLOSED",Texas,"MMP-006","Non Urgent","Company HQ","Written"
+900,2012-08-30,2012-09-26,Evelyn,Little,FEMALE,"Harold George","No Commission","DISCLAIMER OF DISMISSAL","South","CLOSED",Virginia,"HOC-055","Urgent","Company HQ","Written"
+901,2012-08-30,2012-09-24,Lawrence,Garza,MALE,"Larry Dixon","Bonus Based","DISCLAIMER OF DISMISSAL","Midwest","CLOSED",Ohio,"MOT-011","Urgent","Company HQ","Written"
+905,2012-08-31,2012-09-19,Jason,Kelly,MALE,"Albert Garrett","Comm-2","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED",Connecticut,"BNM-037","Non Urgent","Company HQ","In person"
+908,2012-08-29,2012-09-20,John,Ellis,MALE,"Todd Austin","Comm-3","DO NOT USE A REQUEST","Midwest","CLOSED",Kansas,"MMP-006","Non Urgent","Call Center","Fax"
+910,2012-08-29,2012-09-13,Julia,Hughes,FEMALE,"Justin Knight","Comm-2",Other,"South","CLOSED",Louisiana,"CAS-077","Non Urgent","Call Center","Email"
+916,2012-09-04,2012-10-10,Howard,Washington,MALE,"Steven Long","Bonus Based","DIFFERENCES IN PRICE POLITICS","Northeast","CLOSED","New Jersey","BNM-031","Non Urgent","Call Center","Fax"
+925,2012-09-06,2012-09-20,Patricia,Johnson,FEMALE,"Ralph Green","Comm-3","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Wisconsin,"BNM-031","Non Urgent","Call Center","Phone"
+932,2012-09-07,2012-09-17,Richard,Fox,MALE,"David Barnes","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Indiana,"BNM-031","Non Urgent","Company HQ","Written"
+944,2012-09-10,2012-09-25,Steven,Brown,MALE,"Kevin Owens","No Commission","SELF-DETERMINED EXPRESSION OF INSURANCE","West","CLOSED",California,"HOC-055","Urgent","Call Center","Fax"
+945,2012-09-11,2012-09-20,Judith,Crawford,FEMALE,"Gary Webb","Bonus Based","SELF-DETERMINED EXPRESSION OF INSURANCE","South","CLOSED",Mississippi,"BNM-035","Non Urgent","Company HQ","Written"
+950,2012-09-12,2012-09-21,Douglas,Walker,MALE,"Albert Ross","Comm-9","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"BNM-062","Non Urgent","Bank HQ","Written"
+951,2012-09-12,2012-09-26,Martin,Richardson,MALE,"Frank Long","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Pennsylvania,"BNM-039","Non Urgent","CRO","Written"
+953,2012-09-12,2012-09-12,Judith,Wagner,FEMALE,"Matthew Rivera","Comm-2","SECURITY BUILDING REQUEST, SECURITY RETURN","South","CLOSED",Texas,"CAS-018","Non Urgent","Company HQ","Written"
+959,2012-09-11,2012-09-13,Jane,Alvarez,FEMALE,"Todd Dixon","Comm-5",Other,"Midwest","CLOSED",Illinois,"BNM-041","Urgent","Company HQ","Fax"
+961,2012-08-23,2012-08-24,Carl,Kelley,MALE,"Johnny Gonzalez","Bonus Based","POOR SERVICE","South","CLOSED",Texas,"MOT-008","Non Urgent","Call Center","Phone"
+962,2012-09-06,2012-09-20,Philip,Duncan,MALE,"Fred Gilbert","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Connecticut,"CAS-022","Non Urgent","Bank Branch","Court Order"
+967,2012-09-18,2012-09-25,Jacqueline,Murphy,FEMALE,"Jose Russell","Comm-9","POOR SERVICE","South","CLOSED",Texas,"MOT-009","Non Urgent","Intermediary","Email"
+971,2012-09-19,2012-09-25,Joseph,Hudson,MALE,"Craig Carpenter","Comm-2","IGNORANCE OF EXISTENCE","Midwest","CLOSED",Michigan,"CAP-029","Non Urgent","Company HQ","Written"
+975,2012-09-19,2012-10-30,Douglas,Wells,MALE,"Daniel Harris","Comm-2","INDEPENDENT DISMISSAL","Northeast","CLOSED",Connecticut,"HOC-064","Urgent","Company HQ","Court Order"
+980,2012-09-19,2012-10-03,Eric,Lynch,MALE,"Alan Porter","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"BNM-041","Urgent","Company HQ","Fax"
+985,2012-09-20,2012-09-27,Gerald,Fox,MALE,"George Perez","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Kansas,"MOT-007","Non Urgent","Bank HQ","Written"
+989,2012-09-24,2012-10-01,Pamela,Anderson,FEMALE,"Donald Jordan","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"BNM-034","Non Urgent","Company HQ","Email"
+991,2012-09-24,2012-09-24,Helen,Ford,FEMALE,"Gary Wagner","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Colorado,"HHC-063","Urgent","Company HQ","Email"
+992,2012-09-24,2012-10-08,Barbara,Moreno,FEMALE,"Ralph Alvarez","Comm-2","PAYMENT POLICY","West","CLOSED",California,"HHC-057","Non Urgent","Call Center","Fax"
+994,2012-09-25,2012-10-01,Todd,West,MALE,"Raymond Wood","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED","New Jersey","CAS-013","Non Urgent","Tele","Written"
+1005,2012-10-01,2012-10-08,Paul,Hawkins,MALE,"Clarence Scott","Comm-2","DIFFERENCES IN PRICE POLITICS","West","CLOSED",California,"BNM-036","Non Urgent","Call Center","Email"
+1007,2012-09-26,2012-10-17,Willie,West,MALE,"Antonio Morales","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Connecticut,"CAS-015","Urgent","Company HQ","In person"
+1012,2012-10-01,2012-10-12,Susan,Mills,FEMALE,"Samuel Wilson","Comm-7","SECURITY BUILDING REQUEST, SECURITY RETURN","South","CLOSED",Texas,"CAS-019","Non Urgent","Company HQ","Written"
+1017,2012-10-02,2012-10-19,Roger,King,MALE,"Eugene Fowler","Comm-2","SECURITY PUBLISHING CONTRACT","South","CLOSED",Texas,"CAS-065","Non Urgent","Bank Small Business","Written"
+1018,2012-10-02,2012-10-17,Catherine,Clark,FEMALE,"Ralph Hayes","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Wisconsin,"CAS-015","Non Urgent","Company HQ","Email"
+1020,2012-10-02,2012-10-18,Martin,Dean,MALE,"Ronald Perez","Comm-7","TERMS IN PRODUCT USE","South","CLOSED",Florida,"CAP-071","Non Urgent","Company HQ","Written"
+1022,2012-10-02,2012-10-05,Shawn,Rogers,MALE,"Juan Duncan","Comm-5","POOR SERVICE","South","CLOSED",Virginia,"LOL-046","Non Urgent","Company HQ","Written"
+1023,2012-10-03,2012-10-08,Julie,Tucker,FEMALE,"Earl King","Comm-7","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED",Massachusetts,"HOC-056","Non Urgent","Company HQ","Written"
+1032,2012-10-04,2012-10-18,Wayne,Adams,MALE,"Kenneth Clark","Comm-2","DO NOT USE A REQUEST","West","CLOSED",California,"CAS-066","Non Urgent","Company HQ","Written"
+1036,2012-10-05,2012-10-08,Benjamin,Gilbert,MALE,"Juan Richardson","No Commission","USE OF OTHER / OTHER EXPENSES","Midwest","CLOSED",Indiana,"BNM-037","Non Urgent","Company HQ","Phone"
+1046,2012-10-09,2012-10-26,Jeffrey,Cox,MALE,"Andrew Smith","Comm-2","ACCOMMODATION RECONSTRUCTION","South","CLOSED",Texas,"CAS-022","Non Urgent","Company HQ","Written"
+1048,2012-10-11,2012-10-30,Chris,Hunter,MALE,"Harold George","No Commission","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Midwest","CLOSED",Illinois,"MMP-006","Non Urgent","Company HQ","Written"
+1050,2012-10-09,2012-10-15,Benjamin,George,MALE,"Kenneth Morris","Bonus Based","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Virginia,"CAS-012","Urgent","Company HQ","Email"
+1051,2012-10-10,2012-10-17,Roy,Ross,MALE,"Larry Schmidt","No Commission","DISCLAIMER OF A SERVICE ","South","CLOSED","South Carolina","CAS-015","Non Urgent","Company HQ","Email"
+1054,2012-10-10,2012-10-19,Jeremy,Williamson,MALE,"Martin Perry","Comm-4","SECURITY BUILDING REQUEST, SECURITY RETURN","Midwest","CLOSED",Illinois,"HHC-058","Non Urgent","Tele","Email"
+1057,2012-10-11,2012-10-11,Richard,Peters,MALE,"Dennis Peterson","Bonus Based","POOR SERVICE","Northeast","CLOSED","New York","CAS-077","Non Urgent","Company HQ","Email"
+1063,2012-10-15,2012-10-25,Frank,Jones,MALE,"Jonathan Duncan","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"BNM-039","Non Urgent","Bank Branch","In person"
+1064,2012-10-16,2012-10-17,Laura,Andrews,FEMALE,"Henry Arnold","Comm-7","INDEPENDENT DISMISSAL","West","CLOSED",California,"BNM-035","Non Urgent","Company HQ","Written"
+1069,2012-10-17,2012-10-24,Laura,Hanson,FEMALE,"Phillip Lee","Comm-8","SECURITY BUILDING REQUEST, SECURITY RETURN","South","CLOSED","North Carolina","HOC-064","Non Urgent","Bank Branch","Written"
+1070,2012-10-17,2012-10-24,Jesse,Murray,MALE,"Louis Reyes","Comm-9","CONTRACT NOTICE (USE OR FAITH)","Midwest","CLOSED",Illinois,"CAS-022","Non Urgent","Company HQ","Written"
+1076,2012-10-18,2012-11-05,Charles,Clark,MALE,"Gregory Mills","Comm-4","SECURITY BUILDING REQUEST, SECURITY RETURN","Midwest","CLOSED",Illinois,"LBL-045","Non Urgent","Company HQ","Written"
+1086,2012-10-23,2012-10-26,Maria,Reid,FEMALE,"Ryan Dean","Comm-5","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"MOT-007","Non Urgent","Company HQ","Written"
+1101,2012-10-25,2012-11-14,Henry,Hansen,MALE,"Justin Myers","Comm-5","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"CAS-072","Non Urgent","Company HQ","Email"
+1104,2012-10-25,2012-10-30,Bobby,Alvarez,MALE,"Sean Martin","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Ohio,"CAS-012","Non Urgent","Tele","Written"
+1106,2012-10-26,2012-10-30,Joseph,Phillips,MALE,"Jesse Williamson","Comm-2","POOR SERVICE","West","CLOSED",Nevada,"CAS-065","Non Urgent","Company HQ","Email"
+1108,2012-10-26,2012-11-05,Juan,Barnes,MALE,"David Rodriguez","Bonus Based","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",California,"BNM-033","Non Urgent","Company HQ","Written"
+1109,2012-10-26,2012-11-16,Ashley,Torres,FEMALE,"Antonio Wallace","Comm-6","PAYMENT POLICY","South","CLOSED",Florida,"BNM-033","Non Urgent","Bank Branch","In person"
+1111,2012-10-17,2012-10-25,Jennifer,Andrews,FEMALE,"Earl King","Comm-7","DIFFERENCES IN PRICE POLITICS","West","CLOSED",Nevada,"LBL-074","Urgent","Company HQ","In person"
+1113,2012-10-29,2012-11-27,Aaron,Williamson,MALE,"Donald Garcia","Bonus Based","DIFFERENCES IN PRICE POLITICS","South","CLOSED",Alabama,"CAS-018","Non Urgent","Company HQ","Email"
+1130,2012-11-01,2012-11-05,Peter,Boyd,MALE,"Bruce Nichols","No Commission","SECURITY BUILDING REQUEST, SECURITY RETURN","South","CLOSED",Maryland,"CAS-013","Non Urgent","Company HQ","Email"
+1136,2012-10-19,2012-12-10,Juan,Ray,MALE,"Paul Bryant","Comm-2","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Illinois,"LBL-044","Non Urgent","Bank Branch","In person"
+1140,2012-10-24,2012-11-07,Martha,Collins,FEMALE,"Justin Lawson","Comm-2","SECURITY BUILDING REQUEST, SECURITY RETURN","Midwest","CLOSED",Illinois,"BNM-032","Non Urgent","Company HQ","Written"
+1141,2012-10-02,2012-11-06,Frank,Jones,MALE,"Roy Mills","Comm-2","DIFFERENCES IN PRICE POLITICS","West","CLOSED",California,"CAS-018","Non Urgent","Company HQ","Written"
+1143,2012-10-30,2012-11-09,Mildred,Dean,FEMALE,"Earl Stephens","Comm-7","SECURITY BUILDING REQUEST, SECURITY RETURN","South","CLOSED",Arkansas,"PNM-003","Non Urgent","Company HQ","Written"
+1145,2012-10-29,2012-10-29,Emily,Gibson,FEMALE,"Richard Moreno","Comm-4","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",California,"BNM-032","Non Urgent","Company HQ","Written"
+1146,2012-10-22,2012-11-07,Charles,Clark,MALE,"Louis Rivera","Comm-2","SECURITY BUILDING REQUEST, SECURITY RETURN","Midwest","CLOSED",Illinois,"CAP-026","Non Urgent","Company HQ","Written"
+1152,2012-11-05,2012-11-12,Brenda,Hudson,FEMALE,"Ernest Collins","Comm-2","DIFFERENCES IN PRICE POLITICS","Northeast","CLOSED",Massachusetts,"MMP-004","Non Urgent","Company HQ","Written"
+1156,2012-11-06,2012-11-19,Angela,Carter,FEMALE,"Jeremy Wood","Comm-7","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"BNM-037","Non Urgent","Company HQ","Written"
+1164,2012-11-07,2012-11-08,James,Lawson,MALE,"Mark Meyer","Comm-8","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","South","CLOSED",Texas,"HOC-056","Non Urgent","Company HQ","In person"
+1167,2012-11-08,2012-11-21,Albert,Robinson,MALE,"Raymond Moreno","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"BNM-033","Non Urgent","Company HQ","Written"
+1168,2012-11-08,2012-11-08,Gerald,Hansen,MALE,"Peter Chapman","Bonus Based","DIFFERENCES IN PRICE POLITICS","Northeast","CLOSED","New York","HHC-057","Non Urgent","Company HQ","Email"
+1173,2012-11-09,2012-11-13,Sara,Porter,FEMALE,"Eugene Cox","No Commission","SELF-DETERMINED EXPRESSION OF INSURANCE","South","CLOSED",Texas,"CAS-067","Urgent","Call Center","Fax"
+1175,2012-11-09,2012-12-10,Frances,Price,FEMALE,"Gregory Gonzalez","Bonus Based",FRAUD,"West","CLOSED",California,"CAP-071","Urgent","Call Center","Fax"
+1186,2012-11-09,2012-11-19,Martin,Washington,MALE,"Jose Powell","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAP-026","Non Urgent","Company HQ","In person"
+1189,2012-11-12,2012-11-12,Edward,Wilson,MALE,"Thomas Sanders","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Louisiana,"BNM-031","Urgent","Company HQ","In person"
+1193,2012-11-07,2012-11-09,James,Olson,MALE,"Jonathan Wagner","Bonus Based","SELF-DETERMINED EXPRESSION OF INSURANCE","West","CLOSED",California,"PNM-003","Non Urgent","Company HQ","Email"
+1194,2012-11-13,2012-11-20,Katherine,Allen,FEMALE,"Bruce Burns","Comm-3","PAYMENT POLICY","Northeast","CLOSED","New Jersey","BMB-042","Non Urgent","Company HQ","Written"
+1198,2012-11-14,2012-11-20,Jean,Willis,FEMALE,"David Cox","Comm-9","CERTIFICATE OF CONTENTS","Midwest","CLOSED",Indiana,"PNM-002","Non Urgent","Company HQ","Written"
+1200,2012-11-14,2012-11-14,Diana,Hicks,FEMALE,"Jack Wallace","Comm-2","SECURITY BUILDING REQUEST, SECURITY RETURN","South","CLOSED",Virginia,"MMP-005","Urgent","Company HQ","In person"
+1204,2012-11-14,2012-11-19,Joan,Jordan,FEMALE,"David Collins","Comm-6","USE OF PERSONAL DATA","West","CLOSED",California,"CAS-019","Non Urgent","Company HQ","In person"
+1207,2012-11-15,2012-11-15,Robin,Peters,FEMALE,"Willie Sullivan","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED","New Jersey","BNM-040","Urgent","Company HQ","In person"
+1208,2012-10-02,2012-11-15,Benjamin,Hughes,MALE,"Robert Nichols","No Commission","POWER FOR PRESENTATION OR WRONG","West","CLOSED",Idaho,"MOT-007","Non Urgent","Bank Branch","Phone"
+1213,2012-11-15,2012-11-21,Larry,Howard,MALE,"Willie Ortiz","Bonus Based","CONTRACT AUTHORITY CAUSE","Midwest","CLOSED",Minnesota,"CAS-015","Urgent","Company HQ","Written"
+1215,2012-11-15,2012-11-20,Jean,Weaver,FEMALE,"Peter White","Comm-2","DIFFERENCES IN PRICE POLITICS","West","CLOSED",California,"BNM-032","Non Urgent","Company HQ","Written"
+1224,2012-11-19,2012-12-04,Patricia,Stanley,FEMALE,"Roy Harris","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Maryland,"CAS-065","Non Urgent","CRO","Written"
+1225,2012-11-19,2012-11-21,Sharon,Riley,FEMALE,"Justin Lynch","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Texas,"HOC-053","Non Urgent","Bank HQ","Written"
+1228,2012-11-19,2012-11-27,Judith,Cruz,FEMALE,"Joseph Brooks","Bonus Based","REGISTRATION FORM OF REGISTRATION","Midwest","CLOSED",Missouri,"CAS-022","Non Urgent","Company HQ","Written"
+1229,2012-11-19,2012-12-21,Sarah,Fields,FEMALE,"Raymond Sanders","Bonus Based","SECURITY BUILDING REQUEST, SECURITY RETURN","South","CLOSED",Texas,"MOT-009","Non Urgent","Bank Branch","Written"
+1230,2012-11-20,2012-11-21,Wayne,Gonzales,MALE,"Frank West","No Commission","CONTRACT AUTHORITY CAUSE","Northeast","CLOSED",Connecticut,"CAP-025","Urgent","Company HQ","Written"
+1233,2012-11-20,2012-11-22,Harry,Duncan,MALE,"Jeffrey Fisher","Comm-7","PAYMENT POLICY","Midwest","CLOSED",Indiana,"CAS-072","Urgent","Company HQ","Written"
+1237,2012-11-20,2012-12-03,Keith,Reid,MALE,"Jeffrey Murray","Comm-2","PAYMENT POLICY","West","CLOSED",Utah,"HHC-057","Non Urgent","Company HQ","Written"
+1240,2012-11-19,2012-11-22,Judy,George,FEMALE,"David Fox","Bonus Based",FRAUD,"South","CLOSED",Oklahoma,"CAP-025","Urgent","Call Center","Phone"
+1244,2012-11-21,2012-11-23,Lois,Porter,FEMALE,"Richard Hanson","Comm-8","PAYMENT POLICY","South","CLOSED",Florida,"CAS-075","Non Urgent","Intermediary","Email"
+1248,2012-11-21,2012-12-10,Douglas,Powell,MALE,"Roger Lopez","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Texas,"MOT-007","Non Urgent","Tele","Email"
+1250,2012-11-21,2012-11-23,Jacqueline,Warren,FEMALE,"Larry Walker","Comm-2","CERTIFICATE OF CONTENTS","South","CLOSED",Texas,"BNM-041","Non Urgent","Company HQ","Email"
+1251,2012-11-22,2012-12-13,Cynthia,Cruz,FEMALE,"Ralph White","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Ohio,"CAP-026","Urgent","Call Center","Call center"
+1255,2012-11-22,2012-11-22,Willie,Griffin,MALE,"Jerry Dean","Comm-4","DETERMINATION OR LOSS OF ABSOLUTE REGISTRATIONS","South","CLOSED",Oklahoma,"HOC-050","Urgent","Call Center","Call center"
+1258,2012-11-23,2012-12-11,Nancy,Henderson,FEMALE,"Edward Gilbert","Comm-2","APPLICATION REQUEST","West","CLOSED",California,"HOC-048","Non Urgent","Company HQ","Written"
+1266,2012-11-07,2012-11-14,Debra,Fernandez,FEMALE,"Andrew Diaz","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Pennsylvania,"CAP-071","Non Urgent","Company HQ","Written"
+1267,2012-11-12,2012-11-26,Lori,Richards,FEMALE,"Antonio Morales","Comm-2","POOR SERVICE","Midwest","CLOSED",Kansas,"CAP-023","Non Urgent","Company HQ","Email"
+1269,2012-11-07,2012-11-07,Donald,Rogers,MALE,"Robert Fields","Bonus Based","REGISTRATION FORM OF REGISTRATION","Midwest","CLOSED",Wisconsin,"CAS-018","Non Urgent","Bank Branch","Written"
+1270,2012-11-26,2012-11-30,Lawrence,Ward,MALE,"Roger Lopez","Comm-2","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Georgia,"BNM-039","Non Urgent","Company HQ","Phone"
+1271,2012-11-26,2013-01-09,Ashley,Torres,FEMALE,"Juan Richardson","No Commission","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Florida,"PNM-001","Non Urgent","Company HQ","Written"
+1272,2012-11-26,2012-12-07,Annie,Anderson,FEMALE,"Antonio Morales","Comm-2","REGISTRATION FORM OF REGISTRATION","Northeast","CLOSED",Connecticut,"BNM-033","Non Urgent","Company HQ","Written"
+1273,2012-11-19,2012-11-29,David,Lewis,MALE,"Ronald Welch","Comm-7","SECURITY BUILDING REQUEST, SECURITY RETURN","South","CLOSED",Tennessee,"LBL-045","Non Urgent","Company HQ","Written"
+1275,2012-11-27,2012-11-28,Daniel,Hart,MALE,"Scott Clark","Comm-2","PRODUCTION PRODUCT","South","CLOSED",Virginia,"CAP-068","Urgent","Call Center","Call center"
+1280,2012-11-28,2012-12-19,Steven,Brown,MALE,"Eric Morrison","Bonus Based","REGISTRATION FORM OF REGISTRATION","West","CLOSED",California,"HOC-050","Non Urgent","Company HQ","Written"
+1281,2012-11-28,2012-12-14,Jimmy,Hughes,MALE,"Benjamin Sullivan","Comm-7","IGNORANCE OF EXISTENCE","West","CLOSED",Washington,"HHC-078","Non Urgent","Company HQ","Written"
+1287,2012-11-29,2012-12-17,Juan,Henderson,MALE,"Bruce Simmons","Comm-9","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Oklahoma,"FPT-060","Non Urgent","Company HQ","Written"
+1291,2012-11-29,2012-12-12,Henry,Little,MALE,"Jonathan Adams","Comm-8","APPLICATION REQUEST","Midwest","CLOSED",Indiana,"FPT-060","Non Urgent","Company HQ","Written"
+1293,2012-11-29,2012-12-28,Nicole,Nichols,FEMALE,"Christopher Harper","Comm-4","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED","North Carolina","CAS-019","Non Urgent","Company HQ","Written"
+1296,2012-11-30,2012-12-13,Willie,Watkins,MALE,"Sean Montgomery","Comm-2","DO NOT USE A REQUEST","Northeast","CLOSED",Massachusetts,"CAP-023","Non Urgent","Company HQ","Email"
+1299,2012-11-30,2012-12-31,Tammy,Dixon,FEMALE,"Jeffrey Martinez","Bonus Based","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","South","CLOSED",Louisiana,"HOC-047","Non Urgent","Company HQ","Written"
+1303,2012-11-21,2012-11-26,Jessica,West,FEMALE,"Clarence Fox","No Commission","SECURITY PUBLISHING CONTRACT","Midwest","CLOSED","North Dakota","LBL-074","Non Urgent","Company HQ","Phone"
+1309,2012-12-04,2012-12-10,Louise,Long,FEMALE,"Jack Price","Comm-6","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Connecticut,"OOT-061","Non Urgent","Company HQ","Written"
+1310,2012-12-04,2012-12-12,Emily,Gibson,FEMALE,"Kenneth Bradley","Bonus Based","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",California,"HOC-053","Non Urgent","Company HQ","Written"
+1312,2012-12-04,2012-12-04,Albert,Kennedy,MALE,"Justin Reid","Bonus Based","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED","South Dakota","CAS-022","Urgent","Call Center","Call center"
+1313,2012-12-04,2012-12-05,Sarah,Garza,FEMALE,"Alan Alvarez","Comm-2","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Northeast","CLOSED",Massachusetts,"CAP-026","Non Urgent","Company HQ","Phone"
+1314,2012-12-04,2012-12-05,Steven,Williams,MALE,"Kevin Wagner","Bonus Based","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Northeast","CLOSED",Connecticut,"CAP-071","Non Urgent","Company HQ","Phone"
+1322,2012-12-06,2012-12-06,Mildred,Wilson,FEMALE,"Juan Bryant","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED","District of Columbia","BNM-040","Urgent","Call Center","Call center"
+1324,2012-12-06,2012-12-18,Norma,Reed,FEMALE,"Jeffrey Murray","Comm-2","PRODUCTION PRODUCT","Northeast","CLOSED",Connecticut,"CAS-018","Urgent","Call Center","Call center"
+1330,2012-12-06,2012-12-06,Harold,Johnston,MALE,"Charles Jordan","No Commission","POOR SERVICE","Midwest","CLOSED",Michigan,"CAS-014","Non Urgent","Company HQ","Written"
+1331,2012-12-06,2012-12-11,Amy,Mitchell,FEMALE,"Aaron Collins","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"LBL-044","Non Urgent","CRO","Court Order"
+1335,2012-12-07,2012-12-10,Emily,Baker,FEMALE,"Daniel Wagner","Comm-3","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Midwest","CLOSED",Illinois,"MMP-005","Non Urgent","Company HQ","Phone"
+1336,2012-12-10,2012-12-20,Phyllis,Edwards,FEMALE,"Paul Meyer","Comm-2","PAYMENT POLICY","Midwest","CLOSED",Illinois,"CAP-071","Non Urgent","Company HQ","Written"
+1340,2012-12-10,2012-12-18,Charles,Rogers,MALE,"Earl Meyer","Bonus Based","SECURITY BUILDING REQUEST, SECURITY RETURN","Northeast","CLOSED",Massachusetts,"CAS-065","Non Urgent","Company HQ","Written"
+1341,2012-12-10,2013-01-21,Jeremy,Ellis,MALE,"Dennis Washington","No Commission","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Florida,"MOT-007","Urgent","Call Center","Call center"
+1342,2012-12-10,2012-12-13,Howard,Daniels,MALE,"Jose Russell","Comm-9","SECURITY BUILDING REQUEST, SECURITY RETURN","Midwest","CLOSED",Illinois,"FPT-060","Non Urgent","Company HQ","Written"
+1359,2012-12-13,2013-01-23,Clarence,Medina,MALE,"Alan Owens","Comm-4","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","Midwest","CLOSED",Indiana,"CAS-012","Urgent","Call Center","Call center"
+1361,2012-12-13,2012-12-20,Barbara,Moreno,FEMALE,"Lawrence Howell","Comm-7","REGISTRATION FORM OF REGISTRATION","West","CLOSED",California,"CAS-013","Non Urgent","Company HQ","Written"
+1362,2012-12-13,2012-12-20,Louis,Hamilton,MALE,"Clarence Fox","No Commission","REGISTRATION FORM OF REGISTRATION","Midwest","CLOSED",Indiana,"CAS-019","Non Urgent","Company HQ","Written"
+1366,2012-12-14,2012-12-20,Michelle,Shaw,FEMALE,"Jeffrey Williamson","Comm-6","DIFFERENCES IN PRICE POLITICS","Northeast","CLOSED",Maine,"BNM-038","Non Urgent","Company HQ","Email"
+1377,2012-12-19,2013-01-25,Gary,Castillo,MALE,"Scott Burns","Comm-7","POOR SERVICE","Midwest","CLOSED",Illinois,"CAS-016","Non Urgent","Company HQ","Fax"
+1378,2012-12-20,2013-01-08,Martin,Simpson,MALE,"Eugene Fowler","Comm-2","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",California,"CAP-028","Non Urgent","Company HQ","Written"
+1379,2012-12-20,2013-01-23,Keith,Austin,MALE,"Sean Russell","Comm-2","SECURITY BUILDING REQUEST, SECURITY RETURN","South","CLOSED",Florida,"CAS-066","Non Urgent","Company HQ","Fax"
+1380,2012-12-20,2013-01-04,Bonnie,Rose,FEMALE,"Keith Mcdonald","Comm-2","SECURITY BUILDING REQUEST, SECURITY RETURN","Midwest","CLOSED",Kansas,"BNM-033","Urgent","Call Center","Call center"
+1401,2012-12-28,2013-01-10,Shawn,Green,MALE,"Dennis Montgomery","No Commission","TERMS IN PRODUCT USE","South","CLOSED",Florida,"HOC-049","Non Urgent","Company HQ","Email"
+1406,2012-12-28,2012-12-28,Mark,Sullivan,MALE,"Stephen Duncan","No Commission","SECURITY BUILDING REQUEST, SECURITY RETURN","Northeast","CLOSED",Pennsylvania,"CAP-069","Urgent","Call Center","Call center"
+1409,2013-01-02,2013-01-18,Margaret,Ray,FEMALE,"Craig Carpenter","Comm-2","REGISTRATION FORM OF REGISTRATION","Midwest","CLOSED",Michigan,"CAS-012","Non Urgent","Company HQ","Fax"
+1411,2013-01-02,2013-01-10,Todd,Patterson,MALE,"Alan Howard","Comm-3","IGNORANCE OF EXISTENCE","West","CLOSED",Colorado,"CAP-068","Non Urgent","Company HQ","In person"
+1413,2013-01-02,2013-01-22,Robin,Fuller,FEMALE,"Adam Stevens","Comm-2","DISCLAIMER OF DISMISSAL","West","CLOSED",California,"HHC-063","Non Urgent","Company HQ","Written"
+1422,2013-01-04,2013-02-21,Tammy,Black,FEMALE,"Antonio Sullivan","Bonus Based","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",California,"HOC-052","Non Urgent","Company HQ","Written"
+1423,2013-01-03,2013-01-09,Nancy,Miller,FEMALE,"Fred Campbell","Comm-4","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","Rhode Island","BNM-038","Non Urgent","CRO","Phone"
+1426,2013-01-04,2013-01-17,Jennifer,Elliott,FEMALE,"Peter Reynolds","Comm-2","SECURITY PUBLISHING CONTRACT","Midwest","CLOSED",Illinois,"CAP-023","Non Urgent","CRO","Email"
+1432,2013-01-07,2013-01-22,Theresa,Wheeler,FEMALE,"Samuel Green","Comm-4","POOR SERVICE","South","CLOSED",Florida,"CAS-022","Non Urgent","Company HQ","Email"
+1443,2013-01-08,2013-01-15,Phyllis,Adams,FEMALE,"Charles Payne","Comm-2","TELEPHONE SCHOOLS","South","CLOSED",Maryland,"BNM-041","Non Urgent","CRO","Written"
+1450,2013-01-08,2013-03-06,Larry,Little,MALE,"Joe Sims","Comm-3","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Georgia,"CAP-025","Non Urgent","Company HQ","Fax"
+1451,2013-01-08,2013-01-16,Robert,Ellis,MALE,"Bruce Edwards","No Commission","TELEPHONE SCHOOLS","Northeast","CLOSED","New Jersey","LBL-074","Urgent","Call Center","Call center"
+1460,2013-01-10,2013-01-10,Chris,Sullivan,MALE,"Peter Burns","Comm-9","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","South","CLOSED",Tennessee,"LBL-074","Urgent","Call Center","Call center"
+1461,2013-01-10,2013-01-10,Angela,Smith,FEMALE,"Aaron Howard","Bonus Based","SECURITY PUBLISHING CONTRACT","Northeast","CLOSED",Pennsylvania,"CAP-071","Non Urgent","Company HQ","Fax"
+1468,2013-01-10,2013-02-21,Kimberly,Watkins,FEMALE,"Philip Gonzales","No Commission","REGISTRATION FORM OF REGISTRATION","West","CLOSED",California,"HOC-052","Non Urgent","Company HQ","Fax"
+1473,2013-01-11,2013-01-28,Robert,Butler,MALE,"Randy Payne","Comm-2","DISCLAIMER OF DISMISSAL","Midwest","CLOSED",Ohio,"MOT-008","Non Urgent","CRO","Written"
+1479,2013-01-03,2013-01-29,Bonnie,Day,FEMALE,"Harold Wheeler","Comm-3","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"BMB-042","Non Urgent","Company HQ","Written"
+1481,2013-01-14,2013-01-16,Roy,Lewis,MALE,"Ryan Gardner","No Commission","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","South","CLOSED",Arkansas,"CAS-077","Non Urgent","CRO","In person"
+1483,2013-01-14,2013-01-21,"CSL Group",,,"Robert Fields","Bonus Based","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","South","CLOSED",Maryland,"CAP-024","Non Urgent","CRO","Email"
+1490,2013-01-15,2013-02-21,Carl,Reynolds,MALE,"Larry Marshall","Comm-6","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Colorado,"HOC-049","Non Urgent","Company HQ","Written"
+1492,2013-01-15,2013-01-29,Emily,Gibson,FEMALE,"Alan Howard","Comm-3","SECURITY PUBLISHING CONTRACT","West","CLOSED",California,"BNM-040","Non Urgent","Company HQ","Fax"
+1494,2013-01-15,2013-02-14,Marie,Nichols,FEMALE,"Alan Porter","Comm-2","DISCLAIMER OF A SERVICE ","South","CLOSED",Texas,"CAP-023","Non Urgent","Company HQ","Email"
+1500,2013-01-16,2013-02-14,Sarah,Schmidt,FEMALE,"Clarence Romero","Comm-5","REGISTRATION FORM OF REGISTRATION","West","CLOSED",California,"BNM-041","Non Urgent","Company HQ","Fax"
+1505,2013-01-16,2013-02-07,Aaron,Burns,MALE,"Jeffrey Fisher","Comm-7","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",California,"HOC-054","Urgent","Company HQ","Fax"
+1506,2013-01-03,2013-02-01,Shawn,Barnes,MALE,"Henry Nelson","No Commission","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",California,"MOT-008","Non Urgent","Company HQ","Fax"
+1518,2013-01-17,2013-03-06,Matthew,Wheeler,MALE,"Carl Brown","No Commission","REGISTRATION FORM OF REGISTRATION","Midwest","CLOSED",Iowa,"CAS-022","Non Urgent","Company HQ","Written"
+1520,2013-01-17,2013-03-06,Cynthia,Sims,FEMALE,"Joseph Fox","No Commission","IGNORANCE OF EXISTENCE","Northeast","CLOSED",Pennsylvania,"CAP-071","Non Urgent","Company HQ","Written"
+1529,2013-01-18,2013-02-08,Kevin,Owens,MALE,"Harry Ford","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"HHC-063","Urgent","Company HQ","Written"
+1538,2013-01-21,2013-02-07,Martin,Washington,MALE,"George Perez","Comm-2","REGISTRATION FORM OF REGISTRATION","West","CLOSED",California,"CAP-027","Non Urgent","Company HQ","Email"
+1549,2013-01-23,2013-02-01,Jimmy,Burton,MALE,"Fred Riley","Comm-4","REGISTRATION FORM OF REGISTRATION","Midwest","CLOSED",Indiana,"BNM-040","Non Urgent","Company HQ","Written"
+1551,2013-01-23,2013-02-13,Victor,Simpson,MALE,"Thomas Howard","Comm-8","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Kansas,"HOC-048","Non Urgent","CRO","Written"
+1555,2013-01-24,2013-02-04,Eugene,Hansen,MALE,"Earl Powell","Comm-2",FRAUD,"Midwest","CLOSED",Michigan,"CAP-028","Urgent","Company HQ","Fax"
+1556,2013-01-24,2013-04-01,Tammy,Dixon,FEMALE,"Frank West","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Louisiana,"CAS-072","Non Urgent","Company HQ","Fax"
+1565,2013-01-25,2013-02-05,Sara,Black,FEMALE,"James Phillips","Bonus Based","REGISTRATION FORM OF REGISTRATION","West","CLOSED",California,"BNM-073","Non Urgent","Company HQ","Written"
+1568,2013-01-25,2013-02-06,Matthew,Snyder,MALE,"Joseph Brooks","Bonus Based","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Michigan,"CAP-029","Urgent","Call Center","Call center"
+1570,2013-01-28,2013-01-31,Antonio,Davis,MALE,"Carlos Lawrence","Comm-8","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Midwest","CLOSED",Indiana,"MOT-011","Non Urgent","CRO","In person"
+1573,2013-01-28,2013-02-05,Jeremy,Hart,MALE,"Eric Collins","Comm-4","ACCOMMODATION RECONSTRUCTION","South","CLOSED",Georgia,"HOC-055","Urgent","Call Center","Call center"
+1578,2013-01-28,2013-02-22,Kelly,Jones,FEMALE,"Douglas Ramirez","Comm-4","SELF-DETERMINED EXPRESSION OF INSURANCE","Northeast","CLOSED",Connecticut,"OOT-061","Urgent","Company HQ","Written"
+1583,2013-01-29,2013-03-28,Kathryn,Russell,FEMALE,"Gary Franklin","No Commission","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",California,"BNM-032","Non Urgent","Company HQ","Written"
+1585,2013-01-30,2013-03-29,Cheryl,Ford,FEMALE,"Richard Hart","Comm-7","CONTRACT AUTHORITY CAUSE","South","CLOSED",Texas,"CAP-025","Non Urgent","Company HQ","Email"
+1597,2013-01-31,2013-03-08,Rebecca,Spencer,FEMALE,"David Cox","Comm-9","SECURITY PUBLISHING CONTRACT","Northeast","CLOSED","New Hampshire","BNM-033","Non Urgent","Company HQ","Fax"
+1601,2013-01-31,2013-02-06,Earl,Baker,MALE,"Raymond Kim","Comm-2","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"CAS-012","Non Urgent","CRO","Phone"
+1612,2013-02-04,2013-03-29,Susan,George,FEMALE,"Victor Myers","Comm-9","ACCOMMODATION RECONSTRUCTION","Midwest","CLOSED",Indiana,"MMP-005","Non Urgent","Company HQ","Written"
+1617,2013-02-05,2013-02-06,Wayne,Hart,MALE,"Nicholas Gomez","Comm-8","SECURITY PUBLISHING CONTRACT","West","CLOSED",California,"MMP-005","Urgent","Call Center","Call center"
+1620,2013-02-06,2013-02-22,Denise,Butler,FEMALE,"Eric Nguyen","Comm-2","REGISTRATION FORM OF REGISTRATION","Midwest","CLOSED",Indiana,"HOC-047","Non Urgent","Company HQ","Written"
+1622,2013-02-06,2013-02-22,Brian,Jacobs,MALE,"Ryan Gardner","No Commission","POWER FOR PRESENTATION OR WRONG","West","CLOSED",Washington,"CAS-016","Non Urgent","Company HQ","Email"
+1623,2013-02-06,2013-02-06,George,Carr,MALE,"Jose Morgan","Comm-5","REGISTRATION FORM OF REGISTRATION","Northeast","CLOSED","New York","CAS-072","Non Urgent","Company HQ","Written"
+1624,2013-02-06,2013-03-29,Carolyn,Diaz,FEMALE,"Joseph Fox","No Commission","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Texas,"CAS-017","Non Urgent","Company HQ","Written"
+1626,2013-02-06,2013-04-15,Jennifer,Weaver,FEMALE,"Joseph Medina","Comm-4","PAYMENT POLICY","South","CLOSED",Texas,"CAS-018","Non Urgent","Company HQ","Fax"
+1634,2013-02-07,2013-02-18,Earl,Hernandez,MALE,"Craig Carpenter","Comm-2","PAYMENT POLICY","South","CLOSED",Florida,"CAS-019","Urgent","Call Center","Call center"
+1637,2013-02-07,2013-03-06,Daniel,Watson,MALE,"Ralph Hall","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"CAS-067","Non Urgent","Company HQ","Written"
+1640,2013-02-07,2013-02-21,Anthony,Knight,MALE,"Jimmy Duncan","Comm-2","REGISTRATION FORM OF REGISTRATION","South","CLOSED","South Carolina","CAS-020","Non Urgent","Company HQ","Fax"
+1643,2013-02-07,2013-02-07,Cheryl,Garcia,FEMALE,"Peter Mendoza","Comm-2","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Midwest","CLOSED",Iowa,"OOT-061","Non Urgent","Company HQ","Written"
+1645,2013-02-07,2013-02-07,Beverly,Hunt,FEMALE,"Joseph Fox","No Commission","SECURITY PUBLISHING CONTRACT","Northeast","CLOSED","New York","CAP-027","Urgent","Call Center","Call center"
+1654,2013-02-08,2013-04-16,Andrew,Warren,MALE,"Robert Reed","Comm-3","REGISTRATION FORM OF REGISTRATION","West","CLOSED",Arizona,"HOC-048","Non Urgent","Company HQ","Written"
+1660,2013-02-11,2013-03-12,Juan,Sanders,MALE,"Eugene Sullivan","Comm-5","SECURITY PUBLISHING CONTRACT","West","CLOSED",Utah,"CAS-017","Non Urgent","Company HQ","Written"
+1668,2013-02-12,2013-04-08,Raymond,Rivera,MALE,"Peter Wright","Comm-6","DIFFERENCES IN PRICE POLITICS","West","CLOSED",California,"CAP-023","Non Urgent","Company HQ","Email"
+1670,2013-02-12,2013-02-15,Bobby,Cruz,MALE,"Gerald Ray","Bonus Based","PAYMENT POLICY","Northeast","CLOSED","New Jersey","OOT-061","Non Urgent","CRO","Phone"
+1675,2013-02-06,2013-02-13,Kenneth,Harper,MALE,"Larry Castillo","Comm-9","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","West","CLOSED",California,"CAP-069","Non Urgent","Bank Branch","In person"
+1677,2013-02-13,2013-02-21,Dennis,Hill,MALE,"Douglas Ramirez","Comm-4","PAYMENT POLICY","South","CLOSED",Florida,"BNM-033","Urgent","CRO","Written"
+1681,2013-02-13,2013-02-15,Irene,Armstrong,FEMALE,"Bruce Nichols","No Commission","INDEPENDENT DISMISSAL","South","CLOSED",Virginia,"BMB-042","Non Urgent","Company HQ","Written"
+1685,2013-02-12,2013-04-15,Edward,Taylor,MALE,"Jesse Walker","Comm-4","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Virginia,"CAS-020","Non Urgent","Company HQ","Fax"
+1686,2013-02-14,2013-03-08,Elizabeth,Diaz,FEMALE,"Scott Berry","Comm-2","INDEPENDENT DISMISSAL","Midwest","CLOSED",Indiana,"CAP-024","Non Urgent","Company HQ","Fax"
+1688,2013-02-14,2013-02-14,Diana,Myers,FEMALE,"Robert Rodriguez","Bonus Based","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"MOT-008","Non Urgent","Tele","Written"
+1694,2013-02-14,2013-02-19,Irene,Stanley,FEMALE,"Jose Mccoy","Bonus Based","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","South","CLOSED",Texas,"CAS-020","Non Urgent","Company HQ","Call center"
+1700,2013-02-15,2013-03-29,Michael,Garcia,MALE,"Philip Gonzales","No Commission","APPLICATION REQUEST","South","CLOSED","North Carolina","LBL-074","Non Urgent","Company HQ","Written"
+1712,2013-02-19,2013-04-17,Todd,Sullivan,MALE,"Douglas Jordan","Bonus Based","REGISTRATION FORM OF REGISTRATION","Northeast","CLOSED","New Jersey","MMP-005","Non Urgent","Company HQ","Fax"
+1715,2013-02-19,2013-03-07,Theresa,Morrison,FEMALE,"Harold George","No Commission","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"BNM-062","Non Urgent","Company HQ","Fax"
+1717,2013-02-20,2013-02-28,Sean,Stone,MALE,"Terry Shaw","Comm-7","POOR SERVICE","South","CLOSED",Florida,"BNM-032","Non Urgent","Company HQ","Written"
+1719,2013-02-20,2013-04-10,Thomas,Taylor,MALE,"Jason Vasquez","No Commission","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",Oregon,"CAS-014","Non Urgent","Company HQ","Fax"
+1728,2013-02-21,2013-03-08,Jean,Richards,FEMALE,"Michael Watkins","Comm-7","PAYMENT POLICY","Northeast","CLOSED",Massachusetts,"BNM-062","Non Urgent","CRO","In person"
+1737,2013-02-22,2013-03-11,Joan,Simmons,FEMALE,"Larry Myers","Comm-3","DISCLAIMER OF DISMISSAL","West","CLOSED",California,"LBL-044","Non Urgent","Company HQ","Fax"
+1739,2013-02-22,2013-03-04,Robin,Young,FEMALE,"Randy Alexander","No Commission","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Midwest","CLOSED",Minnesota,"HOC-053","Non Urgent","CRO","Email"
+1741,2013-02-25,2013-02-25,Marie,Hunter,FEMALE,"Andrew Rodriguez","Comm-2","CONTRACT-MAINTENANCE DEVELOPMENT","South","CLOSED",Florida,"PNM-002","Non Urgent","CRO","In person"
+1743,2013-02-25,2013-05-09,Ruby,Olson,FEMALE,"Aaron Collins","Bonus Based","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Alabama,"BMB-042","Non Urgent","Company HQ","Email"
+1745,2013-02-26,2013-04-22,Pamela,Meyer,FEMALE,"Ryan Black","Comm-2","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Texas,"MMP-006","Non Urgent","Company HQ","Fax"
+1761,2013-02-27,2013-03-06,Mildred,Griffin,FEMALE,"Charles Nguyen","Comm-7","SECURITY PUBLISHING CONTRACT","West","CLOSED",Utah,"CAS-066","Non Urgent","Company HQ","Fax"
+1763,2013-02-28,2013-03-28,Dennis,Watkins,MALE,"Eric Richards","Comm-8","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Wisconsin,"CAS-076","Non Urgent","CRO","Written"
+1768,2013-02-28,2013-03-19,Lillian,Vasquez,FEMALE,"Randy Rodriguez","Comm-7","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED","New York","BNM-073","Urgent","Company HQ","Written"
+1779,2013-03-04,2013-03-04,Todd,Murphy,MALE,"Gerald Castillo","Comm-6","DETERMINATION OR LOSS OF ABSOLUTE REGISTRATIONS","Midwest","CLOSED",Illinois,"HOC-054","Non Urgent","Company HQ","Fax"
+1785,2013-03-05,2013-03-29,Benjamin,Jacobs,MALE,"Robert Nichols","No Commission","PRODUCTION PRODUCT","West","CLOSED",Washington,"CAS-016","Non Urgent","CRO","Written"
+1797,2013-03-05,2013-05-30,Ruth,Jackson,FEMALE,"Samuel Lewis","Bonus Based","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Florida,"CAS-018","Non Urgent","Company HQ","Fax"
+1799,2013-03-06,2013-04-15,Adam,Ferguson,MALE,"Scott Banks","Bonus Based","PRODUCTION PRODUCT","Midwest","CLOSED",Iowa,"HOC-049","Non Urgent","CRO","In person"
+1802,2013-03-06,2013-03-13,Patricia,Peters,FEMALE,"Ryan Welch","Comm-9","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"HOC-048","Non Urgent","Bank Branch","In person"
+1805,2013-03-07,2013-03-07,Angela,Ellis,FEMALE,"George Henderson","No Commission","PAYMENT POLICY","Northeast","CLOSED","New York","HHC-063","Non Urgent","CRO","Written"
+1806,2013-03-07,2013-03-29,Jonathan,Hicks,MALE,"Donald Jordan","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Texas,"CAP-029","Non Urgent","Company HQ","Fax"
+1808,2013-03-07,2013-03-18,Barbara,Sanchez,FEMALE,"Walter Lawrence","Comm-5","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Indiana,"HOC-052","Non Urgent","Company HQ","Fax"
+1812,2013-03-08,2013-03-08,Mark,Sullivan,MALE,"Aaron Turner","Comm-4","REGISTRATION FORM OF REGISTRATION","Northeast","CLOSED",Pennsylvania,"HOC-064","Non Urgent","Company HQ","Fax"
+1815,2013-03-28,2013-05-29,Steve,Richards,MALE,"Christopher Greene","Comm-2","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Louisiana,"BNM-062","Non Urgent","CRO","Email"
+1816,2013-03-11,2013-04-11,Eugene,Jones,MALE,"Eugene Clark","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"LOL-046","Non Urgent","CRO","Written"
+1847,2013-03-14,2013-05-22,Andrew,Allen,MALE,"Keith Jacobs","Comm-2","REGISTRATION FORM OF REGISTRATION","Northeast","CLOSED",Massachusetts,"HOC-064","Non Urgent","Company HQ","Fax"
+1855,2013-03-19,2013-03-26,Martha,Collins,FEMALE,"Lawrence Palmer","Comm-2","IGNORANCE OF EXISTENCE","Midwest","CLOSED",Illinois,"CAP-024","Non Urgent","CRO","In person"
+1858,2013-03-20,2013-05-29,Janet,Ruiz,FEMALE,"Ryan Butler","Comm-9","SECURITY BUILDING REQUEST, SECURITY RETURN","Northeast","CLOSED","New York","MOT-007","Non Urgent","Company HQ","Fax"
+1859,2013-03-20,2013-03-22,Annie,Robertson,FEMALE,"Brian Hansen","Comm-2","APPLICATION REQUEST","West","CLOSED",California,"MOT-008","Urgent","Company HQ","Fax"
+1860,2013-03-20,2013-05-29,Stephanie,Cole,FEMALE,"Arthur Rogers","Comm-4","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Maryland,"MOT-010","Non Urgent","Company HQ","Phone"
+1863,2013-03-20,2013-04-05,Billy,Black,MALE,"Nicholas Carpenter","Comm-2","POWER FOR PRESENTATION OR WRONG","West","CLOSED",Arizona,"CAS-014","Non Urgent","CRO","In person"
+1865,2013-03-20,2013-05-10,Virginia,Chavez,FEMALE,"Michael Meyer","Bonus Based","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",Utah,"BNM-037","Non Urgent","Company HQ","Fax"
+1871,2013-03-22,2013-04-05,Kathy,Ford,FEMALE,"Kenneth Bradley","Bonus Based","POOR SERVICE","South","CLOSED",Texas,"CAP-070","Non Urgent","Company HQ","Email"
+1874,2013-03-22,2013-03-22,Robin,Peters,FEMALE,"Matthew Young","Comm-9","DIFFERENCES IN PRICE POLITICS","Northeast","CLOSED","New Jersey","CAP-028","Urgent","Call Center","Call center"
+1878,2013-03-22,2013-04-30,Samuel,Oliver,MALE,"Howard Berry","Comm-2","SECURITY PUBLISHING CONTRACT","Northeast","CLOSED","New York","BNM-062","Non Urgent","Company HQ","Written"
+1882,2013-03-22,2013-03-22,Gerald,Washington,MALE,"Jonathan Dean","Comm-6","POOR SERVICE","Midwest","CLOSED",Michigan,"HHC-078","Urgent","Company HQ","In person"
+1888,2013-03-26,2013-03-27,Alan,Rivera,MALE,"Albert Chavez","Comm-2","REGISTRATION FORM OF REGISTRATION","Northeast","CLOSED",Pennsylvania,"BNM-037","Non Urgent","Company HQ","Fax"
+1894,2013-03-27,2013-03-27,Roger,Gardner,MALE,"Benjamin Austin","Comm-7","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Georgia,"BNM-037","Urgent","Call Center","Call center"
+1899,2013-03-13,2013-04-10,Aaron,Edwards,MALE,"Clarence Allen","Comm-9","DETERMINATION OR LOSS OF ABSOLUTE REGISTRATIONS","South","CLOSED",Florida,"BNM-039","Non Urgent","Company HQ","Written"
+1901,2013-04-01,2013-04-01,Kevin,Edwards,MALE,"Joseph Medina","Comm-4","SECURITY BUILDING REQUEST, SECURITY RETURN","Northeast","CLOSED","New Jersey","CAP-026","Urgent","Call Center","Call center"
+1903,2013-04-02,2013-04-02,Annie,Welch,FEMALE,"Christopher Harper","Comm-4","DETERMINATION OR LOSS OF ABSOLUTE REGISTRATIONS","West","CLOSED",California,"LBL-043","Urgent","Call Center","Call center"
+1905,2013-04-02,2013-04-09,Julia,Sullivan,FEMALE,"Nicholas Montgomery","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED","New York","LBL-043","Non Urgent","Company HQ","Fax"
+1924,2013-04-04,2013-04-25,Janet,Hall,FEMALE,"Fred Gonzalez","Comm-2","DO NOT USE A REQUEST","Midwest","CLOSED",Illinois,"LBL-074","Non Urgent","CRO","Court Order"
+1928,2013-04-08,2013-04-11,Larry,Sims,MALE,"Michael Evans","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Colorado,"HHC-057","Non Urgent","Intermediary","Phone"
+1941,2013-05-29,2013-06-19,Joan,Thomas,FEMALE,"Jeremy Elliott","Comm-7","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED","New York","CAP-028","Non Urgent","Company HQ","Fax"
+1943,2013-04-09,2013-04-26,Edward,Brown,MALE,"Brandon Scott","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Oklahoma,"LOL-046","Non Urgent","CRO","Written"
+1944,2013-04-10,2013-04-10,Lori,Lynch,FEMALE,"Jerry Dean","Comm-4","SECURITY BUILDING REQUEST, SECURITY RETURN","South","CLOSED",Texas,"BNM-073","Non Urgent","Company HQ","Phone"
+1959,2013-04-12,2013-04-12,Roy,Larson,MALE,"Keith West","Comm-2","POOR SERVICE","Midwest","CLOSED",Ohio,"HHC-063","Urgent","Call Center","Call center"
+1965,2013-04-12,2013-04-30,Todd,Scott,MALE,"Martin Carr","No Commission","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",California,"CAS-015","Non Urgent","CRO","In person"
+1976,2013-04-17,2013-05-17,Bobby,Cruz,MALE,"Aaron Turner","Comm-4","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Northeast","CLOSED","New Jersey","HOC-064","Non Urgent","Company HQ","Fax"
+1978,2013-04-17,2013-05-27,Ryan,Perry,MALE,"Ronald Nguyen","Comm-6","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Maryland,"CAS-065","Non Urgent","Company HQ","Fax"
+1980,2013-04-17,2013-04-30,Jack,Thompson,MALE,"Louis Shaw","Comm-2","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"CAP-029","Non Urgent","Company HQ","Fax"
+1981,2013-04-17,2013-05-02,Anna,Hart,FEMALE,"Robert Fields","Bonus Based","PAYMENT POLICY","Northeast","CLOSED","New York","OOT-061","Non Urgent","Company HQ","Fax"
+1982,2013-04-17,2013-04-30,Ruby,Simpson,FEMALE,"Ernest Wright","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Florida,"BNM-038","Non Urgent","CRO","Written"
+1989,2013-04-18,2013-05-24,Phillip,Hicks,MALE,"Patrick Simmons","Comm-7","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Alabama,"CAS-077","Non Urgent","CRO","Written"
+1990,2013-04-18,2013-05-20,Jeffrey,Wilson,MALE,"Louis Garrett","Bonus Based","SECURITY PUBLISHING CONTRACT","West","CLOSED",California,"HOC-053","Non Urgent","CRO","Written"
+1996,2013-04-19,2013-05-23,Betty,Hawkins,FEMALE,"Russell Rose","Comm-2","DISCLAIMER OF A SERVICE ","West","CLOSED",California,"CAS-014","Urgent","Call Center","Call center"
+1997,2013-04-17,2013-04-22,Denise,Rivera,FEMALE,"Peter Wright","Comm-6","REVIVAL REQUEST","West","CLOSED",Arizona,"LBL-074","Non Urgent","Company HQ","Written"
+1998,2013-04-23,2013-04-25,William,Hill,MALE,"Martin Patterson","Comm-9","SELF-DETERMINED EXPRESSION OF INSURANCE","Midwest","CLOSED",Illinois,"CAS-017","Non Urgent","Company HQ","Court Order"
+1999,2013-04-25,2013-04-30,Lisa,Freeman,FEMALE,"Christopher Ruiz","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED","South Carolina","MOT-010","Non Urgent","CRO","Written"
+2000,2013-04-23,2013-05-23,Gerald,Fox,MALE,"Eric Morrison","Bonus Based","PAYMENT POLICY","Midwest","CLOSED",Kansas,"CAS-066","Non Urgent","CRO","In person"
+2002,2013-04-23,2013-04-25,Julie,Hanson,FEMALE,"Matthew Young","Comm-9","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAP-026","Non Urgent","CRO","Written"
+2007,2013-04-23,2013-07-02,Julia,Cunningham,FEMALE,"Gary Ryan","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Iowa,"PNM-003","Non Urgent","Company HQ","Fax"
+2012,2013-04-26,2013-04-26,Jeffrey,Moreno,MALE,"Steve Hudson","Comm-2","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Illinois,"CAS-018","Urgent","Call Center","Call center"
+2015,2013-04-26,2013-05-10,Janice,Gordon,FEMALE,"David Hall","Comm-6","PAYMENT POLICY","Northeast","CLOSED","New Jersey","CAS-075","Non Urgent","CRO","In person"
+2020,2013-04-29,2013-04-29,Robin,Jackson,FEMALE,"Kevin Sanders","Bonus Based","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","South","CLOSED",Florida,"CAP-024","Non Urgent","CRO","In person"
+2030,2013-05-01,2013-05-10,Jimmy,George,MALE,"Antonio Bell","Bonus Based","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","Midwest","CLOSED",Wisconsin,"HOC-049","Urgent","Call Center","Call center"
+2031,2013-05-02,2013-05-17,Charles,Harvey,MALE,"Scott Banks","Bonus Based","REGISTRATION FORM OF REGISTRATION","Northeast","CLOSED",Pennsylvania,"CAS-018","Non Urgent","Company HQ","Written"
+2034,2013-05-08,2013-05-10,Betty,Edwards,FEMALE,"Arthur Torres","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Florida,"HHC-078","Non Urgent","Company HQ","Fax"
+2036,2013-05-09,2013-05-09,"APOLLO Corp",,,"Carlos Kelly","Comm-5","PAYMENT POLICY","South","CLOSED",Delaware,"BNM-036","Non Urgent","CRO","Written"
+2037,2013-05-09,2013-05-10,Wayne,Fowler,MALE,"Mark Meyer","Comm-8","PAYMENT POLICY","South","CLOSED","North Carolina","CAP-027","Non Urgent","CRO","In person"
+2038,2013-05-14,2013-05-17,Russell,Price,MALE,"Gregory Cole","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Wisconsin,"CAS-066","Non Urgent","CRO","In person"
+2044,2013-05-10,2013-05-14,Melissa,Bradley,FEMALE,"Gary Hill","Comm-9","PRODUCTION PRODUCT","West","CLOSED",California,"BNM-039","Non Urgent","CRO","In person"
+2045,2013-05-10,2013-07-02,Laura,Lynch,FEMALE,"Carl Baker","Comm-2","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Virginia,"CAP-025","Non Urgent","Company HQ","Fax"
+2051,2013-05-13,2013-06-07,Lawrence,Garza,MALE,"Scott Martin","Comm-2","IGNORANCE OF EXISTENCE","Midwest","CLOSED",Ohio,"MMP-005","Non Urgent","CRO","Written"
+2059,2013-05-15,2013-05-29,Adam,Sanders,MALE,"Thomas Sanders","Comm-3","PAYMENT POLICY","West","CLOSED",California,"BNM-033","Non Urgent","CRO","Email"
+2068,2013-05-16,2013-05-16,Julia,Hart,FEMALE,"Mark Turner","Comm-9","CONCLUSION HELLIPIS SERVICE FROM EXECUTIVE / EXTERNAL COOPERATIVE","South","CLOSED",Texas,"HOC-053","Urgent","Call Center","Call center"
+2077,2013-05-16,2013-06-07,Debra,Medina,FEMALE,"Phillip Foster","Comm-2","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","New York","HOC-056","Non Urgent","CRO","Written"
+2082,2013-05-17,2013-07-04,Stephen,Wagner,MALE,"Martin Franklin","Comm-7","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Pennsylvania,"LBL-045","Non Urgent","Company HQ","Fax"
+2100,2013-05-21,2013-05-31,Harold,Hughes,MALE,"Jonathan Owens","Comm-9","CERTIFICATE OF CONTENTS","Midwest","CLOSED",Illinois,"HHC-063","Non Urgent","Company HQ","Fax"
+2104,2013-04-09,2013-06-17,Chris,Dixon,MALE,"Anthony Collins","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Arizona,"HOC-056","Non Urgent","CRO","Written"
+2109,2013-05-17,2013-06-14,Roy,Phillips,MALE,"David Bailey","Comm-5","CONTRACT-MAINTENANCE DEVELOPMENT","South","CLOSED",Florida,"HHC-063","Non Urgent","CRO","Written"
+2116,2013-05-23,2013-05-27,Nicole,Roberts,FEMALE,"Willie Hudson","Comm-2","POOR SERVICE","South","CLOSED",Florida,"HOC-050","Non Urgent","CRO","In person"
+2121,2013-05-24,2013-08-05,Marilyn,Kelly,FEMALE,"Howard Arnold","Comm-6","SECURITY PUBLISHING CONTRACT","West","CLOSED",Idaho,"FPT-060","Non Urgent","Company HQ","Written"
+2123,2013-05-27,2013-07-10,Joshua,Wallace,MALE,"Ernest Greene","Comm-2","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Northeast","CLOSED","New York","BNM-036","Urgent","Call Center","Call center"
+2128,2013-05-17,2013-05-28,Lillian,Woods,FEMALE,"Harold Rogers","Comm-2","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",Colorado,"HOC-050","Non Urgent","Company HQ","Written"
+2132,2013-05-20,2013-08-02,Juan,Torres,MALE,"Albert Crawford","Comm-8","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Northeast","CLOSED",Connecticut,"BNM-034","Non Urgent","Company HQ","Email"
+2133,2013-05-28,2013-05-31,Julia,Ramos,FEMALE,"Alan Porter","Comm-2","CONTRACT-MAINTENANCE DEVELOPMENT","West","CLOSED",California,"CAP-025","Non Urgent","Company HQ","Email"
+2136,2013-04-30,2013-05-31,Thomas,Brooks,MALE,"Todd Mccoy","Comm-9","IGNORANCE OF EXISTENCE","South","CLOSED",Alabama,"BNM-038","Non Urgent","CRO","Written"
+2145,2013-05-29,2013-06-10,Jane,Garza,FEMALE,"Ryan Welch","Comm-9","CONTRACT-MAINTENANCE DEVELOPMENT","Northeast","CLOSED",Pennsylvania,"MOT-008","Non Urgent","Company HQ","Fax"
+2149,2013-05-29,2013-06-10,Harold,Johnston,MALE,"Howard Arnold","Comm-6",FRAUD,"Midwest","CLOSED",Michigan,"CAS-076","Non Urgent","Company HQ","Fax"
+2154,2013-05-30,2013-06-06,Bobby,Hawkins,MALE,"Jimmy Nelson","Comm-9",FRAUD,"Northeast","CLOSED","New York","HOC-052","Non Urgent","Company HQ","Phone"
+2159,2013-06-03,2013-07-12,Brandon,Walker,MALE,"Jeffrey Gomez","Comm-5","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"HOC-055","Non Urgent","CRO","Written"
+2161,2013-06-03,2013-07-19,Eric,Scott,MALE,"Walter Young","Comm-6","INDEPENDENT DISMISSAL","West","CLOSED",Idaho,"CAS-067","Urgent","Company HQ","Court Order"
+2164,2013-05-16,2013-05-29,Jose,Carpenter,MALE,"Bobby Russell","Comm-2","SECURITY PUBLISHING CONTRACT","West","CLOSED",California,"CAS-017","Non Urgent","Bank Branch","Written"
+2179,2013-05-22,2013-07-01,Katherine,Gardner,FEMALE,"Richard Robinson","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAS-017","Non Urgent","Company HQ","Fax"
+2180,2013-05-28,2013-06-03,Clarence,Harper,MALE,"Justin Bennett","Bonus Based","POOR SERVICE","Northeast","CLOSED",Massachusetts,"HOC-052","Non Urgent","Company HQ","Email"
+2191,2013-05-16,2013-07-10,Louis,Burke,MALE,"Benjamin Reid","Bonus Based","DO NOT USE A REQUEST","West","CLOSED",California,"BNM-041","Non Urgent","Company HQ","Written"
+2194,2013-06-06,2013-06-26,Roger,Perry,MALE,"Victor Myers","Comm-9","PAYMENT POLICY","Midwest","CLOSED",Illinois,"BNM-031","Non Urgent","CRO","Written"
+2196,2013-06-05,2013-07-29,Christopher,Wagner,MALE,"William Fuller","Comm-7","DISCLAIMER OF DISMISSAL","South","CLOSED",Florida,"CAS-013","Non Urgent","CRO","Court Order"
+2197,2013-06-07,2013-06-26,Louis,Rodriguez,MALE,"Dennis Montgomery","No Commission","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Georgia,"MOT-010","Non Urgent","CRO","Written"
+2210,2013-06-04,2013-08-09,Billy,Hunter,MALE,"Albert Freeman","Bonus Based","IGNORANCE OF EXISTENCE","South","CLOSED",Tennessee,"HOC-050","Non Urgent","CRO","Written"
+2212,2013-06-11,2013-06-14,Kimberly,Matthews,FEMALE,"Stephen Duncan","No Commission","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","South","CLOSED",Georgia,"HHC-058","Non Urgent","CRO","In person"
+2214,2013-06-12,2013-06-12,Janet,Richards,FEMALE,"Donald Bishop","Comm-9","DETERMINATION OR LOSS OF ABSOLUTE REGISTRATIONS","South","CLOSED",Texas,"FPT-060","Urgent","Call Center","Call center"
+2219,2013-06-04,2013-06-17,Jose,Carpenter,MALE,"Howard Sims","Comm-8","SECURITY CONTRACT AGENCY SAINT","West","CLOSED",California,"CAP-068","Non Urgent","Bank Branch","In person"
+2226,2013-06-13,2013-07-10,Nicholas,Black,MALE,"Harry Ford","Comm-2","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"BNM-040","Non Urgent","CRO","Written"
+2229,2013-06-14,2013-07-05,Susan,Nelson,FEMALE,"Lawrence George","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Pennsylvania,"CAP-023","Non Urgent","CRO","Written"
+2230,2013-06-14,2013-08-20,Judy,Thomas,FEMALE,"Peter Day","Comm-3","DISCLAIMER OF DISMISSAL","West","CLOSED",California,"CAP-024","Non Urgent","Company HQ","Fax"
+2233,2013-06-17,2013-07-16,Paul,Shaw,MALE,"Joseph Hill","Comm-8","PAYMENT POLICY","West","CLOSED",California,"CAP-068","Non Urgent","CRO","Written"
+2240,2013-06-21,2013-08-08,Laura,Fowler,FEMALE,"Peter White","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Connecticut,"CAS-072","Non Urgent","Company HQ","Fax"
+2247,2013-06-25,2013-07-08,Russell,Day,MALE,"Timothy Baker","Comm-7","DETERMINATION OR LOSS OF ABSOLUTE REGISTRATIONS","South","CLOSED",Texas,"CAP-027","Non Urgent","CRO","Written"
+2249,2013-06-26,2013-08-07,Katherine,Rice,FEMALE,"Ernest Wright","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAS-022","Non Urgent","CRO","Written"
+2252,2013-06-27,2013-08-12,Roy,Garrett,MALE,"Roger Robertson","No Commission","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","New Jersey","BNM-036","Non Urgent","Company HQ","Email"
+2257,2013-06-27,2013-07-16,Shawn,Collins,MALE,"Bruce Simmons","Comm-9","IGNORANCE OF EXISTENCE","Midwest","CLOSED",Kansas,"BNM-062","Non Urgent","CRO","Written"
+2258,2013-06-27,2013-06-28,Jeffrey,Nichols,MALE,"Ronald Flores","Comm-5","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Tennessee,"CAS-020","Non Urgent","CRO","In person"
+2264,2013-07-01,2013-07-02,Brandon,Jenkins,MALE,"Louis Burton","Bonus Based","POOR SERVICE","Northeast","CLOSED",Massachusetts,"LBL-043","Non Urgent","CRO","Phone"
+2268,2013-07-02,2013-07-15,Eric,Carpenter,MALE,"Earl Stewart","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"MOT-010","Non Urgent","CRO","Written"
+2279,2013-07-05,2013-07-16,Louise,Hart,FEMALE,"Ralph Wells","Comm-7","PAYMENT POLICY","Midwest","CLOSED",Indiana,"PNM-001","Non Urgent","CRO","Written"
+2282,2013-03-26,2013-08-14,Christina,Nguyen,FEMALE,"Raymond Murray","Comm-9","MODIFICATION REQUEST","West","CLOSED",Washington,"PNM-002","Non Urgent","Company HQ","Fax"
+2286,2013-07-05,2013-07-16,Dennis,Turner,MALE,"Adam Stevens","Comm-2","REGISTRATION FORM OF REGISTRATION","Midwest","CLOSED",Minnesota,"PNM-003","Non Urgent","Company HQ","Fax"
+2290,2013-07-05,2013-07-09,Ernest,Carroll,MALE,"Randy Payne","Comm-2","REGISTRATION FORM OF REGISTRATION","Midwest","CLOSED",Indiana,"BNM-073","Non Urgent","Company HQ","Fax"
+2294,2013-07-08,2013-07-08,Ruth,Grant,FEMALE,"Eugene Garza","Comm-7",FRAUD,"South","CLOSED",Oklahoma,"CAP-070","Urgent","Call Center","Call center"
+2300,2013-07-09,2013-07-11,"Wraser Group",,,"Ernest Wheeler","Comm-3","PRODUCTION PRODUCT","West","CLOSED",Hawaii,"HHC-078","Non Urgent","CRO","Written"
+2301,2013-07-09,2013-07-15,Kathleen,Morrison,FEMALE,"Jose Morgan","Comm-5","POOR SERVICE","West","CLOSED",California,"BNM-035","Urgent","Call Center","Call center"
+2304,2013-07-10,2013-08-01,Julia,Sullivan,FEMALE,"Larry Walker","Comm-2","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","New York","HOC-050","Non Urgent","CRO","Written"
+2307,2013-07-10,2013-09-05,Jeremy,Hicks,MALE,"Jeffrey Morales","Comm-2","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Northeast","CLOSED","New Jersey","BNM-073","Non Urgent","Company HQ","Email"
+2308,2013-06-25,2013-07-01,Todd,Sullivan,MALE,"Albert Chavez","Comm-2","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Northeast","CLOSED","New Jersey","CAS-016","Non Urgent","Company HQ","Fax"
+2309,2013-08-16,2013-09-23,Maria,Willis,FEMALE,"Jeffrey Martinez","Bonus Based","DO NOT USE A REQUEST","South","CLOSED",Georgia,"CAS-076","Non Urgent","Company HQ","Written"
+2314,2013-07-11,2013-07-19,Christopher,Robertson,MALE,"Ralph Alvarez","Comm-2","PAYMENT POLICY","Midwest","CLOSED",Illinois,"BNM-073","Non Urgent","Company HQ","Fax"
+2318,2013-07-12,2013-08-05,Lori,Washington,FEMALE,"Sean Schmidt","Comm-6","IGNORANCE OF EXISTENCE","Northeast","CLOSED",Connecticut,"PNM-003","Non Urgent","CRO","Email"
+2325,2013-07-16,2013-07-22,Nancy,Scott,FEMALE,"Andrew Bowman","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED","New Mexico","MMP-006","Non Urgent","CRO","Written"
+2327,2013-07-16,2013-07-30,Nicole,Nichols,FEMALE,"Brian Oliver","No Commission","DISCLAIMER OF DISMISSAL","South","CLOSED","North Carolina","HOC-064","Non Urgent","Company HQ","Written"
+2328,2013-07-16,2013-07-19,Donald,Howell,MALE,"Joshua Cook","Comm-4","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAP-069","Non Urgent","Company HQ","Fax"
+2332,2013-07-17,2013-09-02,Brian,Oliver,MALE,"Charles Jordan","No Commission","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Texas,"HOC-049","Non Urgent","Company HQ","Fax"
+2336,2013-07-10,2013-08-08,Beverly,Griffin,FEMALE,"Russell Fox","Bonus Based","DISCLAIMER OF DISMISSAL","South","CLOSED",Arkansas,"HOC-051","Urgent","Company HQ","Court Order"
+2344,2013-07-19,2013-07-19,Irene,Burton,FEMALE,"Gary Ryan","Comm-8","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Virginia,"PNM-003","Urgent","Call Center","Call center"
+2345,2013-07-10,2013-07-31,Heather,Howard,FEMALE,"Earl Stephens","Comm-7","IGNORANCE OF EXISTENCE","West","CLOSED",California,"CAS-065","Non Urgent","CRO","Court Order"
+2356,2013-07-25,2013-08-09,Jose,Williams,MALE,"Shawn Reed","Comm-2","USE OF OTHER / OTHER EXPENSES","Midwest","CLOSED",Illinois,"BNM-032","Non Urgent","CRO","Written"
+2362,2013-07-26,2013-09-27,Judy,West,FEMALE,"Eric Collins","Comm-4",FRAUD,"West","CLOSED",California,"BNM-032","Non Urgent","Company HQ","Fax"
+2366,2013-07-30,2013-08-23,Lori,Tucker,FEMALE,"Bobby Garza","Comm-9","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED","North Carolina","CAS-014","Non Urgent","CRO","Written"
+2371,2013-07-31,2013-09-24,Douglas,Hicks,MALE,"Jimmy Nelson","Comm-9","TERMS IN PRODUCT USE","Midwest","CLOSED",Illinois,"CAP-023","Non Urgent","Company HQ","Fax"
+2378,2013-08-01,2013-08-14,Laura,Morris,FEMALE,"Douglas Ramirez","Comm-4","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Wisconsin,"MMP-005","Non Urgent","CRO","Court Order"
+2382,2013-08-02,2013-08-12,Lawrence,Fisher,MALE,"Arthur Rogers","Comm-4","YEARS OF DEPARTURE IN THE PHONES OR NOT AN ANSWER OF CLOSES, UNDERSTANDED LINES","West","CLOSED",California,"CAS-020","Non Urgent","CRO","In person"
+2384,2013-08-06,2013-09-09,John,Harris,MALE,"Fred Smith","Comm-4","INDEPENDENT DISMISSAL","Midwest","CLOSED",Illinois,"CAP-070","Non Urgent","CRO","Phone"
+2386,2013-08-02,2013-08-27,Theresa,Stephens,FEMALE,"Nicholas Montgomery","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Connecticut,"BNM-030","Non Urgent","CRO","Written"
+2396,2013-08-08,2013-08-21,Joseph,Anderson,MALE,"Lawrence Palmer","Comm-2","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",California,"BNM-030","Non Urgent","CRO","Written"
+2399,2013-08-08,2013-08-08,Kevin,Bailey,MALE,"Carlos Simpson","Comm-9","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Illinois,"CAS-076","Non Urgent","CRO","In person"
+2402,2013-08-08,2013-09-11,Harold,Garrett,MALE,"Fred Morris","Comm-2","REGISTRATION FORM OF REGISTRATION","West","CLOSED",California,"HOC-052","Non Urgent","Company HQ","Fax"
+2403,2013-07-17,2013-08-06,Emily,Oliver,FEMALE,"James Clark","Comm-2","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","South","CLOSED",Louisiana,"PNM-001","Non Urgent","Company HQ","Written"
+2405,2013-07-11,2013-09-09,Jessica,West,FEMALE,"Raymond Simmons","Bonus Based","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED","North Dakota","BNM-041","Non Urgent","Partner","Email"
+2406,2013-08-09,2013-08-28,Jose,Johnston,MALE,"David Barnes","Comm-8","REGISTRATION FORM OF REGISTRATION","Northeast","CLOSED","New Jersey","CAS-022","Non Urgent","Company HQ","Fax"
+2409,2013-08-12,2013-08-13,Frances,Lane,FEMALE,"Jason Palmer","Comm-2","PAYMENT POLICY","Midwest","CLOSED",Illinois,"CAP-023","Non Urgent","CRO","Written"
+2412,2013-08-07,2013-08-28,Lois,Rivera,FEMALE,"Paul Hart","Comm-6","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Washington,"CAS-017","Non Urgent","CRO","Written"
+2415,2013-08-19,2013-09-02,William,Powell,MALE,"Nicholas Clark","Comm-5","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"CAS-066","Non Urgent","CRO","In person"
+2416,2013-08-19,2013-08-26,Shawn,Green,MALE,"Aaron Stone","Bonus Based","PAYMENT POLICY","South","CLOSED",Florida,"LBL-043","Non Urgent","CRO","Phone"
+2418,2013-08-21,2013-08-21,Thomas,Brooks,MALE,"Jeffrey Gomez","Comm-5","POOR SERVICE","South","CLOSED",Alabama,"HHC-063","Urgent","Call Center","Call center"
+2422,2013-08-23,2013-08-23,Helen,Thompson,FEMALE,"Frank Robinson","Comm-3","DETERMINATION OR LOSS OF ABSOLUTE REGISTRATIONS","Northeast","CLOSED",Pennsylvania,"CAP-070","Urgent","Call Center","Call center"
+2423,2013-08-21,2013-08-29,Ernest,Moore,MALE,"Kevin Rose","Bonus Based","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",Washington,"CAS-072","Non Urgent","CRO","Email"
+2425,2013-07-30,2013-08-22,Robin,Rivera,FEMALE,"Jeffrey Fisher","Comm-7","POOR SERVICE","West","CLOSED",California,"LBL-045","Non Urgent","CRO","Written"
+2427,2013-08-26,2013-08-26,Rebecca,Garcia,FEMALE,"Jack Dean","Comm-9","DIFFERENCES IN PRICE POLITICS","Midwest","CLOSED",Michigan,"CAS-077","Urgent","Call Center","Call center"
+2430,2013-08-26,2013-08-27,Joan,Simmons,FEMALE,"Patrick Ruiz","Comm-2","DO NOT USE A REQUEST","West","CLOSED",California,"MOT-009","Non Urgent","CRO","In person"
+2433,2013-08-28,2013-09-10,Annie,Cunningham,FEMALE,"Ralph Green","Comm-3","DO NOT USE A REQUEST","Midwest","CLOSED",Illinois,"BMB-042","Non Urgent","CRO","Phone"
+2440,2013-08-30,2013-10-04,Donald,Martin,MALE,"Carl Berry","Comm-2","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","South","CLOSED",Georgia,"OOT-061","Non Urgent","Company HQ","Fax"
+2446,2013-09-02,2013-09-24,Henry,George,MALE,"Patrick Harrison","Bonus Based","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Tennessee,"BNM-035","Non Urgent","Company HQ","Phone"
+2451,2013-09-03,2013-09-03,Susan,Lopez,FEMALE,"Jack Rivera","Bonus Based","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","West","CLOSED",Nevada,"CAS-012","Non Urgent","Company HQ","Email"
+2453,2013-09-03,2013-09-09,Fred,Sanchez,MALE,"Ralph Wells","Comm-7","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAS-014","Non Urgent","CRO","Written"
+2461,2013-09-05,2013-09-05,Albert,Fields,MALE,"Arthur Patterson","Bonus Based","DO NOT USE A REQUEST","South","CLOSED",Florida,"CAS-016","Non Urgent","CRO","Email"
+2464,2013-09-06,2013-09-19,William,Bradley,MALE,"Bobby Russell","Comm-2","IGNORANCE OF EXISTENCE","Midwest","CLOSED",Indiana,"CAS-017","Non Urgent","CRO","Phone"
+2471,2013-09-10,2013-09-12,Eugene,Moreno,MALE,"Samuel Lewis","Bonus Based","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",Washington,"BNM-032","Non Urgent","Company HQ","Fax"
+2475,2013-09-10,2013-10-04,Frances,Grant,FEMALE,"Carlos Kelly","Comm-5","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Texas,"CAS-077","Non Urgent","Company HQ","Email"
+2477,2013-09-10,2013-10-30,David,Perez,MALE,"Charles Rice","Comm-8","DO NOT USE A REQUEST","South","CLOSED",Florida,"CAP-027","Non Urgent","CRO","Written"
+2479,2013-09-11,2013-10-21,Lawrence,Hill,MALE,"Harry Morris","Bonus Based","DIFFERENCES IN PRICE POLITICS","Midwest","CLOSED",Minnesota,"CAS-016","Urgent","Company HQ","Email"
+2480,2013-09-04,2013-09-25,Todd,Patterson,MALE,"Gregory Gonzalez","Bonus Based","SELF-DETERMINED EXPRESSION OF INSURANCE","West","CLOSED",Colorado,"CAP-068","Non Urgent","Company HQ","Written"
+2483,2013-09-12,2013-10-04,Benjamin,Simpson,MALE,"Sean Stanley","Comm-7","REGISTRATION FORM OF REGISTRATION","Northeast","CLOSED","New York","CAS-021","Non Urgent","Company HQ","Fax"
+2495,2013-09-16,2013-09-18,Ruth,Jackson,FEMALE,"Charles Payne","Comm-2","DO NOT USE A REQUEST","South","CLOSED",Florida,"OOT-061","Non Urgent","CRO","Email"
+2500,2013-09-11,2013-09-20,Helen,Hudson,FEMALE,"Justin Bennett","Bonus Based","DISCLAIMER OF DISMISSAL","South","CLOSED",Maryland,"BNM-073","Non Urgent","Company HQ","Email"
+2501,2013-08-26,2013-09-17,Judith,Lawrence,FEMALE,"Paul Diaz","Comm-9","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","South","CLOSED",Florida,"CAP-028","Non Urgent","Company HQ","Fax"
+2505,2013-09-30,2013-09-30,Stephanie,Morris,FEMALE,"Gerald Washington","Bonus Based","POOR SERVICE","Northeast","CLOSED","New Jersey","BNM-031","Non Urgent","CRO","Email"
+2507,2013-09-17,2013-09-17,Anthony,Ward,MALE,"George Nguyen","Bonus Based","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"BNM-037","Non Urgent","CRO","Written"
+2509,2013-09-11,2013-10-01,Willie,Dixon,MALE,"Jason Vasquez","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Missouri,"CAS-075","Non Urgent","Company HQ","Written"
+2514,2013-09-18,2013-09-18,Nicholas,Sullivan,MALE,"Peter Mendoza","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Florida,"BNM-033","Non Urgent","CRO","Email"
+2519,2013-09-19,2013-09-23,Gerald,Torres,MALE,"Ernest Turner","Comm-6","PAYMENT POLICY","South","CLOSED",Virginia,"CAS-013","Non Urgent","CRO","Phone"
+2521,2013-09-20,2013-10-01,Jean,Schmidt,FEMALE,"John Moore","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Massachusetts,"CAS-019","Non Urgent","Company HQ","Fax"
+2525,2013-08-27,2013-10-15,Betty,Andrews,FEMALE,"Martin Day","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Florida,"CAS-021","Non Urgent","CRO","Written"
+2526,2013-09-19,2013-10-07,Janet,Sims,FEMALE,"Carlos Lawrence","Comm-8","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Midwest","CLOSED",Illinois,"OOT-061","Non Urgent","Company HQ","Email"
+2528,2013-09-24,2013-10-11,Anna,Phillips,FEMALE,"George Ford","Comm-6","PAYMENT POLICY","West","CLOSED",California,"CAS-022","Urgent","Call Center","Call center"
+2539,2013-09-27,2013-09-27,Wayne,Carroll,MALE,"Bobby Lane","Comm-7","AUTOMATIC REPRESENTATIVE CARD RENEW WITHOUT THE CUSTOMER'S RENEW","South","CLOSED",Maryland,"CAP-071","Urgent","Call Center","Call center"
+2546,2013-09-23,2013-09-30,Sandra,Romero,FEMALE,"Todd Hughes","Bonus Based","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",California,"BNM-030","Non Urgent","Bank Branch","Written"
+2551,2013-09-30,2013-10-14,Judith,Vasquez,FEMALE,"Scott Berry","Comm-2","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","Rhode Island","HHC-057","Non Urgent","CRO","Email"
+2552,2013-09-30,2013-10-01,Walter,Wright,MALE,"Steven Fuller","Bonus Based","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","South","CLOSED",Texas,"MOT-007","Non Urgent","CRO","Email"
+2554,2013-10-01,2013-10-02,Billy,Hunter,MALE,"Paul Moreno","Bonus Based","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Tennessee,"HHC-063","Non Urgent","CRO","Phone"
+2556,2013-09-27,2013-10-02,Peter,Morris,MALE,"Stephen Welch","Comm-5","SECURITY PUBLISHING CONTRACT","South","CLOSED","North Carolina","HOC-051","Non Urgent","Company HQ","Email"
+2566,2013-10-02,2013-11-13,Mildred,Howard,FEMALE,"Eugene Sullivan","Comm-5","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Texas,"CAS-077","Non Urgent","Company HQ","Fax"
+2568,2013-10-02,2013-11-13,Amanda,Thomas,FEMALE,"Nicholas Gomez","Comm-8","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Arkansas,"BNM-032","Non Urgent","Company HQ","Fax"
+2569,2013-10-02,2013-11-08,Lois,Adams,FEMALE,"Willie Williams","Comm-2","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Georgia,"BNM-062","Non Urgent","Company HQ","Fax"
+2573,2013-10-02,2013-11-05,Billy,Black,MALE,"Harry Banks","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Arizona,"BNM-034","Non Urgent","Company HQ","Written"
+2575,2013-10-03,2013-11-12,Jose,Kelley,MALE,"John Martin","No Commission","REGISTRATION FORM OF REGISTRATION","Northeast","CLOSED",Connecticut,"BNM-031","Non Urgent","Company HQ","Fax"
+2577,2013-10-04,2013-10-07,Alan,Ross,MALE,"Albert Garrett","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Texas,"CAS-014","Urgent","CRO","In person"
+2579,2013-10-04,2013-10-22,Teresa,Hamilton,FEMALE,"Steven Long","Bonus Based","REGISTRATION FORM OF REGISTRATION","Northeast","CLOSED",Connecticut,"BNM-036","Non Urgent","Company HQ","Fax"
+2580,2013-10-03,2013-11-22,Kathleen,Hart,FEMALE,"Howard Johnston","Bonus Based","POOR SERVICE","South","CLOSED",Texas,"MOT-011","Non Urgent","CRO","Written"
+2582,2013-10-04,2013-10-07,Carl,Tucker,MALE,"Willie Sullivan","Comm-8","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Northeast","CLOSED","New York","CAS-077","Non Urgent","Bank HQ","Phone"
+2587,2013-10-08,2013-10-18,Juan,Holmes,MALE,"Albert Garrett","Comm-2","SECURITY PUBLISHING CONTRACT","Midwest","CLOSED",Illinois,"CAP-070","Non Urgent","CRO","Written"
+2593,2013-10-10,2013-10-17,Diane,Carr,FEMALE,"Timothy Grant","Comm-9","DISCLAIMER OF DISMISSAL","South","CLOSED","North Carolina","CAS-065","Non Urgent","Company HQ","Fax"
+2606,2013-10-14,2013-10-21,Willie,Jordan,MALE,"Carlos Simpson","Comm-9","REGISTRATION FORM OF REGISTRATION","West","CLOSED",California,"HOC-053","Non Urgent","Company HQ","Fax"
+2608,2013-10-14,2013-11-29,Timothy,Richards,MALE,"Brian Oliver","No Commission","CONTRACT-MAINTENANCE DEVELOPMENT","West","CLOSED",California,"HOC-054","Non Urgent","Company HQ","Written"
+2609,2013-10-01,2013-10-15,Paul,Thomas,MALE,"Raymond Kim","Comm-2","DO NOT USE A REQUEST","Midwest","CLOSED",Indiana,"MOT-009","Non Urgent","Bank Branch","In person"
+2612,2013-10-15,2013-11-04,Lisa,Young,FEMALE,"Peter Day","Comm-3","POOR SERVICE","Midwest","CLOSED",Illinois,"HOC-048","Non Urgent","Partner","Written"
+2618,2013-10-16,2013-11-20,Jennifer,Stone,FEMALE,"Joshua Ellis","Comm-4","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"MMP-004","Non Urgent","Company HQ","Email"
+2628,2013-10-17,2013-10-22,Jean,Payne,FEMALE,"Jose Russell","Comm-9","PAYMENT POLICY","Midwest","CLOSED",Illinois,"CAS-012","Non Urgent","CRO","Phone"
+2629,2013-10-18,2013-10-18,Victor,Watkins,MALE,"William Williams","Comm-8","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"FPT-060","Non Urgent","CRO","Phone"
+2640,2013-10-22,2013-10-23,Dorothy,Duncan,FEMALE,"Victor Myers","Comm-9","SELF-DETERMINED EXPRESSION OF INSURANCE","Northeast","CLOSED","New Jersey","MOT-007","Non Urgent","Company HQ","Written"
+2641,2013-10-22,2013-11-07,Robin,Ruiz,FEMALE,"Robert Oliver","Comm-8","IGNORANCE OF EXISTENCE","West","CLOSED",California,"CAS-013","Non Urgent","Company HQ","Court Order"
+2645,2013-10-22,2013-10-31,Joseph,Phillips,MALE,"Richard Weaver","Comm-3","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","West","CLOSED",Nevada,"BNM-031","Non Urgent","CRO","Written"
+2648,2013-10-23,2013-10-23,Edward,Cole,MALE,"Peter White","Comm-2","PAYMENT POLICY","South","CLOSED",Texas,"BMB-042","Urgent","Call Center","Call center"
+2650,2013-10-23,2013-10-30,George,Coleman,MALE,"Richard Dean","Bonus Based","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",Washington,"LBL-043","Non Urgent","CRO","Phone"
+2656,2013-10-29,2013-11-29,Cynthia,Wood,FEMALE,"Fred Phillips","No Commission","DIFFERENCES IN PRICE POLITICS","West","CLOSED",Washington,"BNM-037","Non Urgent","Company HQ","Written"
+2667,2013-10-31,2013-11-05,Juan,Holmes,MALE,"Matthew Shaw","No Commission","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Illinois,"MMP-004","Non Urgent","CRO","Written"
+2676,2013-08-14,2013-11-08,Jacqueline,Duncan,FEMALE,"Anthony Hill","Comm-3","INDEPENDENT DISMISSAL","South","CLOSED",Maryland,"CAS-072","Non Urgent","Company HQ","Written"
+2682,2013-11-06,2013-11-06,Barbara,Hansen,FEMALE,"Kenneth Morris","Bonus Based","PROBLEMS WITH PRIVATE COLLECTION COMPANIES","Midwest","CLOSED",Illinois,"CAP-071","Urgent","Call Center","Call center"
+2687,2013-10-24,2013-11-14,Judy,Lawrence,FEMALE,"Roger Rogers","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Florida,"BNM-030","Non Urgent","Bank HQ","Phone"
+2691,2013-11-08,2013-11-14,Jennifer,Reed,FEMALE,"Jeffrey Fisher","Comm-7","MODIFICATION REQUEST","Northeast","CLOSED",Massachusetts,"CAP-024","Non Urgent","Company HQ","Written"
+2695,2013-11-11,2013-11-11,Barbara,Sanchez,FEMALE,"Andrew Washington","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Indiana,"CAP-027","Non Urgent","CRO","In person"
+2701,2013-11-12,2013-11-13,Jason,Greene,MALE,"Antonio Sullivan","Bonus Based","USE OF OTHER / OTHER EXPENSES","South","CLOSED","North Carolina","CAS-014","Non Urgent","CRO","In person"
+2702,2013-11-12,2013-11-29,Amy,Simmons,FEMALE,"Patrick Turner","Bonus Based","REGISTRATION FORM OF REGISTRATION","West","CLOSED",Nevada,"CAS-065","Non Urgent","Company HQ","Fax"
+2709,2013-11-13,2013-12-23,Matthew,Lewis,MALE,"Steve Reed","Comm-5","PRODUCTION PRODUCT","Midwest","CLOSED",Iowa,"CAS-020","Non Urgent","CRO","Written"
+2712,2013-11-07,2013-11-12,Louis,Burke,MALE,"Aaron Turner","Comm-4","REGISTRATION FORM OF REGISTRATION","West","CLOSED",California,"CAS-019","Non Urgent","Company HQ","Written"
+2715,2013-11-13,2013-11-19,Albert,Torres,MALE,"Raymond Moreno","Comm-2","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED",Massachusetts,"HOC-052","Urgent","Call Center","Phone"
+2717,2013-11-13,2013-11-14,Christine,Parker,FEMALE,"John Martin","No Commission","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","New Jersey","CAS-012","Non Urgent","Company HQ","Email"
+2730,2013-11-19,2013-11-19,Jason,White,MALE,"Gerald Davis","Comm-5","CERTIFICATE OF CONTENTS","Midwest","CLOSED",Illinois,"HOC-053","Non Urgent","Company HQ","Fax"
+2731,2013-11-19,2013-12-06,Phyllis,Kelly,FEMALE,"Fred Gonzalez","Comm-2","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED",Connecticut,"MMP-004","Non Urgent","CRO","Written"
+2733,2013-11-15,2013-11-20,Teresa,Watson,FEMALE,"Harry Washington","Comm-3","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","Northeast","CLOSED","New Jersey","PNM-001","Non Urgent","Company HQ","Written"
+2738,2013-11-12,2014-01-15,Samuel,Jenkins,MALE,"Gerald Ray","Bonus Based","IGNORANCE OF EXISTENCE","South","CLOSED",Florida,"BNM-034","Non Urgent","Company HQ","Court Order"
+2740,2013-11-21,2014-01-16,Sara,Willis,FEMALE,"Raymond Sanders","Bonus Based","DIFFERENCES IN PRICE POLITICS","West","CLOSED","New Mexico","BNM-031","Urgent","CRO","Written"
+2743,2013-11-22,2014-01-16,John,Watson,MALE,"Alan Reyes","Bonus Based","DIFFERENCES IN PRICE POLITICS","Northeast","CLOSED","New Jersey","BNM-073","Non Urgent","CRO","Written"
+2752,2013-11-26,2013-12-03,Stephen,Scott,MALE,"Jose Mccoy","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAP-025","Non Urgent","CRO","In person"
+2753,2013-11-26,2013-12-09,Angela,Carter,FEMALE,"Mark Meyer","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAS-065","Non Urgent","CRO","Written"
+2759,2013-11-27,2013-11-28,Kathleen,Green,FEMALE,"Fred Robertson","Comm-7","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","Midwest","CLOSED",Indiana,"BNM-034","Non Urgent","Company HQ","Phone"
+2760,2013-11-28,2013-12-04,Frances,James,FEMALE,"Eugene Cox","No Commission","POOR SERVICE","West","CLOSED",California,"CAS-022","Non Urgent","Company HQ","Written"
+2770,2013-11-29,2014-01-02,Harry,Cruz,MALE,"Philip Murray","Comm-4","PAYMENT POLICY","South","CLOSED",Maryland,"HOC-053","Non Urgent","Bank Branch","Written"
+2777,2013-11-28,2013-12-02,Timothy,Mills,MALE,"Ryan Butler","Comm-9","MANAGEMENT-NOT DECISION OF ANOTHER COMPANY CONTRACT","Midwest","CLOSED",Indiana,"HOC-064","Non Urgent","Company HQ","Phone"
+2784,2013-12-04,2013-12-17,Julie,Perry,FEMALE,"Andrew Washington","Comm-2","PRODUCTION PRODUCT","South","CLOSED",Virginia,"LBL-043","Non Urgent","CRO","Written"
+2796,2013-12-06,2013-12-19,Douglas,Adams,MALE,"Albert Harvey","Comm-7","DISCLAIMER OF DISMISSAL","West","CLOSED",California,"HOC-055","Non Urgent","Company HQ","Fax"
+2799,2013-11-20,2013-12-17,Thomas,Burke,MALE,"Walter Gomez","No Commission","REGISTRATION FORM OF REGISTRATION","Midwest","CLOSED",Illinois,"HOC-050","Non Urgent","Company HQ","Written"
+2810,2013-12-12,2014-01-13,Albert,Kennedy,MALE,"Carl Hall","Comm-2","TERMS IN PRODUCT USE","Midwest","CLOSED","South Dakota","MOT-009","Non Urgent","CRO","Written"
+2811,2013-12-12,2013-12-12,Angela,Oliver,FEMALE,"Paul Meyer","Comm-2","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Florida,"CAP-068","Non Urgent","Company HQ","Written"
+2812,2013-12-12,2013-12-18,Alice,Owens,FEMALE,"Roger Robertson","No Commission","REGISTRATION FORM OF REGISTRATION","Northeast","CLOSED","New York","CAP-069","Non Urgent","Company HQ","Fax"
+2817,2013-12-13,2013-12-17,Emily,Bowman,FEMALE,"Jose Powell","Comm-2","CERTIFICATE OF CONTENTS","West","CLOSED",Nevada,"BNM-073","Non Urgent","Company HQ","Fax"
+2822,2013-12-16,2013-12-19,Julia,Ferguson,FEMALE,"Raymond Kim","Comm-2","POOR SERVICE","South","CLOSED",Georgia,"PNM-002","Non Urgent","CRO","Email"
+2841,2013-12-24,2013-12-24,Brenda,Gomez,FEMALE,"Shawn George","Comm-9","DISCLAIMER OF DISMISSAL","West","CLOSED",Wyoming,"LBL-074","Non Urgent","Company HQ","Fax"
+2843,2013-12-13,2013-12-27,Judith,Fisher,FEMALE,"Aaron Turner","Comm-4","CERTIFICATE OF CONTENTS","South","CLOSED",Texas,"HOC-052","Non Urgent","Company HQ","Written"
+2844,2013-12-30,2014-01-17,Nicholas,Day,MALE,"Arthur Garza","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Florida,"LBL-045","Non Urgent","Call Center","Phone"
+2852,2014-01-03,2014-01-03,Norma,Anderson,FEMALE,"Scott Campbell","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",California,"HOC-048","Non Urgent","Bank Branch","In person"
+2861,2014-01-08,2014-01-13,Gary,Peterson,MALE,"Louis Garrett","Bonus Based","IGNORANCE OF EXISTENCE","Northeast","CLOSED",Connecticut,"MOT-007","Non Urgent","CRO","Written"
+2863,2013-12-30,2014-01-17,Teresa,Ferguson,FEMALE,"Jeremy Reyes","Comm-2","IGNORANCE OF EXISTENCE","South","CLOSED",Texas,"MMP-005","Non Urgent","CRO","Email"
+2864,2014-01-09,2014-01-14,Jerry,Brown,MALE,"Charles Martinez","Bonus Based","UPDATE REQUEST","South","CLOSED",Tennessee,"BNM-033","Non Urgent","Company HQ","Written"
+2865,2014-01-10,2014-01-10,Willie,Dixon,MALE,"Ernest Rice","Bonus Based","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Midwest","CLOSED",Missouri,"CAS-012","Non Urgent","CRO","Phone"
+2866,2014-01-10,2014-01-20,Jimmy,Harris,MALE,"Christopher Tucker","Comm-2","POOR SERVICE","South","CLOSED",Virginia,"CAP-070","Non Urgent","Company HQ","Phone"
+2874,2014-01-13,2014-02-21,Jessica,Boyd,FEMALE,"Charles Jordan","No Commission","DIFFERENCES IN PRICE POLITICS","Midwest","CLOSED",Illinois,"HOC-052","Urgent","Company HQ","Written"
+2877,2014-01-15,2014-01-24,John,Wilson,MALE,"Ryan Porter","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Louisiana,"BNM-030","Non Urgent","CRO","Written"
+2878,2014-01-15,2014-02-13,Jason,Moore,MALE,"Jack Dean","Comm-9","POOR SERVICE","Midwest","CLOSED",Illinois,"MMP-006","Non Urgent","Company HQ","Written"
+2879,2014-01-14,2014-03-17,Sean,Sanders,MALE,"Joshua Ellis","Comm-4","RESEARCH REQUEST","Midwest","CLOSED",Indiana,"MOT-008","Non Urgent","Company HQ","Written"
+2880,2014-01-15,2014-01-15,Martin,Harper,MALE,"Sean Schmidt","Comm-6","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Oklahoma,"FPT-060","Non Urgent","Bank Branch","Written"
+2889,2014-01-20,2014-02-20,Jesse,Weaver,MALE,"Keith West","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Washington,"BNM-062","Non Urgent","CRO","Written"
+2890,2014-01-20,2014-01-20,Gregory,Cunningham,MALE,"Raymond Murray","Comm-9","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","New York","CAP-070","Non Urgent","Bank HQ","Phone"
+2904,2014-01-23,2014-02-20,Stephanie,Bell,FEMALE,"Fred Gonzalez","Comm-2","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Illinois,"PNM-001","Non Urgent","Company HQ","Written"
+2907,2014-01-24,2014-01-28,Irene,Thomas,FEMALE,"Billy Elliott","Comm-2","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"HOC-050","Non Urgent","Bank Branch","In person"
+2913,2014-01-24,2014-02-04,Stephanie,Fox,FEMALE,"Eric Lawrence","Bonus Based","REGISTRATION FORM OF REGISTRATION","West","CLOSED",Washington,"CAP-025","Non Urgent","Company HQ","Fax"
+2916,2014-01-21,2014-02-26,Jose,Williams,MALE,"Brandon Griffin","Comm-6","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"CAS-012","Non Urgent","CRO","Written"
+2918,2014-01-27,2014-02-04,Barbara,Griffin,FEMALE,"Walter Lawrence","Comm-5","DISCLAIMER OF DISMISSAL","South","CLOSED",Georgia,"CAS-015","Urgent","Company HQ","Court Order"
+2921,2014-01-28,2014-01-30,Doris,Hart,FEMALE,"Dennis Peterson","Bonus Based","MODIFICATION REQUEST","South","CLOSED",Arkansas,"LBL-043","Non Urgent","Company HQ","Fax"
+2923,2014-01-23,2014-02-05,Rose,Jacobs,FEMALE,"Robert Rodriguez","Bonus Based","UPDATE REQUEST","South","CLOSED",Georgia,"CAS-066","Non Urgent","Bank Branch","Email"
+2925,2014-01-29,2014-02-07,Donna,Jordan,FEMALE,"Ronald Welch","Comm-7","SECURITY PUBLISHING CONTRACT","West","CLOSED",California,"BNM-040","Non Urgent","CRO","Written"
+2926,2014-01-29,2014-02-06,Nicholas,Mccoy,MALE,"Shawn George","Comm-9","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Virginia,"CAS-015","Non Urgent","Bank HQ","Phone"
+2932,2014-01-29,2014-02-03,Phillip,Ferguson,MALE,"George Wallace","Comm-7","INDEPENDENT DISMISSAL","Northeast","CLOSED","New York","BNM-037","Non Urgent","CRO","Written"
+2933,2014-01-31,2014-01-31,Bobby,Watkins,MALE,"Timothy Sims","Comm-2","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",California,"CAP-029","Non Urgent","Bank Branch","In person"
+2934,2014-01-27,2014-02-13,Martin,Jenkins,MALE,"Fred Morris","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Massachusetts,"MOT-009","Non Urgent","CRO","Written"
+2935,2014-01-31,2014-02-03,Julia,Hart,FEMALE,"Todd Freeman","Comm-5","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Texas,"CAS-021","Non Urgent","Company HQ","Court Order"
+2936,2014-01-31,2014-02-13,Adam,Frazier,MALE,"Earl Jordan","No Commission","UPDATE REQUEST","West","CLOSED",California,"LBL-044","Non Urgent","Company HQ","Fax"
+2937,2014-01-31,2014-02-06,Andrew,Green,MALE,"Craig Russell","Comm-9","UPDATE REQUEST","Northeast","CLOSED",Connecticut,"HOC-047","Non Urgent","Company HQ","Fax"
+2945,2014-02-03,2014-04-10,Gregory,Cunningham,MALE,"Keith Walker","No Commission","SECURITY BUILDING REQUEST, SECURITY RETURN","Northeast","CLOSED","New York","HOC-053","Non Urgent","Company HQ","Written"
+2946,2014-02-03,2014-02-10,Sarah,Pierce,FEMALE,"Ralph Alvarez","Comm-2","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"HOC-048","Non Urgent","Bank HQ","Phone"
+2947,2014-02-04,2014-02-17,Jason,Stanley,MALE,"Eric Collins","Comm-4","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",Arizona,"BNM-035","Non Urgent","Company HQ","Written"
+2949,2014-02-04,2014-02-06,James,Brown,MALE,"Justin Gardner","Comm-7","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Tennessee,"PNM-002","Non Urgent","Bank Branch","In person"
+2953,2014-02-04,2014-03-05,Rose,Woods,FEMALE,"Philip Ramos","No Commission","INDEPENDENT DISMISSAL","West","CLOSED",California,"CAP-024","Urgent","Company HQ","Written"
+2955,2014-02-05,2014-02-06,Lois,Porter,FEMALE,"Jose Burns","Comm-8","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"HOC-064","Non Urgent","Company HQ","Written"
+2956,2014-02-05,2014-02-25,Jose,Carpenter,MALE,"Phillip Jacobs","Comm-6","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAS-066","Non Urgent","Bank Branch","In person"
+2959,2014-02-03,2014-03-17,Jimmy,Hamilton,MALE,"Edward Gilbert","Comm-2","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Midwest","CLOSED",Illinois,"MMP-005","Non Urgent","Company HQ","Email"
+2977,2014-01-14,2014-01-24,Gregory,Smith,MALE,"Ernest Wright","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAS-077","Non Urgent","Bank HQ","Phone"
+2978,2014-02-10,2014-02-13,Annie,Snyder,FEMALE,"Harry Ford","Comm-2","POWER FOR PRESENTATION OR WRONG","South","CLOSED","North Carolina","CAS-019","Non Urgent","Bank HQ","Email"
+2983,2014-02-12,2014-03-10,Larry,Gomez,MALE,"Kenneth Fields","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED","New York","CAP-027","Non Urgent","Company HQ","Written"
+2987,2014-02-13,2014-02-24,Jason,Freeman,MALE,"Sean Montgomery","Comm-2","DISCLAIMER OF DISMISSAL","West","CLOSED",California,"PNM-002","Non Urgent","Company HQ","Court Order"
+2991,2014-02-14,2014-02-28,Brenda,Hamilton,FEMALE,"Eugene Griffin","Comm-7","DISCLAIMER OF DISMISSAL","West","CLOSED",California,"BNM-034","Non Urgent","Company HQ","Court Order"
+3000,2014-02-06,2014-03-13,Marie,Mendoza,FEMALE,"Steven Fuller","Bonus Based","POWER FOR PRESENTATION OR WRONG","West","CLOSED",Arizona,"BNM-036","Urgent","Company HQ","Written"
+3002,2014-02-19,2014-02-19,Margaret,Larson,FEMALE,"Carlos Kelly","Comm-5","SECURITY BUILDING REQUEST, SECURITY RETURN","South","CLOSED",Florida,"HOC-056","Non Urgent","Company HQ","Written"
+3013,2014-02-21,2014-03-31,Christina,Davis,FEMALE,"Joshua Ellis","Comm-4","UPDATE REQUEST","South","CLOSED","North Carolina","CAP-027","Non Urgent","Company HQ","Fax"
+3014,2014-02-24,2014-05-12,Jane,Alvarez,FEMALE,"Victor Hanson","No Commission","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Illinois,"CAS-017","Non Urgent","Company HQ","Written"
+3015,2014-03-10,2014-03-12,Julie,Wells,FEMALE,"Terry Mason","Comm-2","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","New York","HOC-053","Non Urgent","CRO","Written"
+3016,2014-02-24,2014-03-07,Jesse,Reynolds,MALE,"Howard Sims","Comm-8","POOR SERVICE","Midwest","CLOSED",Michigan,"OOT-061","Non Urgent","Intermediary","Phone"
+3019,2014-02-24,2014-02-26,Mary,Butler,FEMALE,"Stephen Stevens","Comm-2","CERTIFICATE OF CONTENTS","West","CLOSED",California,"CAS-018","Non Urgent","Company HQ","Fax"
+3025,2014-02-26,2014-04-16,Antonio,Ryan,MALE,"Daniel Hunter","Comm-8","DISCLAIMER OF A SERVICE ","West","CLOSED",Arizona,"BNM-040","Non Urgent","Company HQ","Fax"
+3030,2014-02-28,2014-04-01,Wayne,Carroll,MALE,"Nicholas Campbell","Comm-7","SECURITY BUILDING REQUEST, SECURITY RETURN","South","CLOSED",Maryland,"BNM-062","Non Urgent","Company HQ","Email"
+3038,2014-03-05,2014-03-07,Tina,Gibson,FEMALE,"Ronald Lane","Bonus Based","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"HHC-063","Non Urgent","Bank Branch","In person"
+3044,2014-03-05,2014-03-27,Alice,Morris,FEMALE,"Roger Washington","Comm-6","IGNORANCE OF EXISTENCE","West","CLOSED",California,"HHC-063","Non Urgent","Company HQ","Written"
+3049,2014-03-06,2014-03-13,Martha,Morris,FEMALE,"Peter Fowler","Bonus Based","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Illinois,"PNM-003","Non Urgent","Bank HQ","Phone"
+3054,2014-03-07,2014-03-19,Timothy,Richards,MALE,"Lawrence George","Comm-3","UPDATE REQUEST","West","CLOSED",California,"HOC-054","Non Urgent","Company HQ","Fax"
+3056,2014-02-26,2014-03-13,David,Powell,MALE,"Ralph Alvarez","Comm-2","IGNORANCE OF EXISTENCE","Midwest","CLOSED",Indiana,"CAS-067","Non Urgent","Company HQ","Written"
+3062,2014-03-12,2014-03-19,Russell,Harper,MALE,"Jose Moore","Bonus Based","DETERMINATION OR LOSS OF ABSOLUTE REGISTRATIONS","West","CLOSED",Idaho,"HHC-078","Urgent","Call Center","Phone"
+3064,2014-02-25,2014-03-12,Mildred,Marshall,FEMALE,"Kevin Rose","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Indiana,"BNM-033","Non Urgent","Company HQ","Email"
+3068,2014-03-13,2014-03-21,"Energizer Group",,,"Eugene Garza","Comm-7","UPDATE REQUEST","Northeast","CLOSED",Massachusetts,"HOC-053","Non Urgent","Company HQ","Email"
+3069,2014-03-14,2014-03-14,Julia,Hart,FEMALE,"Lawrence Howell","Comm-7","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Texas,"MMP-006","Urgent","Company HQ","Court Order"
+3071,2014-03-06,2014-03-17,Sara,Simpson,FEMALE,"David Hall","Comm-6","CONCLUSION HELLIPIS SERVICE FROM EXECUTIVE / EXTERNAL COOPERATIVE","Midwest","CLOSED",Ohio,"MMP-006","Non Urgent","Company HQ","In person"
+3072,2014-03-14,2014-03-28,Christine,Weaver,FEMALE,"Paul Diaz","Comm-9","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"HHC-078","Non Urgent","Company HQ","Phone"
+3074,2014-03-17,2014-03-19,Chris,Mccoy,MALE,"Harry Banks","Bonus Based","DISCLAIMER OF DISMISSAL","West","CLOSED",California,"MMP-004","Non Urgent","Company HQ","Written"
+3080,2014-03-18,2014-04-07,Sandra,Murphy,FEMALE,"Todd Brown","Bonus Based","UPDATE REQUEST","South","CLOSED",Texas,"BMB-042","Non Urgent","Company HQ","Phone"
+3081,2014-03-16,2014-04-25,Tina,Moreno,FEMALE,"Arthur Garza","Comm-2","DO NOT USE A REQUEST","South","CLOSED","South Carolina","HOC-064","Non Urgent","Company HQ","Fax"
+3084,2014-01-14,2014-03-04,Stephen,West,MALE,"Steve Bryant","Bonus Based","CONTRACT-MAINTENANCE DEVELOPMENT","South","CLOSED","North Carolina","CAP-024","Urgent","Company HQ","In person"
+3087,2014-02-17,2014-03-21,Anna,Hawkins,FEMALE,"Ronald Flores","Comm-5","CONTRACT-MAINTENANCE DEVELOPMENT","Northeast","CLOSED","New York","HOC-056","Non Urgent","Company HQ","Phone"
+3088,2014-03-20,2014-03-28,Maria,Jacobs,FEMALE,"Benjamin Reid","Bonus Based","POOR SERVICE","South","CLOSED",Texas,"MMP-006","Non Urgent","Company HQ","Email"
+3090,2014-03-24,2014-03-24,Paul,Shaw,MALE,"Martin Carr","No Commission","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"LBL-045","Non Urgent","Bank Branch","Phone"
+3091,2014-03-21,2014-04-04,Michelle,Baker,FEMALE,"Stephen Howard","Bonus Based","UPDATE REQUEST","Midwest","CLOSED",Illinois,"BNM-037","Non Urgent","Company HQ","Written"
+3098,2014-03-27,2014-03-27,Alice,Medina,FEMALE,"Todd Lane","No Commission","IGNORANCE OF EXISTENCE","Midwest","CLOSED",Minnesota,"CAP-024","Non Urgent","Bank Branch","Written"
+3101,2014-03-27,2014-03-31,Sharon,Riley,FEMALE,"Stephen Carroll","Comm-2","UPDATE REQUEST","South","CLOSED",Texas,"BMB-042","Non Urgent","Company HQ","Fax"
+3102,2014-03-28,2014-04-07,Gloria,Chapman,FEMALE,"Philip Arnold","Bonus Based","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Indiana,"BNM-040","Non Urgent","Bank Branch","In person"
+3104,2014-03-31,2014-04-01,Bruce,Warren,MALE,"Jimmy Duncan","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"HOC-056","Non Urgent","Company HQ","Written"
+3108,2014-03-31,2014-04-02,Helen,Ford,FEMALE,"Stephen Duncan","No Commission","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",Colorado,"MOT-009","Non Urgent","Company HQ","Email"
+3113,2014-04-03,2014-04-03,Andrea,Garcia,FEMALE,"Carl Brown","No Commission","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",Oregon,"FPT-060","Non Urgent","Bank Branch","In person"
+3115,2014-03-26,2014-03-31,Michael,Schmidt,MALE,"Roger Ramos","Comm-8","POOR SERVICE","South","CLOSED",Virginia,"BNM-062","Urgent","Company HQ","Phone"
+3116,2014-04-03,2014-04-03,Theresa,Montgomery,FEMALE,"Alan Howard","Comm-3","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Nebraska,"CAS-014","Non Urgent","Company HQ","Written"
+3117,2014-04-03,2014-04-09,Rachel,Peters,FEMALE,"Nicholas Gomez","Comm-8","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Texas,"MOT-011","Non Urgent","CRO","Phone"
+3123,2014-04-03,2014-05-15,Keith,Reynolds,MALE,"Sean Anderson","No Commission","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",California,"PNM-002","Non Urgent","Company HQ","Fax"
+3126,2014-04-07,2014-04-07,Edward,Cole,MALE,"Philip Murray","Comm-4","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Texas,"CAS-066","Non Urgent","Company HQ","Court Order"
+3127,2014-04-07,2014-04-23,Ruth,Grant,FEMALE,"Todd Hawkins","Bonus Based","CERTIFICATE OF CONTENTS","South","CLOSED",Oklahoma,"BNM-038","Non Urgent","Company HQ","Fax"
+3129,2014-04-07,2014-04-25,Marie,Bailey,FEMALE,"Ernest Fields","Comm-7","UPDATE REQUEST","West","CLOSED",California,"LOL-046","Non Urgent","Company HQ","Phone"
+3136,2014-04-10,2014-04-16,Carlos,Gonzales,MALE,"Carlos Mills","Comm-4","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Indiana,"CAP-029","Non Urgent","Bank HQ","Phone"
+3137,2014-04-11,2014-05-09,Doris,Elliott,FEMALE,"Louis Bennett","No Commission","MODIFICATION REQUEST","Midwest","CLOSED",Missouri,"BMB-042","Non Urgent","Company HQ","Written"
+3140,2014-04-14,2014-04-14,Patricia,Johnson,FEMALE,"Adam Baker","No Commission","USE OF OTHER / OTHER EXPENSES","Midwest","CLOSED",Wisconsin,"HOC-055","Non Urgent","Bank Branch","In person"
+3143,2014-04-02,2014-04-15,Marilyn,James,FEMALE,"Fred Lewis","No Commission","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Georgia,"MOT-010","Urgent","Company HQ","Court Order"
+3155,2014-04-09,2014-04-22,Mildred,Castillo,FEMALE,"Jeremy Reyes","Comm-2","ACCOMMODATION RECONSTRUCTION","Northeast","CLOSED","New York","CAS-021","Non Urgent","Company HQ","Written"
+3156,2014-04-22,2014-04-22,Brian,Brooks,MALE,"Gregory Mills","Comm-4","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Indiana,"LOL-046","Non Urgent","CRO","In person"
+3171,2014-04-25,2014-05-06,Deborah,Richardson,FEMALE,"Thomas Greene","Comm-4","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"MOT-007","Non Urgent","Bank Branch","Written"
+3173,2014-04-28,2014-05-14,Donna,Phillips,FEMALE,"Stephen Stevens","Comm-2","SECURITY BUILDING REQUEST, SECURITY RETURN","Midwest","CLOSED",Minnesota,"MOT-009","Non Urgent","Company HQ","Email"
+3175,2014-04-28,2014-05-08,Larry,Ford,MALE,"David Hall","Comm-6","POOR SERVICE","South","CLOSED",Florida,"CAP-025","Non Urgent","CRO","Phone"
+3181,2014-04-30,2014-05-16,Gregory,Lynch,MALE,"Kevin Sanders","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",California,"MOT-008","Non Urgent","Bank Branch","In person"
+3183,2014-04-30,2014-04-30,Benjamin,Little,MALE,"Jimmy Montgomery","Comm-2","POOR SERVICE","West","CLOSED",California,"HOC-064","Urgent","Company HQ","Court Order"
+3189,2014-05-05,2014-05-16,Brenda,Jenkins,FEMALE,"Harry Washington","Comm-3","CONTRACT NOTICE (USE OR FAITH)","South","CLOSED",Florida,"HOC-047","Non Urgent","Bank HQ","Phone"
+3193,2014-05-06,2014-05-06,Catherine,Clark,FEMALE,"Kevin Bell","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Wisconsin,"HHC-057","Non Urgent","Bank Branch","Written"
+3203,2014-05-08,2014-05-19,Juan,Ray,MALE,"Louis Gordon","Bonus Based","POOR SERVICE","Midwest","CLOSED",Illinois,"BNM-034","Non Urgent","Company HQ","Fax"
+3210,2014-05-06,2014-05-16,Kelly,Watson,FEMALE,"Harry Reynolds","Comm-5","POWER FOR PRESENTATION OR WRONG","West","CLOSED",Utah,"HOC-055","Non Urgent","Bank Branch","Written"
+3211,2014-05-06,2014-05-21,Patricia,Johnson,FEMALE,"Clarence Brown","Comm-3","MODIFICATION REQUEST","Midwest","CLOSED",Wisconsin,"CAS-012","Non Urgent","Company HQ","Written"
+3215,2014-05-12,2014-05-15,Marilyn,Riley,FEMALE,"Lawrence Stevens","Comm-2","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Northeast","CLOSED",Massachusetts,"CAP-029","Non Urgent","CRO","Email"
+3217,2014-05-13,2014-05-28,Joseph,Ferguson,MALE,"Gary Rodriguez","Comm-7","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"CAS-020","Non Urgent","Company HQ","Written"
+3221,2014-05-14,2014-05-20,Michelle,Bishop,FEMALE,"Antonio Lynch","Comm-2","DISCLAIMER OF DISMISSAL","West","CLOSED",California,"LBL-045","Non Urgent","Company HQ","Court Order"
+3234,2014-05-21,2014-05-22,Joe,Jackson,MALE,"Clarence Brown","Comm-3","UPDATE REQUEST","South","CLOSED",Texas,"CAS-077","Non Urgent","Company HQ","Written"
+3236,2014-05-15,2014-06-20,Brenda,Grant,FEMALE,"Stephen Duncan","No Commission","DISCLAIMER OF DISMISSAL","Midwest","CLOSED",Kansas,"BMB-042","Non Urgent","Company HQ","Court Order"
+3238,2014-05-22,2014-05-22,Justin,Fox,MALE,"Keith Welch","Comm-8","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",California,"BNM-073","Non Urgent","Bank Branch","In person"
+3242,2014-05-21,2014-05-27,Lisa,Wagner,FEMALE,"Martin Franklin","Comm-7","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Missouri,"CAS-017","Non Urgent","Bank HQ","Email"
+3245,2014-05-22,2014-05-23,Debra,Carpenter,FEMALE,"Ryan Black","Comm-2","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Florida,"CAS-076","Non Urgent","Company HQ","Written"
+3246,2014-05-02,2014-05-23,Lois,Adams,FEMALE,"Arthur Peters","Comm-8","MODIFICATION REQUEST","South","CLOSED",Georgia,"CAP-028","Non Urgent","Company HQ","Written"
+3250,2014-05-26,2014-05-26,Jennifer,Lopez,FEMALE,"Louis Bennett","No Commission","UPDATE REQUEST","West","CLOSED",California,"CAS-017","Non Urgent","Company HQ","Written"
+3252,2014-05-27,2014-05-27,Adam,Armstrong,MALE,"Andrew Smith","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"HOC-049","Non Urgent","Company HQ","Written"
+3254,2014-05-27,2014-05-27,Bonnie,Day,FEMALE,"Jimmy Turner","Comm-2","SELF-DETERMINED EXPRESSION OF INSURANCE","South","CLOSED",Florida,"CAS-015","Non Urgent","Company HQ","Written"
+3260,2014-05-29,2014-06-12,Annie,Banks,FEMALE,"Eugene Holmes","Bonus Based","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","New York","BNM-035","Non Urgent","Bank Branch","In person"
+3275,2014-06-03,2014-06-03,Peter,Dean,MALE,"Raymond Wood","Comm-3","USE OF OTHER / OTHER EXPENSES","South","CLOSED",Florida,"CAS-015","Non Urgent","Bank Branch","Written"
+3276,2014-06-03,2014-06-17,Diana,Castillo,FEMALE,"Carl Henderson","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Missouri,"CAP-070","Non Urgent","Company HQ","Written"
+3279,2014-06-04,2014-06-11,Clarence,Phillips,MALE,"Willie Hudson","Comm-2","REGISTRATION FORM OF REGISTRATION","West","CLOSED",California,"CAP-070","Non Urgent","Bank Branch","Written"
+3280,2014-06-04,2014-06-05,Kathryn,Rogers,FEMALE,"Antonio Lynch","Comm-2","CERTIFICATE OF CONTENTS","South","CLOSED",Florida,"MMP-005","Non Urgent","Company HQ","Fax"
+3281,2014-06-04,2014-06-05,Carlos,Thompson,MALE,"George Perez","Comm-2","UPDATE REQUEST","Midwest","CLOSED",Illinois,"CAS-014","Non Urgent","Company HQ","Fax"
+3287,2014-06-04,2014-06-04,Lori,Watson,FEMALE,"Daniel Harris","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Washington,"BNM-036","Non Urgent","Company HQ","Fax"
+3288,2014-06-05,2014-07-15,Amy,Mitchell,FEMALE,"Howard Sims","Comm-8","UPDATE REQUEST","West","CLOSED",California,"LBL-045","Non Urgent","Bank Branch","Written"
+3289,2014-06-05,2014-06-10,Antonio,Hernandez,MALE,"Sean Russell","Comm-2","CERTIFICATE OF CONTENTS","South","CLOSED",Texas,"HOC-053","Non Urgent","Company HQ","Fax"
+3299,2014-06-11,2014-06-13,Howard,Washington,MALE,"Fred Morris","Comm-2","TERMS IN PRODUCT USE","Northeast","CLOSED","New Jersey","HOC-054","Non Urgent","CRO","Written"
+3300,2014-06-11,2014-11-19,Deborah,Simmons,FEMALE,"Ronald Nguyen","Comm-6","UPDATE REQUEST","South","CLOSED",Georgia,"HHC-063","Non Urgent","Company HQ","Fax"
+3302,2014-06-10,2014-06-12,Jason,James,MALE,"Paul Andrews","Comm-5","REGISTRATION FORM OF REGISTRATION","West","CLOSED",California,"MOT-009","Non Urgent","Company HQ","Written"
+3304,2014-06-11,2014-06-13,Fred,Hicks,MALE,"Albert Lopez","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Kansas,"MOT-010","Non Urgent","Bank Branch","Written"
+3305,2014-06-12,2014-08-25,"CSL ",,,"Bobby Reed","Comm-9","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Virginia,"BNM-041","Non Urgent","Company HQ","Fax"
+3308,2014-06-13,2014-06-16,Elizabeth,Howell,FEMALE,"Paul Gardner","Comm-6","PRODUCTION PRODUCT","South","CLOSED",Florida,"HHC-078","Non Urgent","Bank Branch","In person"
+3309,2014-06-13,2014-06-13,Roy,Howard,MALE,"Aaron Wheeler","No Commission","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Wisconsin,"BNM-062","Non Urgent","CRO","Phone"
+3328,2014-06-18,2014-06-18,Heather,Chapman,FEMALE,"Sean Schmidt","Comm-6","CERTIFICATE OF CONTENTS","Northeast","CLOSED",Massachusetts,"CAS-013","Non Urgent","Bank Branch","Written"
+3331,2014-06-18,2014-06-18,Andrew,Edwards,MALE,"Frank Robinson","Comm-3","UPDATE REQUEST","Midwest","CLOSED",Iowa,"BNM-031","Non Urgent","Bank Branch","Written"
+3336,2014-06-18,2014-06-24,Bonnie,Franklin,FEMALE,"Kenneth Morris","Bonus Based","CERTIFICATE OF CONTENTS","Northeast","CLOSED",Massachusetts,"CAP-025","Non Urgent","Company HQ","Fax"
+3338,2014-06-18,2014-06-18,Laura,Davis,FEMALE,"Aaron Collins","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Illinois,"MMP-004","Non Urgent","Company HQ","Written"
+3339,2014-06-19,2014-07-18,Maria,Larson,FEMALE,"Philip Gonzales","No Commission","UPDATE REQUEST","South","CLOSED",Florida,"HOC-054","Non Urgent","Company HQ","Written"
+3341,2014-06-17,2014-06-24,Adam,Harper,MALE,"Justin Bennett","Bonus Based","UPDATE REQUEST","Midwest","CLOSED",Kansas,"MOT-008","Non Urgent","Company HQ","Written"
+3344,2014-06-20,2014-06-20,Judith,Mendoza,FEMALE,"Nicholas Clark","Comm-5","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",California,"BNM-036","Non Urgent","Bank Branch","In person"
+3346,2014-06-18,2014-07-02,Ruth,Black,FEMALE,"Aaron Stone","Bonus Based","POOR SERVICE","Midwest","CLOSED",Illinois,"CAS-077","Urgent","Company HQ","Written"
+3350,2014-06-23,2014-07-07,Frances,Gilbert,FEMALE,"Antonio Lynch","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Oklahoma,"BNM-041","Non Urgent","Bank Branch","In person"
+3362,2014-06-24,2014-06-27,Emily,Hicks,FEMALE,"Albert Harvey","Comm-7","UPDATE REQUEST","Northeast","CLOSED",Pennsylvania,"HOC-055","Non Urgent","Company HQ","Written"
+3367,2014-06-30,2014-07-08,Brandon,Murphy,MALE,"Harry Banks","Bonus Based","POOR SERVICE","South","CLOSED",Texas,"CAP-023","Non Urgent","Partner","Written"
+3369,2014-06-30,2014-07-24,Chris,King,MALE,"Mark Fisher","Bonus Based","CONTRACT-MAINTENANCE DEVELOPMENT","Midwest","CLOSED",Illinois,"CAS-015","Non Urgent","Company HQ","Written"
+3377,2014-07-02,2014-07-11,Jerry,Kennedy,MALE,"David Rodriguez","Bonus Based","UPDATE REQUEST","Midwest","CLOSED",Indiana,"CAS-014","Non Urgent","Company HQ","Written"
+3379,2014-07-01,2014-08-06,Earl,James,MALE,"Philip Gonzales","No Commission","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Illinois,"CAS-067","Non Urgent","Call Center","Phone"
+3381,2014-07-03,2014-07-09,Bonnie,Vasquez,FEMALE,"Jeremy Mitchell","Bonus Based","UPDATE REQUEST","Northeast","CLOSED",Pennsylvania,"MOT-007","Urgent","Call Center","Call center"
+3399,2014-07-09,2014-07-09,Victor,Moreno,MALE,"Justin Lynch","Comm-2","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Indiana,"BNM-062","Non Urgent","Company HQ","Email"
+3401,2014-07-10,2014-07-10,Sarah,Ford,FEMALE,"Joseph Morrison","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Texas,"MMP-004","Non Urgent","Company HQ","Written"
+3402,2014-07-07,2014-08-19,Martin,Gordon,MALE,"Todd Brown","Bonus Based","RESEARCH REQUEST","Midwest","CLOSED",Indiana,"CAP-028","Non Urgent","Company HQ","Written"
+3411,2014-07-11,2014-07-14,Kevin,Vasquez,MALE,"Raymond Sanders","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",Oregon,"MMP-004","Non Urgent","Company HQ","Email"
+3422,2014-07-13,2014-07-16,Phyllis,Gilbert,FEMALE,"Terry Shaw","Comm-7","MODIFICATION REQUEST","West","CLOSED",California,"CAS-067","Non Urgent","Company HQ","Email"
+3439,2014-07-22,2014-08-11,Thomas,Alexander,MALE,"Russell Fox","Bonus Based","SECURITY BUILDING REQUEST, SECURITY RETURN","Midwest","CLOSED",Illinois,"BNM-032","Non Urgent","Company HQ","Fax"
+3447,2014-07-22,2014-07-29,Catherine,Spencer,FEMALE,"Jonathan Adams","Comm-8","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",Arizona,"CAS-016","Non Urgent","Bank Branch","Phone"
+3449,2014-07-28,2014-07-28,Brian,Oliver,MALE,"Randy Reyes","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Texas,"BNM-031","Non Urgent","Company HQ","Written"
+3451,2014-07-16,2014-07-31,Joshua,Howard,MALE,"Ryan Gardner","No Commission","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Oklahoma,"LBL-043","Non Urgent","Bank Branch","Phone"
+3456,2014-07-30,2014-07-30,Benjamin,Mitchell,MALE,"Peter Riley","Comm-2","CERTIFICATE OF CONTENTS","Northeast","CLOSED","New Jersey","OOT-061","Non Urgent","Company HQ","Email"
+3459,2014-07-31,2014-08-18,Chris,Gonzales,MALE,"Robert Fields","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Michigan,"LBL-044","Non Urgent","Bank Branch","Written"
+3467,2014-08-01,2014-09-12,Steve,Adams,MALE,"Jose Brown","Comm-2","POOR SERVICE","South","CLOSED",Florida,"FPT-060","Non Urgent","Company HQ","Email"
+3474,2014-08-05,2014-08-08,Ann,Garcia,FEMALE,"Henry Oliver","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",Washington,"BNM-062","Non Urgent","Bank Branch","Written"
+3475,2014-08-07,2014-08-29,Jacqueline,Myers,FEMALE,"Jimmy Nelson","Comm-9","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED",Connecticut,"PNM-001","Non Urgent","Company HQ","Email"
+3481,2014-08-12,2014-08-12,Kathleen,Hart,FEMALE,"Roger Richards","No Commission","POOR SERVICE","South","CLOSED",Texas,"PNM-001","Non Urgent","CRO","Court Order"
+3482,2014-08-12,2014-08-12,Katherine,Mccoy,FEMALE,"Craig Russell","Comm-9","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Missouri,"CAS-076","Non Urgent","Bank Branch","Written"
+3486,2014-08-13,2014-08-14,Irene,Banks,FEMALE,"Roger Robertson","No Commission","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Virginia,"CAP-069","Non Urgent","Bank Branch","In person"
+3493,2014-08-18,2014-08-18,Edward,Oliver,MALE,"Jeffrey Murray","Comm-2","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",Utah,"LOL-046","Non Urgent","Call Center","Phone"
+3496,2014-08-19,2014-08-19,Anna,Harris,FEMALE,"Christopher Harper","Comm-4","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Illinois,"LBL-045","Non Urgent","Bank Branch","In person"
+3512,2014-08-26,2014-09-12,Mark,Harris,MALE,"Victor Mccoy","Bonus Based","USE OF OTHER / OTHER EXPENSES","West","CLOSED",California,"CAS-015","Non Urgent","Bank Branch","Written"
+3514,2014-08-18,2014-09-22,Marie,Burke,FEMALE,"Martin Griffin","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAS-018","Non Urgent","Company HQ","Email"
+3515,2014-08-27,2014-09-11,Thomas,Robertson,MALE,"Todd Freeman","Comm-5","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Texas,"CAS-065","Non Urgent","Bank Branch","Written"
+3528,2014-08-28,2014-09-03,Linda,Bailey,FEMALE,"Gary Snyder","No Commission","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",California,"CAP-023","Non Urgent","Company HQ","Written"
+3529,2014-08-22,2014-09-09,Susan,Jordan,FEMALE,"Timothy Grant","Comm-9","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Wisconsin,"CAS-020","Non Urgent","Company HQ","Email"
+3530,2014-09-03,2014-09-03,Laura,Hansen,FEMALE,"Todd Hawkins","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",California,"BNM-073","Non Urgent","Company HQ","Written"
+3533,2014-09-04,2014-09-04,Terry,Foster,MALE,"Harry Banks","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",Arizona,"BNM-073","Non Urgent","Bank Branch","In person"
+3540,2014-09-09,2014-09-11,Paul,Simmons,MALE,"Antonio Mendoza","Comm-4","POWER FOR PRESENTATION OR WRONG","West","CLOSED",Oregon,"BNM-032","Non Urgent","Bank Branch","In person"
+3542,2014-09-09,2014-09-23,Gerald,Wheeler,MALE,"Frank West","No Commission","IGNORANCE OF EXISTENCE","South","CLOSED",Florida,"CAS-077","Non Urgent","Company HQ","Fax"
+3544,2014-09-10,2014-09-12,Catherine,Clark,FEMALE,"Antonio Sullivan","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Wisconsin,"CAS-018","Non Urgent","Company HQ","Written"
+3545,2014-09-10,2014-09-19,Helen,Montgomery,FEMALE,"Arthur Patterson","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED","New York","CAS-019","Non Urgent","Bank Branch","Written"
+3547,2014-09-11,2014-09-29,Shirley,Mcdonald,FEMALE,"Ernest Ruiz","Comm-2","POOR SERVICE","South","CLOSED",Virginia,"BNM-035","Non Urgent","Company HQ","Written"
+3551,2014-09-12,2014-10-24,Donald,Mason,MALE,"Phillip Pierce","Comm-7","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"MMP-006","Non Urgent","Company HQ","Written"
+3555,2014-09-16,2014-10-02,Chris,Simmons,MALE,"Keith Mcdonald","Comm-2","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED",Massachusetts,"CAS-021","Non Urgent","Bank Branch","Written"
+3559,2014-09-16,2014-11-12,Christopher,Bowman,MALE,"David Fuller","Bonus Based","PAYMENT POLICY","West","CLOSED",Colorado,"CAP-024","Non Urgent","Company HQ","Email"
+3562,2014-09-17,2014-09-17,Russell,James,MALE,"Nicholas Hawkins","Comm-7","USE OF OTHER / OTHER EXPENSES","West","CLOSED",California,"CAS-076","Non Urgent","Company HQ","Phone"
+3566,2014-09-19,2014-09-19,David,Powell,MALE,"Timothy Sims","Comm-2","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Indiana,"HOC-048","Non Urgent","Bank Branch","Written"
+3569,2014-09-19,2014-10-06,Martin,Nguyen,MALE,"Justin Knight","Comm-2","REVIVAL REQUEST","Northeast","CLOSED","New Jersey","CAS-016","Non Urgent","Bank Branch","Written"
+3572,2014-09-19,2014-09-25,Lawrence,Nichols,MALE,"Jeremy Elliott","Comm-7","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Georgia,"MOT-009","Non Urgent","Company HQ","Written"
+3574,2014-09-19,2014-09-19,Cheryl,Dean,FEMALE,"Bruce Wallace","No Commission","REGISTRATION FORM OF REGISTRATION","South","CLOSED","North Carolina","LOL-046","Non Urgent","Company HQ","Written"
+3575,2014-09-18,2014-10-03,Tina,Foster,FEMALE,"Ryan Welch","Comm-9","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",California,"CAP-068","Non Urgent","Company HQ","Written"
+3595,2014-09-26,2014-09-26,Jerry,Henry,MALE,"Thomas Martinez","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",Washington,"CAP-070","Non Urgent","Company HQ","Written"
+3599,2014-09-29,2014-10-31,"Dolgencorp, Group",,,"Albert Chavez","Comm-2","DISCLAIMER OF DISMISSAL","Northeast","CLOSED","New Jersey","HOC-047","Non Urgent","Company HQ","Court Order"
+3600,2014-09-29,2014-10-03,Irene,Moore,FEMALE,"Stephen Howard","Bonus Based","POOR SERVICE","Midwest","CLOSED",Illinois,"CAS-066","Non Urgent","Partner","Email"
+3602,2014-09-30,2014-09-30,Debra,Fernandez,FEMALE,"Peter Mendoza","Comm-2","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Northeast","CLOSED",Pennsylvania,"CAS-022","Non Urgent","Bank Branch","Written"
+3606,2014-10-01,2014-10-24,Carlos,Martinez,MALE,"Jose Brown","Comm-2","POOR SERVICE","South","CLOSED",Virginia,"CAP-024","Non Urgent","Company HQ","Court Order"
+3613,2014-10-03,2014-10-06,Matthew,Wright,MALE,"Wayne Long","Comm-2","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Virginia,"HHC-058","Non Urgent","Company HQ","Written"
+3616,2014-10-07,2014-10-16,Willie,Mccoy,MALE,"Alan Reyes","Bonus Based","POWER FOR PRESENTATION OR WRONG","South","CLOSED","South Carolina","CAS-075","Non Urgent","Bank Branch","Written"
+3621,2014-10-09,2014-10-24,Martin,Carroll,MALE,"Eugene Fowler","Comm-2","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Illinois,"LBL-044","Non Urgent","Bank Branch","Written"
+3625,2014-10-10,2014-10-13,Maria,Simpson,FEMALE,"Antonio Morales","Comm-2","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Tennessee,"HOC-053","Non Urgent","Company HQ","Written"
+3630,2014-10-13,2014-10-31,Gerald,Holmes,MALE,"Christopher Patterson","No Commission","SECURITY BUILDING REQUEST, SECURITY RETURN","West","CLOSED",California,"BNM-039","Non Urgent","Company HQ","Fax"
+3631,2014-10-14,2014-10-15,Michelle,Gonzales,FEMALE,"Sean Anderson","No Commission","USE OF OTHER / OTHER EXPENSES","South","CLOSED",Georgia,"CAS-012","Non Urgent","Bank Branch","Written"
+3636,2014-10-15,2014-11-21,Willie,Williams,MALE,"Lawrence Palmer","Comm-2","DIFFERENCES IN PRICE POLITICS","West","CLOSED",California,"BNM-073","Non Urgent","Company HQ","Email"
+3637,2014-10-15,2014-10-24,Edward,Little,MALE,"George Davis","Bonus Based","DISCLAIMER OF DISMISSAL","Midwest","CLOSED",Illinois,"BNM-041","Urgent","Company HQ","Written"
+3640,2014-10-17,2014-12-05,Douglas,Rice,MALE,"Ernest Wagner","Comm-2","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Indiana,"CAS-020","Non Urgent","Bank Branch","In person"
+3648,2014-10-17,2014-11-13,Bruce,Oliver,MALE,"Jesse Green","Comm-8","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Illinois,"CAP-023","Non Urgent","Call Center","Phone"
+3649,2014-10-20,2015-01-02,Harry,Duncan,MALE,"Gerald Richards","Comm-9","POOR INFORMATION (BEFORE OR WITH THE SALE)","Midwest","CLOSED",Indiana,"CAS-014","Non Urgent","Company HQ","Written"
+3651,2014-10-20,2014-11-11,Adam,George,MALE,"Lawrence Palmer","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",Washington,"MMP-004","Non Urgent","CRO","Written"
+3653,2014-10-20,2014-11-26,Deborah,Richardson,FEMALE,"Joseph Hill","Comm-8","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"CAP-068","Non Urgent","Company HQ","Fax"
+3658,2014-10-20,2014-11-07,William,Smith,MALE,"Timothy Baker","Comm-7","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Illinois,"BNM-062","Non Urgent","Company HQ","Written"
+3661,2014-10-22,2014-11-12,Irene,Stanley,FEMALE,"Fred Phillips","No Commission","SECURITY BUILDING REQUEST, SECURITY RETURN","South","CLOSED",Texas,"PNM-002","Non Urgent","Company HQ","Written"
+3663,2014-10-22,2014-11-07,Nicole,Wood,FEMALE,"Harold Rogers","Comm-2","UPDATE REQUEST","South","CLOSED",Florida,"CAP-025","Non Urgent","Company HQ","Written"
+3667,2014-10-22,2014-11-25,Craig,Castillo,MALE,"David Fuller","Bonus Based","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Indiana,"BNM-073","Urgent","Company HQ","Written"
+3673,2014-10-29,2015-01-02,Joseph,Hansen,MALE,"Shawn Fernandez","Comm-2","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Arkansas,"CAP-026","Non Urgent","Bank HQ","Email"
+3676,2014-10-30,2014-12-04,Matthew,Brooks,MALE,"Antonio Mendoza","Comm-4","REGISTRATION FORM OF REGISTRATION","South","CLOSED","North Carolina","HOC-051","Non Urgent","Company HQ","Email"
+3679,2014-11-03,2014-11-24,Douglas,Moreno,MALE,"David Collins","Comm-6","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","West","CLOSED",California,"HOC-056","Non Urgent","Intermediary","Email"
+3684,2014-11-04,2014-11-19,Amanda,Andrews,FEMALE,"Arthur Torres","Bonus Based","REGISTRATION FORM OF REGISTRATION","Midwest","CLOSED",Indiana,"PNM-003","Non Urgent","Company HQ","Written"
+3685,2014-11-04,2014-11-18,Bobby,Welch,MALE,"Carlos Stevens","No Commission","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Missouri,"HOC-055","Non Urgent","Bank HQ","Email"
+3691,2014-11-07,2014-11-24,Sean,Wagner,MALE,"Adam Dunn","Bonus Based","REGISTRATION FORM OF REGISTRATION","South","CLOSED",Florida,"BNM-038","Non Urgent","Company HQ","Written"
+3705,2014-11-12,2015-02-10,Paul,Hill,MALE,"Jeffrey Jenkins","Comm-8","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","New York","HHC-058","Non Urgent","Bank Branch","Written"
+3710,2014-11-13,2014-11-28,Joyce,Gomez,FEMALE,"Ralph Green","Comm-3","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"BNM-062","Non Urgent","Company HQ","Written"
+3711,2014-11-11,2014-11-24,Helen,Montgomery,FEMALE,"Gregory Mills","Comm-4","MODIFICATION REQUEST","Northeast","CLOSED","New York","CAS-065","Non Urgent","Bank Branch","Written"
+3712,2014-11-11,2014-11-24,Mark,Lynch,MALE,"Martin Franklin","Comm-7","MODIFICATION REQUEST","West","CLOSED",Nevada,"CAP-070","Non Urgent","Bank Branch","Written"
+3722,2014-11-17,2014-12-05,Janice,Ward,FEMALE,"Randy Shaw","Comm-2","UPDATE REQUEST","South","CLOSED",Texas,"CAP-025","Non Urgent","Company HQ","Written"
+3727,2014-11-17,2014-12-01,Annie,Berry,FEMALE,"Russell Fox","Bonus Based","REVIVAL REQUEST","Midwest","CLOSED",Illinois,"HHC-058","Non Urgent","Company HQ","Written"
+3742,2014-11-14,2014-11-26,Sara,Young,FEMALE,"George Henderson","No Commission","ACCOMMODATION RECONSTRUCTION","Midwest","CLOSED",Illinois,"PNM-002","Non Urgent","Company HQ","Written"
+3758,2014-11-27,2014-12-05,Janet,Ford,FEMALE,"John Edwards","Bonus Based","UPDATE REQUEST","West","CLOSED",California,"BNM-030","Non Urgent","Company HQ","Fax"
+3769,2014-12-02,2015-02-17,George,Coleman,MALE,"Fred Riley","Comm-4","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",Washington,"OOT-061","Non Urgent","Bank Branch","Written"
+3772,2014-12-02,2014-12-17,Emily,Torres,FEMALE,"Jonathan Adams","Comm-8","CONTRACT-MAINTENANCE DEVELOPMENT","Midwest","CLOSED",Illinois,"HOC-064","Non Urgent","Company HQ","Fax"
+3774,2014-12-03,2014-12-22,Juan,Sanders,MALE,"Bobby Garza","Comm-9","POOR SERVICE","West","CLOSED",Utah,"HOC-055","Non Urgent","Bank Branch","In person"
+3775,2014-12-03,2014-12-04,Raymond,Mason,MALE,"Larry Marshall","Comm-6","POWER FOR PRESENTATION OR WRONG","West","CLOSED",Arizona,"HOC-054","Non Urgent","Company HQ","Email"
+3778,2014-12-04,2014-12-05,Peter,Burke,MALE,"William Warren","Comm-2","POOR SERVICE","West","CLOSED",California,"BNM-040","Non Urgent","Company HQ","Phone"
+3779,2014-12-04,2014-12-19,Cynthia,Carter,FEMALE,"Jimmy Nelson","Comm-9","DISCLAIMER OF DISMISSAL","Midwest","CLOSED",Illinois,"CAP-069","Non Urgent","Company HQ","Court Order"
+3784,2014-12-05,2015-02-03,Shawn,Carpenter,MALE,"Lawrence Palmer","Comm-2","RESEARCH REQUEST","South","CLOSED",Alabama,"CAS-015","Non Urgent","Company HQ","Written"
+3788,2014-12-08,2015-01-15,Angela,Ellis,FEMALE,"James Reid","Bonus Based","POOR INFORMATION (BEFORE OR WITH THE SALE)","Northeast","CLOSED","New York","CAS-017","Non Urgent","Company HQ","Written"
+3794,2014-12-09,2015-01-02,Timothy,Castillo,MALE,"Harold Rogers","Comm-2","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Illinois,"CAS-018","Non Urgent","Bank Branch","Written"
+3800,2014-12-10,2014-12-16,Judith,Jordan,FEMALE,"Mark Turner","Comm-9","UPDATE REQUEST","Midwest","CLOSED",Indiana,"HOC-052","Non Urgent","Company HQ","Email"
+3808,2014-12-15,2015-01-09,Fred,Clark,MALE,"David Hall","Comm-6","UPDATE REQUEST","Midwest","CLOSED",Illinois,"HHC-078","Non Urgent","Company HQ","Fax"
+3810,2014-12-15,2015-03-27,Judith,Wagner,FEMALE,"Harry Reynolds","Comm-5","UPDATE REQUEST","South","CLOSED",Texas,"HOC-049","Non Urgent","Company HQ","Written"
+3811,2014-12-16,2014-12-19,Ernest,White,MALE,"Lawrence Howell","Comm-7","UPDATE REQUEST","Midwest","CLOSED",Illinois,"HOC-048","Non Urgent","Company HQ","Email"
+3815,2014-12-16,2015-01-02,Laura,Andrews,FEMALE,"Keith Pierce","Comm-7","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"CAS-012","Non Urgent","Bank Branch","In person"
+3820,2014-12-18,2015-01-02,Alan,Andrews,MALE,"Ralph Wright","Comm-9","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",California,"MOT-011","Non Urgent","Company HQ","Written"
+3824,2014-12-18,2015-01-07,Matthew,Sanders,MALE,"Eugene Holmes","Bonus Based","POOR SERVICE","Northeast","CLOSED","New Jersey","MOT-011","Non Urgent","Company HQ","Email"
+3830,2014-12-23,2015-01-09,Benjamin,Armstrong,MALE,"Gregory Gonzalez","Bonus Based","POOR SERVICE","South","CLOSED",Virginia,"BNM-039","Non Urgent","Company HQ","Written"
+3831,2014-12-23,2014-12-23,Keith,Harvey,MALE,"Ryan Black","Comm-2","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",Idaho,"HOC-047","Non Urgent","Bank Branch","In person"
+3832,2014-12-23,2014-12-23,Louise,Reyes,FEMALE,"Justin Reid","Bonus Based","POWER FOR PRESENTATION OR WRONG","South","CLOSED","North Carolina","FPT-060","Non Urgent","Bank Branch","In person"
+3839,2014-12-29,2015-01-02,Denise,Ward,FEMALE,"Charles Rice","Comm-8","USE OF OTHER / OTHER EXPENSES","West","CLOSED",California,"CAS-077","Non Urgent","Bank Branch","In person"
+3842,2014-12-29,2015-02-06,Ruby,Simpson,FEMALE,"Samuel Lewis","Bonus Based","DISCLAIMER OF DISMISSAL","South","CLOSED",Florida,"LOL-046","Non Urgent","Company HQ","Written"
+3846,2014-12-22,2015-02-02,Lillian,Holmes,FEMALE,"Randy Morgan","Comm-8","DISCLAIMER OF DISMISSAL","South","CLOSED",Texas,"CAS-075","Non Urgent","Bank Branch","In person"
+3851,2015-01-05,2015-02-24,Doris,Vasquez,FEMALE,"John Martin","No Commission","CONTRACT-MAINTENANCE DEVELOPMENT","South","CLOSED",Texas,"HHC-057","Non Urgent","Company HQ","Email"
+3857,2015-01-08,2015-02-06,Kathryn,Gordon,FEMALE,"Christopher Jenkins","Comm-2","REGISTRATION FORM OF REGISTRATION","Midwest","CLOSED",Illinois,"PNM-002","Non Urgent","Company HQ","Written"
+3858,2015-01-09,2015-03-06,Sharon,Gonzales,FEMALE,"Steven Long","Bonus Based","UPDATE REQUEST","Northeast","CLOSED","New York","HOC-049","Non Urgent","Bank Branch","Written"
+3861,2015-01-05,2015-01-14,Gary,Bowman,MALE,"Louis Reyes","Comm-9","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Florida,"BNM-035","Non Urgent","Bank Branch","Written"
+3862,2015-01-12,2015-01-26,Robin,Fuller,FEMALE,"Eric Morrison","Bonus Based","UPDATE REQUEST","West","CLOSED",California,"CAP-068","Non Urgent","Bank Branch","Written"
+3866,2015-01-05,2015-06-26,Gerald,Martinez,MALE,"Larry Schmidt","No Commission","POOR SERVICE","West","CLOSED",California,"MOT-011","Non Urgent","Company HQ","Email"
+3872,2015-01-15,2015-03-11,Kathleen,Morris,FEMALE,"Craig Ford","Comm-8","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",Idaho,"LBL-043","Non Urgent","Bank Branch","Phone"
+3881,2015-01-16,2015-02-26,Roger,Fuller,MALE,"Keith Welch","Comm-8","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED","New York","CAP-026","Non Urgent","CRO","Email"
+3883,2015-01-16,2015-01-20,Larry,Elliott,MALE,"Benjamin Kennedy","Comm-2","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Illinois,"CAP-071","Non Urgent","Company HQ","Email"
+3888,2015-01-16,2015-01-16,Janet,Sullivan,FEMALE,"Justin Myers","Comm-5","POOR SERVICE","West","CLOSED",California,"LBL-045","Non Urgent","Company HQ","Email"
+3889,2015-01-19,2015-02-06,Janet,Greene,FEMALE,"Henry Arnold","Comm-7","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Oklahoma,"BMB-042","Non Urgent","Bank Branch","In person"
+3893,2015-01-16,2015-02-27,Carol,Reid,FEMALE,"Jimmy Palmer","Comm-5","POOR SERVICE","Northeast","CLOSED","New York","CAP-070","Non Urgent","Company HQ","Email"
+3895,2015-01-19,2015-02-11,Kimberly,Thomas,FEMALE,"Bruce Wallace","No Commission","POOR SERVICE","Northeast","CLOSED","New York","PNM-002","Non Urgent","Company HQ","Email"
+3899,2015-01-20,2015-02-03,Paul,Sullivan,MALE,"Russell Fox","Bonus Based","CONCLUSION HELLIPIS SERVICE FROM EXECUTIVE / EXTERNAL COOPERATIVE","Midwest","CLOSED",Missouri,"CAS-072","Non Urgent","Company HQ","Email"
+3901,2015-01-16,2015-01-23,"Deseret ",,,"Peter Day","Comm-3","USE OF OTHER / OTHER EXPENSES","Midwest","CLOSED",Wisconsin,"MOT-009","Non Urgent","Bank Branch","Written"
+3905,2015-01-21,2015-03-30,Rebecca,Graham,FEMALE,"Frank West","No Commission","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Northeast","CLOSED","New Jersey","BNM-038","Non Urgent","Company HQ","Email"
+3911,2015-01-23,2015-02-04,Kelly,Hansen,FEMALE,"Alan Owens","Comm-4","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Florida,"CAP-024","Non Urgent","Company HQ","Email"
+3912,2015-01-23,2015-01-28,Denise,Butler,FEMALE,"Gregory Perez","Comm-3","DETERMINATION OF ANSWER TO BLOOD, QUESTION, SOLIDARITY","Midwest","CLOSED",Indiana,"HOC-047","Non Urgent","CRO","Phone"
+3914,2015-01-23,2015-02-10,Philip,Duncan,MALE,"Matthew Rivera","Comm-2","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Northeast","CLOSED",Connecticut,"HHC-057","Non Urgent","CRO","Written"
+3919,2015-01-27,2015-01-30,Harry,Cruz,MALE,"Michael Ferguson","No Commission","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Maryland,"CAS-014","Non Urgent","Bank Branch","Email"
+3923,2015-01-27,2015-02-02,Barbara,Reynolds,FEMALE,"George Olson","Comm-3","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Florida,"CAS-021","Non Urgent","Bank Branch","In person"
+3926,2015-01-29,2015-02-20,Louis,Schmidt,MALE,"Samuel Green","Comm-4","UPDATE REQUEST","West","CLOSED",Utah,"CAS-067","Non Urgent","Company HQ","Written"
+3927,2015-01-30,2015-02-24,Bonnie,Gutierrez,FEMALE,"Jeremy Mendoza","Comm-2","POWER FOR PRESENTATION OR WRONG","West","CLOSED","New Mexico","HOC-048","Non Urgent","Bank Branch","In person"
+3929,2015-01-30,2015-04-23,Harold,Williams,MALE,"David Cox","Comm-9","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Texas,"HOC-051","Non Urgent","Bank Branch","Written"
+3953,2015-02-02,2015-02-12,Richard,Peters,MALE,"Anthony Bowman","Bonus Based","DISCLAIMER OF DISMISSAL","Northeast","CLOSED","New York","CAS-014","Non Urgent","Company HQ","Court Order"
+3957,2015-02-05,2015-02-10,Harry,Arnold,MALE,"Bobby Russell","Comm-2","SELF-DETERMINED EXPRESSION OF INSURANCE","Midwest","CLOSED",Michigan,"HHC-057","Non Urgent","Company HQ","Email"
+3962,2015-02-05,2015-03-11,Brandon,Garza,MALE,"Phillip Fuller","Comm-2","UPDATE REQUEST","West","CLOSED",California,"CAS-021","Non Urgent","Company HQ","Written"
+3971,2015-02-06,2015-02-20,Jack,Stanley,MALE,"John Owens","Comm-6","UPDATE REQUEST","West","CLOSED",Washington,"BNM-073","Non Urgent","Company HQ","Written"
+3975,2015-02-09,2015-02-26,Margaret,Meyer,FEMALE,"Keith Hernandez","No Commission","POWER FOR PRESENTATION OR WRONG","South","CLOSED",Texas,"PNM-002","Non Urgent","Company HQ","Email"
+3981,2015-02-09,2015-02-25,Adam,Simmons,MALE,"Benjamin Sullivan","Comm-7","POOR SERVICE","South","CLOSED",Florida,"CAP-070","Non Urgent","Company HQ","Written"
+3983,2015-02-10,2015-02-17,Nicholas,Rose,MALE,"Matthew Shaw","No Commission","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Ohio,"BNM-073","Non Urgent","Company HQ","Email"
+3992,2015-02-11,2015-03-10,George,Gibson,MALE,"Joshua Garrett","Comm-4","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Northeast","CLOSED","New York","CAS-076","Non Urgent","Bank Branch","Written"
+3997,2015-02-11,2015-02-18,John,Ellis,MALE,"Adam Stevens","Comm-2","CONTRACT-MAINTENANCE DEVELOPMENT","Midwest","CLOSED",Kansas,"BNM-031","Non Urgent","Company HQ","Written"
+4004,2015-02-12,2015-02-24,Cheryl,Garcia,FEMALE,"Howard Wright","Comm-7","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Iowa,"LBL-044","Non Urgent","Bank Branch","Written"
+4011,2015-02-16,2015-03-13,Edward,White,MALE,"Roy Perez","No Commission","DISCLAIMER OF DISMISSAL","West","CLOSED",California,"HHC-058","Urgent","Company HQ","Written"
+4020,2015-02-17,2015-04-28,Fred,Grant,MALE,"Martin Carr","No Commission","POOR INFORMATION (BEFORE OR WITH THE SALE)","South","CLOSED",Texas,"CAS-066","Non Urgent","CRO","Written"
+4023,2015-02-17,2015-03-10,Edward,Sims,MALE,"Walter Lawrence","Comm-5","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Northeast","CLOSED",Connecticut,"CAS-017","Non Urgent","Company HQ","Written"
+4025,2015-02-18,2015-02-26,Rachel,Peters,FEMALE,"Joseph Stone","Comm-2","UPDATE REQUEST","South","CLOSED",Texas,"CAS-021","Non Urgent","Company HQ","Email"
+4026,2015-02-18,2015-02-20,Julie,Bowman,FEMALE,"David Hall","Comm-6","SECURITY CONTRACT AGENCY SAINT","Midwest","CLOSED",Missouri,"LBL-043","Non Urgent","Company HQ","Phone"
+4032,2015-02-18,2015-03-09,Scott,Ramirez,MALE,"Jonathan Owens","Comm-9","UPDATE REQUEST","South","CLOSED",Maryland,"HOC-050","Non Urgent","Company HQ","Email"
+4035,2015-02-16,2015-02-19,Donald,Ward,MALE,"Louis Burton","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Iowa,"FPT-060","Non Urgent","Company HQ","Email"
+4038,2015-02-19,2015-03-03,Katherine,Morgan,FEMALE,"Steve Henry","Comm-9","MODIFICATION REQUEST","South","CLOSED",Virginia,"CAS-013","Non Urgent","Company HQ","Written"
+4040,2015-02-19,2015-03-20,Nicole,Nichols,FEMALE,"Patrick Hansen","Bonus Based","DIFFERENCES IN PRICE POLITICS","South","CLOSED","North Carolina","BNM-030","Non Urgent","Company HQ","Written"
+4042,2015-02-20,2015-03-19,Edward,Carpenter,MALE,"Kevin Johnson","Comm-2","SELF-DETERMINED EXPRESSION OF INSURANCE","Midwest","CLOSED",Illinois,"CAP-024","Non Urgent","Company HQ","Email"
+4046,2015-02-20,2015-02-27,Betty,Shaw,FEMALE,"Justin Robinson","Comm-3","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"CAS-012","Non Urgent","Company HQ","Written"
+4049,2015-02-24,2015-03-09,Larry,Marshall,MALE,"Albert Crawford","Comm-8","UPDATE REQUEST","Midwest","CLOSED",Illinois,"BMB-042","Non Urgent","Company HQ","Email"
+4053,2015-02-25,2015-03-30,Jennifer,Johnson,FEMALE,"Philip Gonzales","No Commission","CONTRACT-MAINTENANCE DEVELOPMENT","South","CLOSED",Arkansas,"BNM-041","Non Urgent","Company HQ","Fax"
+4061,2015-02-08,2015-03-12,Amy,Snyder,FEMALE,"Dennis Bishop","Comm-2","POWER FOR PRESENTATION OR WRONG","Northeast","CLOSED",Connecticut,"CAP-070","Non Urgent","Company HQ","Email"
+4062,2015-02-27,2015-03-30,Larry,Simpson,MALE,"Thomas Meyer","Bonus Based","DISCLAIMER OF DISMISSAL","South","CLOSED",Mississippi,"HOC-054","Non Urgent","Company HQ","Email"
+4071,2015-03-02,2015-03-06,Randy,Lynch,MALE,"Aaron Morales","Comm-2","POWER FOR PRESENTATION OR WRONG","Midwest","CLOSED",Michigan,"CAP-023","Non Urgent","Company HQ","Written"
+4073,2015-03-03,2015-03-04,Janet,Rogers,FEMALE,"Willie Hudson","Comm-2","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Minnesota,"CAP-024","Non Urgent","Bank HQ","Email"
+4074,2015-03-02,2015-03-04,Scott,Garcia,MALE,"Ralph Green","Comm-3","POOR SERVICE","Midwest","CLOSED",Illinois,"HHC-063","Non Urgent","Partner","Email"
+4075,2015-03-03,2015-03-18,Jeremy,Williamson,MALE,"Daniel Stone","Comm-3","POOR SERVICE","Midwest","CLOSED",Illinois,"PNM-001","Non Urgent","Company HQ","Email"
+4078,2015-03-03,2015-04-07,Paula,Flores,FEMALE,"Ryan Black","Comm-2","POWER FOR PRESENTATION OR WRONG","West","CLOSED",California,"CAP-068","Non Urgent","Company HQ","Fax"
+4082,2015-03-04,2015-03-19,Jesse,Flores,MALE,"Gary Wagner","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Northeast","CLOSED","New York","HOC-056","Non Urgent","CRO","Email"
+4085,2015-03-04,2015-03-20,Lori,Bowman,FEMALE,"Kevin Wagner","Bonus Based","DIFFERENCES IN PRICE POLITICS","Northeast","CLOSED",Massachusetts,"CAP-026","Non Urgent","Bank Branch","Written"
+4090,2015-03-05,2015-03-05,Victor,Watkins,MALE,"Frank Owens","Comm-7","REVIVAL REQUEST","South","CLOSED",Florida,"MOT-009","Non Urgent","Company HQ","Written"
+4093,2015-03-05,2015-03-18,Bobby,Boyd,MALE,"Gerald Edwards","Comm-6","POOR SERVICE","Midwest","CLOSED",Illinois,"HOC-050","Non Urgent","Company HQ","Phone"
+4100,2015-03-05,2015-04-20,Samuel,Stephens,MALE,"Ronald Flores","Comm-5","POOR SERVICE","West","CLOSED",California,"MMP-006","Non Urgent","Company HQ","Email"
+4103,2015-03-06,2015-03-11,Nancy,Owens,FEMALE,"Johnny Gonzalez","Bonus Based","MODIFICATION REQUEST","Midwest","CLOSED",Illinois,"CAP-071","Non Urgent","Company HQ","Email"
+4104,2015-03-09,2015-04-06,Frank,Fuller,MALE,"Raymond Wood","Comm-3","UPDATE REQUEST","South","CLOSED",Texas,"CAS-067","Non Urgent","Bank Branch","Email"
+4108,2015-03-10,2015-04-06,Julia,Hughes,FEMALE,"Robert Palmer","Comm-7","DISCLAIMER OF DISMISSAL","South","CLOSED",Louisiana,"HOC-052","Non Urgent","Company HQ","Fax"
+4111,2015-03-09,2015-05-08,Joyce,Webb,FEMALE,"Ernest Ruiz","Comm-2","POOR INFORMATION (BEFORE OR WITH THE SALE)","West","CLOSED",California,"HOC-053","Non Urgent","Company HQ","Written"
+4112,2015-03-09,2015-03-10,Larry,Jones,MALE,"Thomas Stanley","Bonus Based","UPDATE REQUEST","Northeast","CLOSED","New Jersey","OOT-061","Non Urgent","Company HQ","Email"
+4115,2015-03-10,2015-04-29,Robin,Myers,FEMALE,"John Owens","Comm-6","APPLICATION REQUEST","Northeast","CLOSED","New York","CAS-077","Non Urgent","Company HQ","Fax"
+4119,2015-03-10,2015-03-13,Kimberly,Murray,FEMALE,"David Cox","Comm-9","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","South","CLOSED",Virginia,"BMB-042","Non Urgent","Bank Branch","In person"
+4120,2015-03-11,2015-03-31,Nicholas,Black,MALE,"Keith Kim","No Commission","PAYMENT POLICY","South","CLOSED",Florida,"HOC-053","Non Urgent","Company HQ","Written"
+4122,2015-03-11,2015-04-06,Kenneth,Holmes,MALE,"Justin Myers","Comm-5","MODIFICATION REQUEST","West","CLOSED",California,"LBL-045","Non Urgent","Company HQ","Written"
+4134,2015-03-16,2015-03-26,Kathryn,Perry,FEMALE,"Steve George","Comm-5","POOR SERVICE","Midwest","CLOSED",Wisconsin,"HOC-056","Non Urgent","Company HQ","Email"
+4135,2015-03-16,2015-04-20,Ashley,Peterson,FEMALE,"Arthur Rogers","Comm-4","DIFFERENCES IN PRICE POLITICS","South","CLOSED",Texas,"MOT-011","Non Urgent","Company HQ","Email"
+4136,2015-03-16,2015-04-06,Ruby,Simpson,FEMALE,"Jimmy Palmer","Comm-5","CERTIFICATE OF CONTENTS","South","CLOSED",Florida,"HOC-055","Non Urgent","Company HQ","Fax"
+4137,2015-03-17,2015-03-19,Laura,Hansen,FEMALE,"Mark Carter","Comm-4","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","West","CLOSED",California,"CAS-020","Non Urgent","CRO","Phone"
+4138,2015-03-17,2015-03-30,Peter,Montgomery,MALE,"Antonio Morales","Comm-2","CONTRACT-MAINTENANCE DEVELOPMENT","Northeast","CLOSED","New York","CAS-067","Non Urgent","Company HQ","Email"
+4147,2015-03-19,2015-03-19,Peter,Roberts,MALE,"Johnny Gonzalez","Bonus Based","DISCLAIMER / DETERMINATION OF COMPLETION OF ANOTHER COMPANY CONTENT","Midwest","CLOSED",Minnesota,"MOT-011","Non Urgent","Bank Branch","In person"
+4153,2015-03-23,2015-04-09,Cheryl,Howard,FEMALE,"Ryan Black","Comm-2","POOR SERVICE","West","CLOSED",California,"MMP-005","Non Urgent","Company HQ","Fax"
+4157,2015-03-23,2015-03-26,Ernest,Bishop,MALE,"Robert Oliver","Comm-8","UPDATE REQUEST","Midwest","CLOSED",Ohio,"LBL-045","Non Urgent","Company HQ","Email"
